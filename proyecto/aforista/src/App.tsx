@@ -1,13 +1,14 @@
 import { useState } from 'react'
+import Start from './components/start'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-      <p className="bg-red-500">
-      Hola mundo!
-      </p>
+    	<div>
+    	 	<Start/>
+    	</div>
     </>
   )
 }

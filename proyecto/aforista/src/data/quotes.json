@@ -1,0 +1,969 @@
+[
+    {
+        "id":1,
+        "author": "Blaise Pascal",
+        "quote": "La grandeza de un hombre está en reconocer su propia pequeñez."
+    },
+
+    {
+        "id": 2,
+        "author": "Blaise Pascal",
+        "quote": "La justicia sobre la fuerza es la impotencia, la fuerza sin justicia es tiranía"
+    },
+
+    {
+        "id": 3,
+        "author": "Blaise Pascal",
+        "quote": "Dos excesos: excluir la razón, no admitir más que la razón"
+    },
+
+    {
+        "id": 4,
+        "author": "Blaise Pascal",
+        "quote": "El hombre tiene ilusiones como el pájaro alas. Eso es lo que lo sostiene"
+    },
+
+    {
+        "id": 5,
+        "author": "Blaise Pascal",
+        "quote": "A fuerza de hablar de amor, uno llega a enamorarse"
+    },
+
+    {
+        "id": 6,
+        "author": "Blaise Pascal",
+        "quote": "¿De qué le sirve al hombre ganar el mundo si pierde su alma?"
+    },
+
+    {
+        "id": 7,
+        "author": "Blaise Pascal",
+        "quote": "Aquel que duda y no investiga, se torna no sólo infeliz, sino también injusto"
+    },
+
+    {
+        "id": 8,
+        "author": "Blaise Pascal",
+        "quote": "El rey está rodeado de gentes que no piensan sino en divertirlo y en impedir que piense en sí mismo. Porque, por muy rey que sea, es desgraciado si piensa en ello."
+    },
+
+    {
+        "id": 9,
+        "author": "Blaise Pascal",
+        "quote": "Descripción del hombre: dependencia, deseo de independencia, necesidad."
+    },
+
+    {
+        "id": 10,
+        "author": "Blaise Pascal",
+        "quote": "En las religiones es preciso ser sinceros; verdaderos paganos, verdaderos judíos, verdaderos cristianos"
+    },
+
+    {
+        "id": 11,
+        "author": "Blaise Pascal",
+        "quote": "¿Quién se siente desgraciado por no ser rey, sino un rey destronado?"
+    },
+
+    {
+        "id": 12,
+        "author": "Blaise Pascal",
+        "quote": "La moral es la ciencia por excelencia; es el arte de vivir bien y de ser dichoso"
+    },
+
+    {
+        "id": 13,
+        "author": "Blaise Pascal",
+        "quote": "El que cree tener razón entre todas las cosas, la razón de las cosas desconoce"
+    },
+
+    {
+        "id": 14,
+        "author": "Blaise Pascal",
+        "quote": "La conciencia es el mejor libro moral que tenemos"
+    },
+
+    {
+        "id": 15,
+        "author": "Blaise Pascal",
+        "quote": "La reina del mundo es la fuerza y no la opinión; pero es la opinión la que usa la fuerza"
+    },
+
+    {
+        "id": 16,
+        "author": "Blaise Pascal",
+        "quote": "Nuestra naturaleza está en movimiento. El reposo absoluto es la muerte"
+    },
+
+    {
+        "id": 17,
+        "author": "Blaise Pascal",
+        "quote": "Estando siempre dispuestos a ser felices, es inevitable no serlo alguna vez"
+    },
+
+    {
+        "id": 18,
+        "author": "Blaise Pascal",
+        "quote": "La razón obra con lentitud, y con tantas miras, sobre tantos principios, que a cada momento se adormece o extravía. La pasión obra en un instante"
+    },
+
+    {
+        "id": 19,
+        "author": "Blaise Pascal",
+        "quote": "Ni la contradicción es indicio de falsedad, ni la falta de contradicción es indicio de verdad"
+    },
+
+    {
+        "id": 20,
+        "author": "Blaise Pascal",
+        "quote": "No vivimos nunca, sino que esperamos vivir; y disponiéndonos siempre a ser felices, es inevitable que no lo seamos nunca"
+    },
+
+    {
+        "id": 21,
+        "author": "Platón",
+        "quote": "No son los ojos los que ven, sino lo que nosotros vemos por medio de los ojos"
+    },
+
+    {
+        "id": 22,
+        "author": "Platón",
+        "quote": "El hombre sabio querrá estar siempre con el que es mejor que él"
+    },
+
+    {
+        "id": 23,
+        "author": "Platón",
+        "quote": "Debemos buscar para nuestros males una causa que no sea Dios"
+    },
+
+    {
+        "id": 24,
+        "author": "Platón",
+        "quote": "Ninguna causa humana merece tal ansiedad"
+    },
+
+    {
+        "id": 25,
+        "author": "Platón",
+        "quote": "Buscando el bien de nuestros semejantes encontraremos el nuestro"
+    },
+
+    {
+        "id": 26,
+        "author": "Platón",
+        "quote": "De noche, especialmente, es hermoso creer en la luz"
+    },
+
+    {
+        "id": 27,
+        "author": "Platón",
+        "quote": "El objetivo de la educación es la virtud y la meta de convertirse en un buen ciudadano"
+    },
+
+    {
+        "id": 28,
+        "author": "Platón",
+        "quote": "Existen tres clases de hombres: amantes de la sabiduría, amantes del honor, y amantes de la ganancia"
+    },
+
+    {
+        "id": 29,
+        "author": "Platón",
+        "quote": "El amor es sentir que el ser sagrado late dentro del ser querido"
+    },
+
+    {
+        "id": 30,
+        "author": "Platón",
+        "quote": "Los estados son como los hombres, nacen de sus mismos rasgos"
+    },
+
+    {
+        "id": 31,
+        "author": "Platón",
+        "quote": "Las piedras más grandes no pueden quedar bien asentadas sin contar con las más pequeñas"
+    },
+
+    {
+        "id": 32,
+        "author": "Platón",
+        "quote": "La honestidad suele generar menos ganancias que la mentira"
+    },
+
+    {
+        "id": 33,
+        "author": "Platón",
+        "quote": "Nunca hay desanimar a nadie que continuamente hace progresos, no importa lo lento que vaya"
+    },
+
+    {
+        "id": 34,
+        "author": "Platón",
+        "quote": "Cualquier hombre puede fácilmente hacer daño, pero no todos los hombres pueden hacer el bien a otro"
+    },
+
+    {
+        "id": 35,
+        "author": "Platón",
+        "quote": "El hombre inteligente habla con autoridad cuando dirige su propia vida"
+    },
+
+    {
+        "id": 36,
+        "author": "Platón",
+        "quote": "Las buenas acciones nos dan fuerza a nosotros mismos e inspiran las buenas acciones de los demás"
+    },
+
+    {
+        "id": 37,
+        "author": "Platón",
+        "quote": "Cuando un hombre no se sacrifica por sus ideas, o no valen nada estas o no vale nada el hombre"
+    },
+
+    {
+        "id": 38,
+        "author": "Platón",
+        "quote": "Si el semblante de la virtud pudiera verse, enamoraría a todos"
+    },
+
+    {
+        "id": 39,
+        "author": "Platón",
+        "quote": "Podemos perdonar fácilmente a un niño que tiene miedo de la oscuridad; la verdadera tragedia de la vida es cuando los hombres tienen miedo de la luz"
+    },
+
+    {
+        "id": 40,
+        "author": "Platón",
+        "quote": "Cuando una multitud ejerce la autoridad, es más cruel aún que los tiranos"
+    },
+
+    {
+        "id": 41,
+        "author": "Aristóteles",
+        "quote": "La amistad es un alma que habita en dos cuerpos; un corazón que habita en dos almas"
+    },
+
+    {
+        "id": 42,
+        "author": "Aristóteles",
+        "quote": "La finalidad del arte es dar cuerpo a la esencia secreta de las cosas, no el copiar su apariencia"
+    },
+
+    {
+        "id": 43,
+        "author": "Aristóteles",
+        "quote": "Sólo hay felicidad donde hay virtud y esfuerzo serio, pues la vida no es un juego"
+    },
+
+    {
+        "id": 44,
+        "author": "Aristóteles",
+        "quote": "La única señal exclusiva de conocimiento profundo es el poder de enseñar"
+    },
+
+    {
+        "id": 45,
+        "author": "Aristóteles",
+        "quote": "La meta de los sabios no es asegurar el placer, sino evitar el dolor"
+    },
+
+    {
+        "id": 46,
+        "author": "Aristóteles",
+        "quote": "Adquirimos una cualidad particular al actuar de una forma particular"
+    },
+
+    {
+        "id": 47,
+        "author": "Aristóteles",
+        "quote": "La finalidad del arte es dar cuerpo a la esencia secreta de las cosas, no el copiar su apariencia"
+    },
+
+    {
+        "id": 48,
+        "author": "Aristóteles",
+        "quote": "Algunos creen que para ser amigos basta con querer, como si para estar sano bastara con desear la salud"
+    },
+
+    {
+        "id": 49,
+        "author": "Aristóteles",
+        "quote": "Quien no es un buen seguidor no puede ser un buen líder"
+    },
+
+    {
+        "id": 50,
+        "author": "Aristóteles",
+        "quote": "Adquirir desde jóvenes tales o cuales hábitos no tiene poca importancia: tiene una importancia absoluta"
+    },
+
+    {
+        "id": 51,
+        "author": "Aristóteles",
+        "quote": "Un buen estilo debe tener un aire de novedad y al mismo tiempo ocultar su arte"
+    },
+
+    {
+        "id": 52,
+        "author": "Aristóteles",
+        "quote": "Los que obran bien son los únicos que pueden aspirar en la vida a la felicidad"
+    },
+
+    {
+        "id": 53,
+        "author": "Aristóteles",
+        "quote": "El hombre nada puede aprender sino en virtud de lo que sabe"
+    },
+
+    {
+        "id": 54,
+        "author": "Aristóteles",
+        "quote": "Cuento como más valiente al que supera sus deseos que al que supera a sus enemigos"
+    },
+
+    {
+        "id": 55,
+        "author": "Aristóteles",
+        "quote": "Se quiere más aquello que se ha conseguido con muchas fatigas"
+    },
+
+    {
+        "id": 56,
+        "author": "Aristóteles",
+        "quote": "Es preciso que la filosofía sea un saber especial, de los primeros principios y de las primeras causas"
+    },
+
+    {
+        "id": 57,
+        "author": "Aristóteles",
+        "quote": "Considero más valiente al que conquista sus deseos que al que conquista a sus enemigos, ya que la victoria más dura es la victoria sobre uno mismo"
+    },
+
+    {
+        "id": 58,
+        "author": "Aristóteles",
+        "quote": "La felicidad es el significado y propósito de la vida, la meta general y final de la existencia humana"
+    },
+
+    {
+        "id": 59,
+        "author": "Aristóteles",
+        "quote": "Lo mejor es salir de la vida como de una fiesta, ni sediento ni bebido"
+    },
+
+    {
+        "id": 60,
+        "author": "Aristóteles",
+        "quote": "En la pobreza y otras desgracias de la vida, los verdaderos amigos son un refugio seguro"
+    },
+    
+    {
+        "id": 61,
+        "author": "Arthur Schopenhauer",
+        "quote": "La vida es un anhelo opaco y un tormento"
+    },
+
+    {
+        "id": 62,
+        "author": "Arthur Schopenhauer",
+        "quote": "El joven debe, tempranamente, estar capacitado para soportar estar solo; ya que es una fuente de felicidad y de paz mental"
+    },
+
+    {
+        "id": 63,
+        "author": "Arthur Schopenhauer",
+        "quote": "Los hombres son por naturaleza meramente indiferentes unos de otros; pero las mujeres son enemigas por naturaleza"
+    },
+
+    {
+        "id": 64,
+        "author": "Arthur Schopenhauer",
+        "quote": "El optimismo no es más que la autoalabanza injustificada del verdadero creador del mundo, es decir de la voluntad de vivir, la cual se mira complacida en su propia obra: de ahí que sea no sólo una doctrina falsa, sino incluso perniciosa"
+    },
+
+    {
+        "id": 65,
+        "author": "Arthur Schopenhauer",
+        "quote": "Los mejores, más variados y duraderos placeres, son los de la mente"
+    },
+
+    {
+        "id": 66,
+        "author": "Arthur Schopenhauer",
+        "quote": "El que no disfruta de la soledad, no amará a la libertad"
+    },
+
+    {
+        "id": 67,
+        "author": "Arthur Schopenhauer",
+        "quote": "El hombre es el único animal que causa dolor a otros sin más objeto que querer hacerlo"
+    },
+
+    {
+        "id": 68,
+        "author": "Arthur Schopenhauer",
+        "quote": "La vida sin dolor no tiene sentido"
+    },
+
+    {
+        "id": 69,
+        "author": "Arthur Schopenhauer",
+        "quote": "Las religiones son como las luciérnagas. Necesitan de la oscuridad para brillar"
+    },
+
+    {
+        "id": 70,
+        "author": "Arthur Schopenhauer",
+        "quote": "La riqueza es como el agua del mar; cuanto más bebemos, más sedientos nos volvemos; lo mismo sucede con la fama"
+    },
+
+    {
+        "id": 71,
+        "author": "Arthur Schopenhauer",
+        "quote": "La compasión es la base de la moralidad"
+    },
+
+    {
+        "id": 72,
+        "author": "Arthur Schopenhauer",
+        "quote": "La vida es un constante proceso de agonía"
+    },
+
+    {
+        "id": 73,
+        "author": "Arthur Schopenhauer",
+        "quote": "Cada genio es un gran niño; mira hacia el mundo como algo extraño, como un espectáculo, y por lo tanto con un interés puramente objetivo"
+    },
+
+    {
+        "id": 74,
+        "author": "Arthur Schopenhauer",
+        "quote": "El patriotismo es la pasión de los tontos y la más tonta de las pasiones"
+    },
+
+    {
+        "id": 75,
+        "author": "Arthur Schopenhauer",
+        "quote": "Un hombre puede ser él mismo sólo mientras está solo"
+    },
+
+    {
+        "id": 76,
+        "author": "Arthur Schopenhauer",
+        "quote": "Un pesimista es un optimista en plena posesión de los hechos"
+    },
+
+    {
+        "id": 77,
+        "author": "Arthur Schopenhauer",
+        "quote": "El hombre no debe compasión a los animales, sino justicia"
+    },
+
+    {
+        "id": 78,
+        "author": "Arthur Schopenhauer",
+        "quote": "El hombre ha hecho de la Tierra un infierno para los animales"
+    },
+
+    {
+        "id": 79,
+        "author": "Arthur Schopenhauer",
+        "quote": "La necesidad de sociedad que brota del vacío y la monotonía de la vida de los hombres, los une; pero sus muchas cualidades desagradables y repulsivas y sus insufribles inconvenientes los apartan una vez más"
+    },
+
+    {
+        "id": 80,
+        "author": "Arthur Schopenhauer",
+        "quote": "Es dificil encontrar la felicidad dentro de uno mismo, pero es imposible encontrarla en otro lugar"
+    },
+
+    {
+        "id": 81,
+        "author": "Immanuel Kant",
+        "quote": "Se mide la inteligencia del individuo por la cantidad de incertidumbres que es capaz de soportar"
+    },
+
+    {
+        "id": 82,
+        "author": "Immanuel Kant",
+        "quote": "Todo nuestro conocimiento comienza con los sentidos, a continuación, procede a la comprensión, y termina con la razón. No hay nada más alto que la razón"
+    },
+
+    {
+        "id": 83,
+        "author": "Immanuel Kant",
+        "quote": "Reglas para la felicidad: algo que hacer, alguien a quien amar, algo que esperar"
+    },
+
+    {
+        "id": 84,
+        "author": "Immanuel Kant",
+        "quote": "No inviertas todo tu tiempo en un sólo esfuerzo, porque cada cosa requiere su tiempo"
+    },
+
+    {
+        "id": 85,
+        "author": "Immanuel Kant",
+        "quote": "Como el camino terreno está sembrado de espinas, Dios ha dado al hombre tres dones: la sonrisa, el sueño y la esperanza"
+    },
+
+    {
+        "id": 86,
+        "author": "Immanuel Kant",
+        "quote": "El sabio puede cambiar de opinión. El necio, nunca"
+    },
+
+    {
+        "id": 87,
+        "author": "Immanuel Kant",
+        "quote": "En las tinieblas la imaginación trabaja más activamente que en plena luz"
+    },
+
+    {
+        "id": 88,
+        "author": "Immanuel Kant",
+        "quote": "Lo único que es un fin en sí mismo es el hombre, nunca puede ser utilizado como medio"
+    },
+
+    {
+        "id": 89,
+        "author": "Immanuel Kant",
+        "quote": "Dormía y soñaba que la vida era bella; desperté y advertí que la vida era deber"
+    },
+
+    {
+        "id": 90,
+        "author": "Immanuel Kant",
+        "quote": "Con las piedras que con duro intento los críticos te lanzan, bien puedes erigirte un monumento"
+    },
+
+    {
+        "id": 91,
+        "author": "Immanuel Kant",
+        "quote": "La felicidad no es un ideal de la razón, sino de la imaginación"
+    },
+
+    {
+        "id": 92,
+        "author": "Immanuel Kant",
+        "quote": "Cuanto más ocupados estemos, más agudamente sentimos que vivimos, cuanto más conscientes somos de la vida"
+    },
+
+    {
+        "id": 93,
+        "author": "Immanuel Kant",
+        "quote": "Los pensamientos sin contenido son vacíos, las intuiciones sin conceptos son ciegas"
+    },
+
+    {
+        "id": 94,
+        "author": "Immanuel Kant",
+        "quote": "El espacio y el tiempo son el marco dentro del cual se ve limitada la mente para construir su experiencia de la realidad"
+    },
+
+    {
+        "id": 95,
+        "author": "Immanuel Kant",
+        "quote": "Tuve que negar el conocimiento con el fin de hacer espacio para la fe"
+    },
+
+    {
+        "id": 96,
+        "author": "Immanuel Kant",
+        "quote": "Obra de modo que la máxima de tu voluntad pueda ser en todo tiempo principio de una ley general"
+    },
+
+    {
+        "id": 97,
+        "author": "Immanuel Kant",
+        "quote": "Trata a las personas como un fin, nunca como un medio para un fin"
+    },
+
+    {
+        "id": 98,
+        "author": "Immanuel Kant",
+        "quote": "Sólo el iluminado, no tiene miedo de las sombras"
+    },
+
+    {
+        "id": 99,
+        "author": "Immanuel Kant",
+        "quote": "El que es cruel con los animales se vuelve duro también en sus relaciones con los hombres. Podemos juzgar el corazón de un hombre por su trato a los animales"
+    },
+
+    {
+        "id": 100,
+        "author": "Immanuel Kant",
+        "quote": "El derecho es el conjunto de condiciones que permiten a la libertad de cada uno acomodarse a la libertad de todos"
+    },
+
+    {
+        "id":101,
+        "author": "Rene Descartes",
+        "quote": "Todo lo complejo puede dividirse en partes simples"
+    },
+
+    {
+        "id":102,
+        "author": "Rene Descartes",
+        "quote": "Daría todo lo que sé por la mitad de lo que ignoro"
+    },
+
+    {
+        "id":103,
+        "author": "Rene Descartes",
+        "quote": "Sería absurdo que nosotros, cosas finitas, tratáramos de determinar las cosas infinitas"
+    },
+
+    {
+        "id":104,
+        "author": "Rene Descartes",
+        "quote": "La razón y el juicio es la única cosa que nos hace hombres y nos distingue de los animales"
+    },
+
+    {
+        "id":105,
+        "author": "Rene Descartes",
+        "quote": "Es prudente no fiarse por entero de quienes nos han engañado una vez"
+    },
+
+    {
+        "id":106,
+        "author": "Rene Descartes",
+        "quote": "Despréndete de todas las impresiones de los sentidos y de la imaginación y no te fíes sino de la razón" 
+    },
+
+    {
+        "id":107,
+        "author": "Rene Descartes",
+        "quote": "Vivir sin filosofar es, propiamente, tener los ojos cerrados sin tratar de abrirlos jamás"
+    },
+
+    {
+        "id":108,
+        "author": "Rene Descartes",
+        "quote": "Mejor que buscar la verdad sin método es no pensar nunca en ella, porque los estudios desordenados y las meditaciones oscuras turban las luces naturales de la razón y ciegan la inteligencia"
+    },
+
+    {
+        "id":109,
+        "author": "Rene Descartes",
+        "quote": "Un estado es mejor gobernado si tiene pocas leyes y esas leyes son minuciosamente observadas"
+    },
+
+    {
+        "id":110,
+        "author": "Rene Descartes",
+        "quote": "No hay alma, por poco noble que sea, que permanezca tan aferrada a los objetos de los sentidos que, a veces, no se aparte de ellos para desear un bien mayor"
+    },
+
+    {
+        "id":111,
+        "author": "Rene Descartes",
+        "quote": "Leer un libro enseña más que hablar con su autor, porque el autor, en el libro, solo ha puesto sus mejores pensamientos"
+    },
+
+    {
+        "id":112,
+        "author": "Rene Descartes",
+        "quote": "Para saber lo que la gente realmente piensa presta atención a lo que hacen en lugar de a lo que dicen"
+    },
+
+    {
+        "id":113,
+        "author": "Rene Descartes",
+        "quote": "Sentir no es otra cosa que pensar"
+    },
+
+    {
+        "id":114,
+        "author": "Rene Descartes",
+        "quote": "Dos cosas contribuyen a avanzar: ir más deprisa que los otros, o ir por el buen camino"
+    },
+
+    {
+        "id":115,
+        "author": "Rene Descartes",
+        "quote": "Mejor es modificar nuestros deseos que la ordenación del mundo"
+    },
+
+    {
+        "id":116,
+        "author": "Rene Descartes",
+        "quote": "He cometido todos los errores que se podían cometer y sin embargo nunca he dejado de esforzarme"
+    },
+
+    {
+        "id":117,
+        "author": "Rene Descartes",
+        "quote": "Mi objetivo no es enseñar el método que todo el mundo debería seguir para utilizar bien la razón, sino únicamente mostrar como he tratado de utilizar bien la mía"
+    },
+
+    {
+        "id":118,
+        "author": "Rene Descartes",
+        "quote": "El que emplea demasiado tiempo en viajar acaba siendo extranjero en su propio país"
+    },
+
+    {
+        "id":119,
+        "author": "Rene Descartes",
+        "quote": "Con frecuencia una falsa alegría vale más que una tristeza cuya causa es verdadera"
+    },
+
+    {
+        "id":120,
+        "author": "Rene Descartes",
+        "quote": "Los más generosos acostumbran a ser los más humildes"
+    },
+
+    {
+        "id":122,
+        "author":"Rene Descartes",
+        "quote": "La verdadera inteligencia consiste en descubrir la inteligencia ajena"
+    },
+
+    {
+        "id":123,
+        "author":"Rene Descartes",
+        "quote": "Nuestra idea de Dios implica la existencia necesaria y eterna. Por tanto, la conclusión manifiesta es que Dios existe"
+    },
+
+    {
+        "id":124,
+        "author":"Rene Descartes",
+        "quote": "La naturaleza aborrece el vacío"
+    },
+
+    {
+        "id":125,
+        "author":"Rene Descartes",
+        "quote": "Abrigamos una multitud de prejuicios si no nos decidimos a dudar, alguna vez, de todas las cosas en que encontremos la menor sospecha de incertidumbre"
+    },
+
+    {
+        "id":126,
+        "author":"Rene Descartes",
+        "quote": "Pensad antes de obrar y no comencéis nada sin haber consultado las circunstancias bien a fondo"
+    },
+
+    {
+        "id":127,
+        "author":"Rene Descartes",
+        "quote": "Lo poco que he aprendido carece de valor comparado con lo que ignoro y no desespero en aprender"
+    },
+
+    {
+        "id":128,
+        "author":"Rene Descartes",
+        "quote": "Ser incapaz de entusiasmo es señal de mediocridad"
+    },
+
+    {
+        "id":129,
+        "author":"Rene Descartes",
+        "quote": "Dubito, ergo cogito (Dudo, luego pienso)"
+    },
+
+    {
+        "id":130,
+        "author":"Rene Descartes",
+        "quote": "Cogito, ergo sum (Pienso, luego existo)"
+    },
+
+    {
+        "id":131,
+        "author":"Friedrich Nietzsche",
+        "quote": "Los monos son demasiado buenos para que el hombre pueda descender de ellos"
+    },
+
+    {
+        "id":132,
+        "author":"Friedrich Nietzsche",
+        "quote": "Aquel que tiene un porqué para vivir se puede enfrentar a todos los cómos"
+    },
+
+    {
+        "id":133,
+        "author":"Friedrich Nietzsche",
+        "quote": "Sin música, la vida sería un error"
+    },
+
+    {
+        "id":134,
+        "author":"Friedrich Nietzsche",
+        "quote": "El destino de los hombres está hecho de momentos felices, toda la vida los tiene, pero no de épocas felices"
+    },
+
+    {
+        "id":135,
+        "author":"Friedrich Nietzsche",
+        "quote": "Los que más han amado al hombre le han hecho siempre el máximo daño"
+    },
+
+    {
+        "id":136,
+        "author":"Friedrich Nietzsche",
+        "quote": "Cuando llegue el sufrimiento, míralo a la cara y enfréntate a él"
+    },
+
+    {
+        "id":137,
+        "author":"Friedrich Nietzsche",
+        "quote": "La mentira más común es aquella con la que las personas se engañan a sí mismas"
+    },
+
+    {
+        "id":138,
+        "author":"Friedrich Nietzsche",
+        "quote": "¿Es el hombre un fallo de Dios, o Dios un fallo del hombre?"
+    },
+
+    {
+        "id":139,
+        "author":"Friedrich Nietzsche",
+        "quote": "El amor no es ciego, sólo está cegado por la pasión que lleva dentro"
+    },
+
+    {
+        "id":140,
+        "author":"Friedrich Nietzsche",
+        "quote": "El hombre fue quién creó a Dios a su imagen y semejanza"
+    },
+
+    {
+        "id":141,
+        "author":"Friedrich Nietzsche",
+        "quote": "Yo necesito compañeros vivos, no cadáveres con los que tenga que cargar"
+    },
+
+    {
+        "id":142,
+        "author":"Friedrich Nietzsche",
+        "quote": "La mujer perfecta es un ser humano superior al mejor de los hombres"
+    },
+
+    {
+        "id":143,
+        "author":"Friedrich Nietzsche",
+        "quote": "La vida es demasiado breve como para aburrirnos"
+    },
+
+    {
+        "id":144,
+        "author":"Friedrich Nietzsche",
+        "quote": "Estamos acostumbrados a la vida porque nos gusta el amor"
+    },
+
+    {
+        "id":145,
+        "author":"Friedrich Nietzsche",
+        "quote": "El remordimiento es como un perro mordiendo una piedra: una estupidez"
+    },
+
+    {
+        "id":146,
+        "author":"Friedrich Nietzsche",
+        "quote": "Cualquier idealismo frente a la necesidad es un engaño"
+    },
+
+    {
+        "id":147,
+        "author":"Friedrich Nietzsche",
+        "quote": "La guerra vuelve estúpido al vencedor y rencoroso al vencido"
+    },
+
+    {
+        "id":148,
+        "author":"Friedrich Nietzsche",
+        "quote": "Tenemos arte para no morir de la verdad"
+    },
+
+    {
+        "id":149,
+        "author":"Friedrich Nietzsche",
+        "quote": "Cuando se tiene muchas cosas que hacer, el día tiene 100 bolsillos"
+    },
+
+    {
+        "id":150,
+        "author":"Friedrich Nietzsche",
+        "quote": "Sin arte la vida también sería un error"
+    },
+
+    {
+        "id":151,
+        "author":"Friedrich Nietzsche",
+        "quote": "La boca puede mentir, pero la mueca del momento revela la verdad"
+    },
+
+    {
+        "id":152,
+        "author":"Friedrich Nietzsche",
+        "quote": "El camino a todo lo grandioso pasa por guardar silencio"
+    },
+
+    {
+        "id":153,
+        "author":"Friedrich Nietzsche",
+        "quote": "Es la perseverancia la que hace grandes a los hombres, no la fuerza"
+    },
+
+    {
+        "id":154,
+        "author":"Friedrich Nietzsche",
+        "quote": "Aquello que hacemos nunca es comprendido, sólo es acogido por elogios o crítica"
+    },
+
+    {
+        "id":155,
+        "author":"Friedrich Nietzsche",
+        "quote": "Cuanto más nos elevamos, más pequeños parecemos a quienes no saben volar."
+    },
+
+
+    {
+        "id":156,
+        "author":"Friedrich Nietzsche",
+        "quote": "Toda convicción es una cárcel."
+    },
+
+
+    {
+        "id":157,
+        "author":"Friedrich Nietzsche",
+        "quote": "La vida misma es la voluntad de dominar."
+    },
+
+
+    {
+        "id":158,
+        "author":"Friedrich Nietzsche",
+        "quote": "Es sencillo hacer que las cosas sean complicadas, pero difícil hacer que sean sencillas."
+    },
+
+
+    {
+        "id":159,
+        "author":"Friedrich Nietzsche",
+        "quote": "El mundo real es mucho más pequeño que el mundo de la imaginación."
+    },
+
+
+    {
+        "id":160,
+        "author":"Friedrich Nietzsche",
+        "quote": "Entre el sentido de culpabilidad y el placer, siempre gana el placer."
+    }
+
+
+
+
+
+    
+
+
+
+]
