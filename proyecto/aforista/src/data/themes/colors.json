@@ -1,0 +1,53 @@
+{
+  "default": {
+    "id": "default",
+    "name": "Default",
+    "colors": {
+      "background": "#09090B",
+      "surface": "#18181B",
+      "primary": "#FFFFFF",
+      "secondary": "#A1A1AA",
+      "accent": "#8B5CF6",
+      "buttonText": "#FFFFFF"
+    }
+  },
+
+  "philosophy": {
+    "id": "philosophy",
+    "name": "Philosophy",
+    "colors": {
+      "background": "#140F1F",
+      "surface": "#221A33",
+      "primary": "#F8F7FF",
+      "secondary": "#B8B5D1",
+      "accent": "#A855F7",
+      "buttonText": "#FFFFFF"
+    }
+  },
+
+  "science": {
+    "id": "science",
+    "name": "Science",
+    "colors": {
+      "background": "#07131F",
+      "surface": "#0F2233",
+      "primary": "#F4FAFF",
+      "secondary": "#A0C4E2",
+      "accent": "#3B82F6",
+      "buttonText": "#FFFFFF"
+    }
+  },
+
+  "art": {
+    "id": "art",
+    "name": "Art",
+    "colors": {
+      "background": "#1F1307",
+      "surface": "#33200F",
+      "primary": "#FFF8F2",
+      "secondary": "#E2C5A0",
+      "accent": "#F97316",
+      "buttonText": "#FFFFFF"
+    }
+  }
+}
