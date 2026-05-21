@@ -56,13 +56,13 @@ export default function Start({ onComplete }: StartProps) {
       {/* Círculo animado */}
       <div
         ref={circleRef}
-        className="absolute h-40 w-40 rounded-full bg-white opacity-0"
+        className="absolute h-40 w-40 rounded-full bg-blue-700 opacity-0"
       />
 
       {/* Contenido */}
       <div className="z-10 flex flex-col items-center gap-6 text-center">
         <h1 className="text-4xl font-bold text-white md:text-6xl">
-          ¿Qué te interesa saber hoy?
+          ¿Quieres leer algo hoy?
         </h1>
 
         <p className="max-w-md text-zinc-400">

@@ -69,7 +69,7 @@ export default function Main() {
     <main className="flex min-h-screen w-full items-center justify-center bg-zinc-950 px-6 py-10">
       <div className="flex w-full max-w-3xl flex-col items-center gap-8 rounded-3xl border border-zinc-800 bg-zinc-900/70 p-8 shadow-2xl backdrop-blur">
         {/* Caja principal */}
-        <div className="flex min-h-[280px] w-full items-center justify-center rounded-2xl border border-zinc-800 bg-zinc-950 p-8 text-center">
+        <div className="flex min-h-70 w-full items-center justify-center rounded-2xl border border-zinc-800 bg-zinc-950 p-8 text-center">
           {currentQuote ? (
             <div className="space-y-6">
               <p className="text-2xl leading-relaxed text-zinc-100 md:text-3xl">
@@ -94,7 +94,7 @@ export default function Main() {
         </div>
 
         {/* Controles */}
-        <div className="flex w-full flex-col gap-4 md:flex-row">
+        <div className="flex flex-col w-full gap-4">
           <select
             value={selectedTopic}
             onChange={(e) => setSelectedTopic(e.target.value)}
