@@ -1,0 +1,21 @@
+{
+  "id": "default",
+  "name": "Default",
+
+  "colors": {
+    "background": "#09090B",
+    "surface": "#18181B",
+
+    "primaryText": "#FFFFFF",
+    "secondaryText": "#A1A1AA",
+
+    "accent": "#8B5CF6",
+    "accentHover": "#7C3AED",
+
+    "border": "#27272A"
+  },
+
+  "gradients": {
+    "main": "linear-gradient(135deg, #18181B 0%, #09090B 100%)"
+  }
+}
