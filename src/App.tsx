@@ -9,7 +9,6 @@ import { ThemeProvider } from "./context/ThemeContext";
 
 export default function App() {
   const [started, setStarted] = useState(false);
-  const [language, setLanguage] = useState("es");
 
   return (
     <LanguageProvider>
@@ -22,10 +21,7 @@ export default function App() {
           }}
         >
           {/* Header */}
-          <Header 
-          language={language}
-        onLanguageChange={setLanguage}
-        />
+          <Header />
 
           {/* Contenido principal */}
           {!started ? (
