@@ -1,0 +1,21 @@
+{
+  "id": "nature",
+  "name": "Nature",
+
+  "colors": {
+    "background": "#39A367",
+    "surface": "#40A339",
+
+    "primaryText": "#CAECD9",
+    "secondaryText": "#A1A1AA",
+
+    "accent": "#ECF8F1",
+    "accentHover": "#64C990",
+
+    "border": "#1E5737"
+  },
+
+  "gradients": {
+    "main": "linear-gradient(135deg, #40A339 0%, #39A39C 100%)"
+  }
+}

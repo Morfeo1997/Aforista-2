@@ -1,0 +1,21 @@
+{
+  "id": "philosophy",
+  "name": "Philosophy",
+
+  "colors": {
+    "background": "#BF3030",
+    "surface": "#18181B",
+
+    "primaryText": "#F1C6C6",
+    "secondaryText": "#DE7C7C",
+
+    "accent": "#DE7C7C",
+    "accentHover": "#832121",
+
+    "border": "#390E0E"
+  },
+
+  "gradients": {
+    "main": "linear-gradient(135deg, #BF3030 0%, #BF7830 100%)"
+  }
+}

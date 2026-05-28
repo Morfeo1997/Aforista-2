@@ -1,0 +1,21 @@
+{
+  "id": "art",
+  "name": "Art",
+
+  "colors": {
+    "background": "#A11D7C",
+    "surface": "#841DA1",
+
+    "primaryText": "#F4C3E6",
+    "secondaryText": "#3C0B2E",
+
+    "accent": "#E675C6",
+    "accentHover": "#3C0B2E",
+
+    "border": "#160411"
+  },
+
+  "gradients": {
+    "main": "linear-gradient(135deg, #A11D7C 0%, #841DA1 100%)"
+  }
+}

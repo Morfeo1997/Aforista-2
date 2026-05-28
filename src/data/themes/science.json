@@ -1,0 +1,21 @@
+{
+  "id": "science",
+  "name": "Science",
+
+  "colors": {
+    "background": "#215CB8",
+    "surface": "#21A6B8",
+
+    "primaryText": "#C2D5F4",
+    "secondaryText": "#74A0E7",
+
+    "accent": "#0B1E3D",
+    "accentHover": "#18448B",
+
+    "border": "#0B1E3D"
+  },
+
+  "gradients": {
+    "main": "linear-gradient(135deg, #215CB8 0%, #21A6B8 100%)"
+  }
+}
