@@ -1,59 +1,53 @@
 import { useMemo, useState } from "react";
 
+import { useLanguage } from "../context/LanguageContext";
+import { useTheme } from "../context/ThemeContext";
+
 type Quote = {
   id: number;
   author: string;
   quote: string;
   topics: string[];
+  year?: number;
+  source?: string;
 };
 
-const quotes: Quote[] = [
-  {
-    id: 1,
-    author: "Blaise Pascal",
-    quote:
-      "La grandeza de un hombre está en reconocer su propia pequeñez.",
-    topics: ["filosofia"],
-  },
-  {
-    id: 2,
-    author: "Marie Curie",
-    quote: "Nada en la vida debe ser temido, solo comprendido.",
-    topics: ["ciencia"],
-  },
-  {
-    id: 3,
-    author: "Vincent Van Gogh",
-    quote: "Sueño mi pintura y luego pinto mi sueño.",
-    topics: ["arte"],
-  },
-  {
-    id: 4,
-    author: "Confucio",
-    quote: "La vida es realmente simple, pero insistimos en complicarla.",
-    topics: ["vida"],
-  },
-];
+type Topic = {
+  id: string;
+  label: string;
+};
 
-const topics = [
-  { value: "all", label: "Todos" },
-  { value: "filosofia", label: "Filosofía" },
-  { value: "ciencia", label: "Ciencia" },
-  { value: "arte", label: "Arte" },
-  { value: "vida", label: "Vida" },
-];
+const topicThemeMap: Record<string, any> = {
+  filosofia: "philosophy",
+  ciencia: "science",
+  arte: "art",
+  vida: "nature",
+};
 
 export default function Main() {
-  const [selectedTopic, setSelectedTopic] = useState("all");
-  const [currentQuote, setCurrentQuote] = useState<Quote | null>(null);
+  const { data } = useLanguage();
+
+  const { setTheme } = useTheme();
+
+  const [selectedTopic, setSelectedTopic] =
+    useState("all");
+
+  const [currentQuote, setCurrentQuote] =
+    useState<Quote | null>(null);
+
+  const topics: Topic[] = data.topics;
+
+  const quotes: Quote[] = data.quotes;
 
   const filteredQuotes = useMemo(() => {
-    if (selectedTopic === "all") return quotes;
+    if (selectedTopic === "all") {
+      return quotes;
+    }
 
     return quotes.filter((quote) =>
       quote.topics.includes(selectedTopic)
     );
-  }, [selectedTopic]);
+  }, [quotes, selectedTopic]);
 
   const generateQuote = () => {
     if (filteredQuotes.length === 0) return;
@@ -62,46 +56,135 @@ export default function Main() {
       Math.random() * filteredQuotes.length
     );
 
-    setCurrentQuote(filteredQuotes[randomIndex]);
+    const randomQuote =
+      filteredQuotes[randomIndex];
+
+    setCurrentQuote(randomQuote);
+
+    const mappedTheme =
+      topicThemeMap[selectedTopic];
+
+    if (mappedTheme) {
+      setTheme(mappedTheme);
+    } else {
+      setTheme("default");
+    }
   };
 
   return (
-    <main className="flex min-h-screen w-full items-center justify-center bg-zinc-950 px-6 py-10">
-      <div className="flex w-full max-w-3xl flex-col items-center gap-8 rounded-3xl border border-zinc-800 bg-zinc-900/70 p-8 shadow-2xl backdrop-blur">
+    <main className="flex min-h-screen w-full items-center justify-center px-6 py-10">
+      <div
+        className="flex w-full max-w-4xl flex-col gap-8 rounded-3xl border p-8 shadow-2xl backdrop-blur transition-all duration-500"
+        style={{
+          background:
+            "var(--surface-color)",
+
+          borderColor:
+            "var(--border-color)",
+        }}
+      >
         {/* Caja principal */}
-        <div className="flex min-h-70 w-full items-center justify-center rounded-2xl border border-zinc-800 bg-zinc-950 p-8 text-center">
+        <div
+          className="flex min-h-[320px] items-center justify-center rounded-3xl border p-8 text-center"
+          style={{
+            borderColor:
+              "var(--border-color)",
+          }}
+        >
           {currentQuote ? (
             <div className="space-y-6">
-              <p className="text-2xl leading-relaxed text-zinc-100 md:text-3xl">
+              <p
+                className="text-2xl leading-relaxed md:text-4xl"
+                style={{
+                  color:
+                    "var(--primary-text)",
+                }}
+              >
                 “{currentQuote.quote}”
               </p>
 
-              <span className="block text-lg text-zinc-400">
-                — {currentQuote.author}
-              </span>
+              <div className="space-y-2">
+                <p
+                  className="text-lg md:text-xl"
+                  style={{
+                    color:
+                      "var(--secondary-text)",
+                  }}
+                >
+                  — {currentQuote.author}
+                </p>
+
+                {(currentQuote.year ||
+                  currentQuote.source) && (
+                  <p
+                    className="text-sm"
+                    style={{
+                      color:
+                        "var(--secondary-text)",
+                    }}
+                  >
+                    {currentQuote.source}
+
+                    {currentQuote.year &&
+                      ` · ${currentQuote.year}`}
+                  </p>
+                )}
+              </div>
             </div>
           ) : (
             <div className="space-y-4">
-              <h1 className="text-3xl font-bold text-white md:text-5xl">
+              <h1
+                className="text-4xl font-bold md:text-6xl"
+                style={{
+                  color:
+                    "var(--primary-text)",
+                }}
+              >
                 ¿Qué te interesa saber hoy?
               </h1>
 
-              <p className="text-zinc-400">
-                Selecciona un tema y descubre una idea nueva.
+              <p
+                className="text-lg"
+                style={{
+                  color:
+                    "var(--secondary-text)",
+                }}
+              >
+                Selecciona un tema y descubre
+                una idea nueva.
               </p>
             </div>
           )}
         </div>
 
         {/* Controles */}
-        <div className="flex flex-col w-full gap-4">
+        <div className="flex flex-col gap-4 md:flex-row">
           <select
             value={selectedTopic}
-            onChange={(e) => setSelectedTopic(e.target.value)}
-            className="flex-1 rounded-2xl border border-zinc-700 bg-zinc-950 px-4 py-3 text-white outline-none transition focus:border-violet-500"
+            onChange={(e) =>
+              setSelectedTopic(e.target.value)
+            }
+            className="flex-1 rounded-2xl border px-4 py-4 text-lg outline-none transition-all"
+            style={{
+              background:
+                "var(--bg-color)",
+
+              borderColor:
+                "var(--border-color)",
+
+              color:
+                "var(--primary-text)",
+            }}
           >
+            <option value="all">
+              Todos
+            </option>
+
             {topics.map((topic) => (
-              <option key={topic.value} value={topic.value}>
+              <option
+                key={topic.id}
+                value={topic.id}
+              >
                 {topic.label}
               </option>
             ))}
@@ -109,7 +192,11 @@ export default function Main() {
 
           <button
             onClick={generateQuote}
-            className="rounded-2xl bg-violet-600 px-8 py-3 font-medium text-white transition-all duration-300 hover:scale-[1.02] hover:bg-violet-500 active:scale-95"
+            className="rounded-2xl px-8 py-4 text-lg font-medium text-white transition-all duration-300 hover:scale-[1.02] active:scale-95"
+            style={{
+              background:
+                "var(--accent-color)",
+            }}
           >
             Generar
           </button>
