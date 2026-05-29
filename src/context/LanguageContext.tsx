@@ -3,8 +3,9 @@ import {
   useContext,
   useMemo,
   useState,
-  ReactNode,
 } from "react";
+
+import type { ReactNode } from "react";
 
 import es from "../data/quotes/es.json";
 import en from "../data/quotes/en.json";
@@ -18,11 +19,22 @@ type Quote = {
   topics: string[];
 };
 
+type Topic = {
+  id: string;
+  label: string;
+};
+
 type LanguageData = {
   language: Language;
+
   welcomeMessage: string;
+
   buttonText: string;
+
+  topics: Topic[];
+
   quotes: Quote[];
+
 };
 
 type LanguageContextType = {
@@ -33,9 +45,13 @@ type LanguageContextType = {
   data: LanguageData;
 };
 
-const languageMap: Record<Language, LanguageData> = {
-  es,
-  en,
+const languageMap: Record<
+  Language,
+  LanguageData
+> = {
+  es: es as LanguageData,
+
+  en: en as LanguageData,
 };
 
 const LanguageContext =

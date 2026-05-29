@@ -1,4 +1,10 @@
 {
+"language": "es",
+
+"welcomeMessage": "¿Qué te interesa saber hoy?",
+
+"buttonText": "Generar",
+
 	"topics": [
     {
       "id": "filosofia",
