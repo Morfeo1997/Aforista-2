@@ -6,22 +6,22 @@
     },
     {
       "id": "ciencia",
-      "label": "Ciencia"
+      "label": "Science"
     },
     {
       "id": "arte",
-      "label": "Arte"
+      "label": "Art"
     },
     {
       "id": "vida",
-      "label": "Vida"
+      "label": "Life"
     }
   ],
 	"quotes":[
     	{
         	"id":1,
         	"author": "Blaise Pascal",
-        	"quote": "La grandeza de un hombre está en reconocer su propia pequeñez.",
+        	"quote": "A man's greatness lies in recognizing his own smallness.",
         	"topics": ["filosofia", "vida"],
         	"year": 1657,
         	"source": "Pensées"
@@ -30,7 +30,7 @@
     	{
         	"id": 2,
         	"author": "Blaise Pascal",
-        	"quote": "La justicia sobre la fuerza es la impotencia, la fuerza sin justicia es tiranía",
+        	"quote": "Justice without force is impotence; force without justice is tyranny",
         	"topics": ["filosofia", "justicia", "politica"],
         	"year": 1657
     	},
@@ -38,7 +38,7 @@
     	{
         	"id": 3,
         	"author": "Blaise Pascal",
-        	"quote": "Dos excesos: excluir la razón, no admitir más que la razón",
+        	"quote": "Two extremes: rejecting reason, accepting nothing but reason",
         	"topics": ["filosofia"],
         	"year": 1657
     	},
@@ -46,7 +46,7 @@
     	{
         	"id": 4,
         	"author": "Blaise Pascal",
-        	"quote": "El hombre tiene ilusiones como el pájaro alas. Eso es lo que lo sostiene",
+        	"quote": "A man has hopes just as a bird has wings. That is what sustains him.",
         	"topics": ["filosofia", "vida"],
         	"year": 1657
     	},
@@ -54,7 +54,7 @@
     	{
         	"id": 5,
         	"author": "Blaise Pascal",
-        	"quote": "A fuerza de hablar de amor, uno llega a enamorarse",
+        	"quote": "If you talk about love enough, you end up falling in love",
         	"topics": ["filosofia", "amor"],
         	"year": 1657
     	},
@@ -62,7 +62,7 @@
     	{
         	"id": 6,
         	"author": "Blaise Pascal",
-        	"quote": "¿De qué le sirve al hombre ganar el mundo si pierde su alma?",
+        	"quote": "What good is it for a man to gain the whole world if he loses his soul?",
         	"topics": ["filosofia", "vida"],
         	"year": 1657
     	},
@@ -70,7 +70,7 @@
     	{
         	"id": 7,
         	"author": "Blaise Pascal",
-        	"quote": "Aquel que duda y no investiga, se torna no sólo infeliz, sino también injusto",
+        	"quote": "Those who doubt but fail to investigate become not only unhappy but also unjust",
         	"topics": ["filosofia"],
         	"year": 1657
     	},
@@ -78,7 +78,7 @@
     	{
         	"id": 8,
         	"author": "Blaise Pascal",
-        	"quote": "El rey está rodeado de gentes que no piensan sino en divertirlo y en impedir que piense en sí mismo. Porque, por muy rey que sea, es desgraciado si piensa en ello.",
+        	"quote": "The king is surrounded by people whose sole concern is to entertain him and keep him from thinking about himself. For, no matter how much of a king he may be, he is miserable if he thinks about it.",
         	"topics": ["filosofia", "vida"],
         	"year": 1657
     	},
@@ -86,7 +86,7 @@
     	{
         	"id": 9,
         	"author": "Blaise Pascal",
-        	"quote": "Descripción del hombre: dependencia, deseo de independencia, necesidad.",
+        	"quote": "Description of the man: dependence, desire for independence, need.",
 			"topics": ["filosofia"],
         	"year": 1657
     	},
@@ -94,7 +94,7 @@
     	{
         	"id": 10,
         	"author": "Blaise Pascal",
-        	"quote": "En las religiones es preciso ser sinceros; verdaderos paganos, verdaderos judíos, verdaderos cristianos",
+        	"quote": "When it comes to religion, we must be sincere: true pagans, true Jews, true Christians",
 			"topics": ["filosofia", "religión"],
         	"year": 1657
     	},
@@ -102,7 +102,7 @@
     	{
         	"id": 11,
         	"author": "Blaise Pascal",
-        	"quote": "¿Quién se siente desgraciado por no ser rey, sino un rey destronado?",
+        	"quote": "Who feels miserable not because he isn't a king, but because he is a dethroned king?",
 			"topics": ["filosofia", "vida"],
         	"year": 1657
     	},
@@ -110,7 +110,7 @@
     	{
         	"id": 12,
         	"author": "Blaise Pascal",
-        	"quote": "La moral es la ciencia por excelencia; es el arte de vivir bien y de ser dichoso",
+        	"quote": "Morality is the science par excellence; it is the art of living well and being happy",
 			"topics": ["filosofia", "moral"],
         	"year": 1657
     	},
@@ -118,7 +118,7 @@
     	{
         	"id": 13,
         	"author": "Blaise Pascal",
-        	"quote": "El que cree tener razón entre todas las cosas, la razón de las cosas desconoce",
+        	"quote": "He who believes he is right about everything is ignorant of the true nature of things",
 			"topics": ["filosofia", "razón"],
         	"year": 1657
     	},
@@ -126,7 +126,7 @@
     	{
         	"id": 14,
         	"author": "Blaise Pascal",
-        	"quote": "La conciencia es el mejor libro moral que tenemos",
+        	"quote": "Conscience is the best moral guide we have",
 			"topics": ["filosofia", "moral"],
         	"year": 1657
     	},
@@ -134,13 +134,13 @@
     	{
         	"id": 15,
         	"author": "Blaise Pascal",
-        	"quote": "La reina del mundo es la fuerza y no la opinión; pero es la opinión la que usa la fuerza"
+        	"quote": "The queen of the world is power, not opinion; but it is opinion that wields power"
     	},
 	
     	{
         	"id": 16,
         	"author": "Blaise Pascal",
-        	"quote": "Nuestra naturaleza está en movimiento. El reposo absoluto es la muerte",
+        	"quote": "Our nature is in motion. Absolute stillness is death.",
 			"topics": ["filosofia", "vida"],
         	"year": 1657
     	},
@@ -148,7 +148,7 @@
     	{
         	"id": 17,
         	"author": "Blaise Pascal",
-        	"quote": "Estando siempre dispuestos a ser felices, es inevitable no serlo alguna vez",
+        	"quote": "If we’re always ready to be happy, it’s inevitable that we’ll sometimes not be",
 			"topics": ["filosofia", "felicidad"],
         	"year": 1657
     	},
@@ -156,7 +156,7 @@
     	{
         	"id": 18,
         	"author": "Blaise Pascal",
-        	"quote": "La razón obra con lentitud, y con tantas miras, sobre tantos principios, que a cada momento se adormece o extravía. La pasión obra en un instante",
+        	"quote": "Reason works slowly, and with so many considerations and so many principles, that it constantly drifts off or loses its way. Passion acts in an instant",
 			"topics": ["filosofia", "razón"],
         	"year": 1657
     	},
@@ -164,7 +164,7 @@
     	{
         	"id": 19,
         	"author": "Blaise Pascal",
-        	"quote": "Ni la contradicción es indicio de falsedad, ni la falta de contradicción es indicio de verdad",
+        	"quote": "Neither is a contradiction an indication of falsehood, nor is the absence of contradiction an indication of truth",
 			"topics": ["filosofia", "verdad"],
         	"year": 1657
     	},
@@ -172,7 +172,7 @@
     	{
         	"id": 20,
         	"author": "Blaise Pascal",
-        	"quote": "No vivimos nunca, sino que esperamos vivir; y disponiéndonos siempre a ser felices, es inevitable que no lo seamos nunca",
+        	"quote": "We never actually live; instead, we wait to live. And since we are always preparing to be happy, it is inevitable that we will never be so.",
 			"topics": ["filosofia", "felicidad"],
         	"year": 1657
     	},
@@ -180,210 +180,210 @@
     	{
         	"id": 21,
         	"author": "Platón",
-        	"quote": "No son los ojos los que ven, sino lo que nosotros vemos por medio de los ojos",
+        	"quote": "It is not the eyes that see, but what we see through the eyes",
 			"topics": ["filosofia"]
     	},
 	
     	{
         	"id": 22,
         	"author": "Platón",
-        	"quote": "El hombre sabio querrá estar siempre con el que es mejor que él",
+        	"quote": "A wise man will always want to be with someone who is better than he is",
 			"topics": ["filosofia", "sabiduria"]
     	},
 	
     	{
         	"id": 23,
         	"author": "Platón",
-        	"quote": "Debemos buscar para nuestros males una causa que no sea Dios",
+        	"quote": "We must look for a cause of our troubles other than God",
 			"topics": ["filosofia", "dios"]
     	},
 	
     	{
         	"id": 24,
         	"author": "Platón",
-        	"quote": "Ninguna causa humana merece tal ansiedad",
+        	"quote": "No human cause deserves such anxiety",
 			"topics": ["filosofia", "ansiedad"]
     	},
 	
     	{
         	"id": 25,
         	"author": "Platón",
-        	"quote": "Buscando el bien de nuestros semejantes encontraremos el nuestro",
+        	"quote": "By seeking the good of our fellow human beings, we will find our own",
 			"topics": ["filosofia", "vida"]
     	},
 	
     	{
         	"id": 26,
         	"author": "Platón",
-        	"quote": "De noche, especialmente, es hermoso creer en la luz",
+        	"quote": "Especially at night, it is beautiful to believe in the light",
 			"topics": ["filosofia", "esperanza"]
     	},
 	
     	{
         	"id": 27,
         	"author": "Platón",
-        	"quote": "El objetivo de la educación es la virtud y la meta de convertirse en un buen ciudadano",
+        	"quote": "The purpose of education is virtue, and the goal is to become a good citizen",
 			"topics": ["filosofia", "educación"]
     	},
 	
     	{
         	"id": 28,
         	"author": "Platón",
-        	"quote": "Existen tres clases de hombres: amantes de la sabiduría, amantes del honor, y amantes de la ganancia",
+        	"quote": "There are three kinds of men: those who love wisdom, those who love honor, and those who love wealth",
 			"topics": ["filosofia", "vida"]
     	},
 	
     	{
         	"id": 29,
         	"author": "Platón",
-        	"quote": "El amor es sentir que el ser sagrado late dentro del ser querido",
+        	"quote": "Love is feeling the sacred essence beating within your loved one",
 			"topics": ["filosofia", "amor"]
     	},
 	
     	{
         	"id": 30,
         	"author": "Platón",
-        	"quote": "Los estados son como los hombres, nacen de sus mismos rasgos",
+        	"quote": "States are like men; they are born of their own characteristics",
 			"topics": ["filosofia"]
     	},
 	
     	{
         	"id": 31,
         	"author": "Platón",
-        	"quote": "Las piedras más grandes no pueden quedar bien asentadas sin contar con las más pequeñas",
+        	"quote": "The larger stones cannot be properly set without the smaller ones",
 			"topics": ["filosofia", "vida"]
     	},
 	
     	{
         	"id": 32,
         	"author": "Platón",
-        	"quote": "La honestidad suele generar menos ganancias que la mentira",
+        	"quote": "Honesty often yields less profit than lying",
 			"topics": ["filosofia", "verdad"]
     	},
 	
     	{
         	"id": 33,
         	"author": "Platón",
-        	"quote": "Nunca hay desanimar a nadie que continuamente hace progresos, no importa lo lento que vaya",
+        	"quote": "You should never discourage anyone who is constantly making progress, no matter how slowly they go",
 			"topics": ["filosofia", "vida"]
     	},
 	
     	{
         	"id": 34,
         	"author": "Platón",
-        	"quote": "Cualquier hombre puede fácilmente hacer daño, pero no todos los hombres pueden hacer el bien a otro",
+        	"quote": "Any man can easily do harm, but not every man can do good for another",
 			"topics": ["filosofia", "bondad"]
     	},
 	
     	{
         	"id": 35,
         	"author": "Platón",
-        	"quote": "El hombre inteligente habla con autoridad cuando dirige su propia vida",
+        	"quote": "A wise man speaks with authority when he takes charge of his own life",
 			"topics": ["filosofia", "vida"]
     	},
 	
     	{
         	"id": 36,
         	"author": "Platón",
-        	"quote": "Las buenas acciones nos dan fuerza a nosotros mismos e inspiran las buenas acciones de los demás",
+        	"quote": "Good deeds give us strength and inspire others to do good as well",
 			"topics": ["filosofia", "vida", "bondad"]
     	},
 	
     	{
         	"id": 37,
         	"author": "Platón",
-        	"quote": "Cuando un hombre no se sacrifica por sus ideas, o no valen nada estas o no vale nada el hombre",
+        	"quote": "When a man is not willing to make sacrifices for his beliefs, either those beliefs are worthless or the man himself is worthless",
 			"topics": ["filosofia", "verdad"]
     	},
 	
     	{
         	"id": 38,
         	"author": "Platón",
-        	"quote": "Si el semblante de la virtud pudiera verse, enamoraría a todos",
+        	"quote": "If virtue had a face, everyone would fall in love with it",
 			"topics": ["filosofia"]
     	},
 	
     	{
         	"id": 39,
         	"author": "Platón",
-        	"quote": "Podemos perdonar fácilmente a un niño que tiene miedo de la oscuridad; la verdadera tragedia de la vida es cuando los hombres tienen miedo de la luz",
+        	"quote": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when adults are afraid of the light",
 			"topics": ["filosofia", "miedo"]
     	},
 	
     	{
         	"id": 40,
         	"author": "Platón",
-        	"quote": "Cuando una multitud ejerce la autoridad, es más cruel aún que los tiranos",
+        	"quote": "When a mob exercises authority, it is even more cruel than tyrants",
 			"topics": ["filosofia", "democracia"]
     	},
 	
     	{
         	"id": 41,
         	"author": "Aristóteles",
-        	"quote": "La amistad es un alma que habita en dos cuerpos; un corazón que habita en dos almas",
+        	"quote": "Friendship is a soul that dwells in two bodies; a heart that dwells in two souls",
 			"topics": ["filosofia", "amistad"]
     	},
 	
     	{
         	"id": 42,
         	"author": "Aristóteles",
-        	"quote": "La finalidad del arte es dar cuerpo a la esencia secreta de las cosas, no el copiar su apariencia",
+        	"quote": "The purpose of art is to give form to the hidden essence of things, not to copy their outward appearance",
 			"topics": ["arte", "filosofia"]
     	},
 	
     	{
         	"id": 43,
         	"author": "Aristóteles",
-        	"quote": "Sólo hay felicidad donde hay virtud y esfuerzo serio, pues la vida no es un juego",
+        	"quote": "Happiness can only be found where there is virtue and earnest effort, for life is no game",
 			"topics": ["filosofia", "felicidad"]
     	},
 	
     	{
         	"id": 44,
         	"author": "Aristóteles",
-        	"quote": "La única señal exclusiva de conocimiento profundo es el poder de enseñar",
+        	"quote": "The only true sign of deep understanding is the ability to teach",
 			"topics": ["filosofia"]
     	},
 	
     	{
         	"id": 45,
         	"author": "Aristóteles",
-        	"quote": "La meta de los sabios no es asegurar el placer, sino evitar el dolor",
+        	"quote": "The goal of the wise is not to ensure pleasure, but to avoid pain",
 			"topics": ["filosofia"]
     	},
 	
     	{
         	"id": 46,
         	"author": "Aristóteles",
-        	"quote": "Adquirimos una cualidad particular al actuar de una forma particular",
+        	"quote": "We acquire a particular quality by acting in a particular way",
 			"topics": ["filosofia"]
     	},
 	
     	{
         	"id": 47,
         	"author": "Aristóteles",
-        	"quote": "La finalidad del arte es dar cuerpo a la esencia secreta de las cosas, no el copiar su apariencia",
+        	"quote": "The purpose of art is to give form to the hidden essence of things, not to copy their outward appearance",
 			"topics": ["arte"]
     	},
 	
     	{
         	"id": 48,
         	"author": "Aristóteles",
-        	"quote": "Algunos creen que para ser amigos basta con querer, como si para estar sano bastara con desear la salud",
+        	"quote": "Some people believe that all it takes to be friends is to want to be friends, just as if all it took to be healthy were to wish for good health",
 			"topics": ["filosofia", "amistad"]
     	},
 	
     	{
         	"id": 49,
         	"author": "Aristóteles",
-        	"quote": "Quien no es un buen seguidor no puede ser un buen líder",
+        	"quote": "If you're not a good follower, you can't be a good leader",
 			"topics": ["filosofia", "politica", "liderazgo"]
     	},
 	
     	{
         	"id": 50,
         	"author": "Aristóteles",
-        	"quote": "Adquirir desde jóvenes tales o cuales hábitos no tiene poca importancia: tiene una importancia absoluta",
+        	"quote": "Developing certain habits at a young age is no small matter:/n it is of the utmost importance",
 			"topics": ["filosofia", "habitos"]
     	},
 	
