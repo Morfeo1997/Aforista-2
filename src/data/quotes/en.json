@@ -390,280 +390,280 @@
     	{
         	"id": 51,
         	"author": "Aristóteles",
-        	"quote": "Un buen estilo debe tener un aire de novedad y al mismo tiempo ocultar su arte",
+        	"quote": "Good style should have a touch of novelty while at the same time remaining understated",
 			"topics": ["arte"]
     	},
 	
     	{
         	"id": 52,
         	"author": "Aristóteles",
-        	"quote": "Los que obran bien son los únicos que pueden aspirar en la vida a la felicidad",
+        	"quote": "Only those who do good can hope to find happiness in life",
 			"topics": ["filosofia", "felicidad"]
     	},
 	
     	{
         	"id": 53,
         	"author": "Aristóteles",
-        	"quote": "El hombre nada puede aprender sino en virtud de lo que sabe",
+        	"quote": "A person can learn nothing except by virtue of what they already know",
 			"topics": ["filosofia"]
     	},
 	
     	{
         	"id": 54,
         	"author": "Aristóteles",
-        	"quote": "Cuento como más valiente al que supera sus deseos que al que supera a sus enemigos",
+        	"quote": "I consider the one who overcomes his own desires to be braver than the one who overcomes his enemies",
 			"topics": ["filosofia", "valentia"]
     	},
 	
     	{
         	"id": 55,
         	"author": "Aristóteles",
-        	"quote": "Se quiere más aquello que se ha conseguido con muchas fatigas",
+        	"quote": "We value more what we have achieved through great effort",
 			"topics": ["filosofia"]
     	},
 	
     	{
         	"id": 56,
         	"author": "Aristóteles",
-        	"quote": "Es preciso que la filosofía sea un saber especial, de los primeros principios y de las primeras causas",
+        	"quote": "Philosophy must be a special branch of knowledge, concerned with first principles and first causes",
 			"topics": ["filosofia"]
     	},
 	
     	{
         	"id": 57,
         	"author": "Aristóteles",
-        	"quote": "Considero más valiente al que conquista sus deseos que al que conquista a sus enemigos, ya que la victoria más dura es la victoria sobre uno mismo",
+        	"quote": "I consider the person who conquers their desires to be braver than the one who conquers their enemies, for the hardest victory is the victory over oneself",
 			"topics": ["filosofia", "vida"]
     	},
 	
     	{
         	"id": 58,
         	"author": "Aristóteles",
-        	"quote": "La felicidad es el significado y propósito de la vida, la meta general y final de la existencia humana",
+        	"quote": "Happiness is the meaning and purpose of life, the ultimate goal of human existence",
 			"topics": ["filosofia", "felicidad", "vida"]
     	},
 	
     	{
         	"id": 59,
         	"author": "Aristóteles",
-        	"quote": "Lo mejor es salir de la vida como de una fiesta, ni sediento ni bebido",
+        	"quote": "The best thing is to leave this life as if leaving a party—neither thirsty nor drunk",
 			"topics": ["filosofia", "vida"]
     	},
 	
     	{
         	"id": 60,
         	"author": "Aristóteles",
-        	"quote": "En la pobreza y otras desgracias de la vida, los verdaderos amigos son un refugio seguro",
+        	"quote": "In times of poverty and other hardships, true friends are a safe haven",
 			"topics": ["filosofia", "amistad"]
     	},
     	
     	{
         	"id": 61,
         	"author": "Arthur Schopenhauer",
-        	"quote": "La vida es un anhelo opaco y un tormento",
+        	"quote": "Life is a vague longing and a torment",
 			"topics": ["filosofia", "vida"]
     	},
 	
     	{
         	"id": 62,
         	"author": "Arthur Schopenhauer",
-        	"quote": "El joven debe, tempranamente, estar capacitado para soportar estar solo; ya que es una fuente de felicidad y de paz mental",
+        	"quote": "Young people should learn early on to cope with being alone, as it is a source of happiness and peace of mind",
 			"topics": ["filosofia", "soledad", "felicidad"]
     	},
 	
     	{
         	"id": 63,
         	"author": "Arthur Schopenhauer",
-        	"quote": "Los hombres son por naturaleza meramente indiferentes unos de otros; pero las mujeres son enemigas por naturaleza",
+        	"quote": "Men are by nature merely indifferent to one another; but women are by nature enemies",
 			"topics": ["filosofia"]
     	},
 	
     	{
         	"id": 64,
         	"author": "Arthur Schopenhauer",
-        	"quote": "El optimismo no es más que la autoalabanza injustificada del verdadero creador del mundo, es decir de la voluntad de vivir, la cual se mira complacida en su propia obra: de ahí que sea no sólo una doctrina falsa, sino incluso perniciosa",
+        	"quote": "Optimism is nothing more than the unwarranted self-praise of the true creator of the world—that is, the will to live—which gazes with satisfaction upon its own work; hence, it is not only a false doctrine, but even a pernicious one",
 			"topics": ["filosofia", "vida", "optimismo"]
     	},
 	
     	{
         	"id": 65,
         	"author": "Arthur Schopenhauer",
-        	"quote": "Los mejores, más variados y duraderos placeres, son los de la mente",
+        	"quote": "The best, most varied, and longest-lasting pleasures are those of the mind",
 			"topics": ["filosofia", "vida"]
     	},
 	
     	{
         	"id": 66,
         	"author": "Arthur Schopenhauer",
-        	"quote": "El que no disfruta de la soledad, no amará a la libertad",
+        	"quote": "Those who do not enjoy solitude will not love freedom",
 			"topics": ["filosofia", "libertad", "soledad"]
     	},
 	
     	{
         	"id": 67,
         	"author": "Arthur Schopenhauer",
-        	"quote": "El hombre es el único animal que causa dolor a otros sin más objeto que querer hacerlo",
+        	"quote": "Man is the only animal that causes pain to others for no other reason than the desire to do so",
 			"topics": ["filosofia", "dolor"]
     	},
 	
     	{
         	"id": 68,
         	"author": "Arthur Schopenhauer",
-        	"quote": "La vida sin dolor no tiene sentido",
+        	"quote": "Life without pain is meaningless",
 			"topics": ["filosofia", "vida"]
     	},
 	
     	{
         	"id": 69,
         	"author": "Arthur Schopenhauer",
-        	"quote": "Las religiones son como las luciérnagas. Necesitan de la oscuridad para brillar",
+        	"quote": "Religions are like fireflies. They need darkness to shine.",
 			"topics": ["filosofia", "religión"]
     	},
 	
     	{
         	"id": 70,
         	"author": "Arthur Schopenhauer",
-        	"quote": "La riqueza es como el agua del mar; cuanto más bebemos, más sedientos nos volvemos; lo mismo sucede con la fama",
+        	"quote": "Wealth is like seawater; the more we drink, the thirstier we become; the same is true of fame",
 			"topics": ["filosofia", "fama", "riqueza"]
     	},
 	
     	{
         	"id": 71,
         	"author": "Arthur Schopenhauer",
-        	"quote": "La compasión es la base de la moralidad",
+        	"quote": "Compassion is the foundation of morality",
 			"topics": ["filosofia", "moral"]
     	},
 	
     	{
         	"id": 72,
         	"author": "Arthur Schopenhauer",
-        	"quote": "La vida es un constante proceso de agonía",
+        	"quote": "Life is a constant process of agony",
 			"topics": ["filosofia", "vida"]
     	},
 	
     	{
         	"id": 73,
         	"author": "Arthur Schopenhauer",
-        	"quote": "Cada genio es un gran niño; mira hacia el mundo como algo extraño, como un espectáculo, y por lo tanto con un interés puramente objetivo",
+        	"quote": "Every genius is a big child; he looks at the world as something strange, as a spectacle, and therefore with a purely objective interest",
 			"topics": ["filosofia"]
     	},
 	
     	{
         	"id": 74,
         	"author": "Arthur Schopenhauer",
-        	"quote": "El patriotismo es la pasión de los tontos y la más tonta de las pasiones",
+        	"quote": "Patriotism is the passion of fools and the silliest of all passions",
 			"topics": ["filosofia", "patriotismo", "pasión"]
     	},
 	
     	{
         	"id": 75,
         	"author": "Arthur Schopenhauer",
-        	"quote": "Un hombre puede ser él mismo sólo mientras está solo",
+        	"quote": "A man can only be himself when he is alone",
 			"topics": ["filosofia", "soledad"]
     	},
 	
     	{
         	"id": 76,
         	"author": "Arthur Schopenhauer",
-        	"quote": "Un pesimista es un optimista en plena posesión de los hechos",
+        	"quote": "A pessimist is an optimist who is fully aware of the facts",
 			"topics": ["filosofia", "optimismo", "pesimismo"]
     	},
 	
     	{
         	"id": 77,
         	"author": "Arthur Schopenhauer",
-        	"quote": "El hombre no debe compasión a los animales, sino justicia",
+        	"quote": "Man owes animals not compassion, but justice",
 			"topics": ["filosofia", "justicia", "animales"]
     	},
 	
     	{
         	"id": 78,
         	"author": "Arthur Schopenhauer",
-        	"quote": "El hombre ha hecho de la Tierra un infierno para los animales",
+        	"quote": "Man have turned the Earth into a living hell for animals",
 			"topics": ["filosofia", "animales"]
     	},
 	
     	{
         	"id": 79,
         	"author": "Arthur Schopenhauer",
-        	"quote": "La necesidad de sociedad que brota del vacío y la monotonía de la vida de los hombres, los une; pero sus muchas cualidades desagradables y repulsivas y sus insufribles inconvenientes los apartan una vez más",
+        	"quote": "The need for companionship that arises from the emptiness and monotony of human life brings people together; but their many unpleasant and repulsive qualities, along with their unbearable shortcomings, drive them apart once again",
 			"topics": ["filosofia", "vida", "sociedad"]
     	},
 	
     	{
         	"id": 80,
         	"author": "Arthur Schopenhauer",
-        	"quote": "Es dificil encontrar la felicidad dentro de uno mismo, pero es imposible encontrarla en otro lugar",
+        	"quote": "It's hard to find happiness within yourself, but it's impossible to find it anywhere else",
 			"topics": ["filosofia", "felicidad", "soledad"]
     	},
 	
     	{
         	"id": 81,
         	"author": "Immanuel Kant",
-        	"quote": "Se mide la inteligencia del individuo por la cantidad de incertidumbres que es capaz de soportar",
+        	"quote": "An individual's intelligence is measured by the amount of uncertainty they are able to tolerate",
 			"topics": ["filosofia", "inteligencia"]
     	},
 	
     	{
         	"id": 82,
         	"author": "Immanuel Kant",
-        	"quote": "Todo nuestro conocimiento comienza con los sentidos, a continuación, procede a la comprensión, y termina con la razón. No hay nada más alto que la razón",
+        	"quote": "All our knowledge begins with the senses, proceeds to understanding, and ends with reason. There is nothing higher than reason",
 			"topics": ["filosofia", "razón"]
     	},
 	
     	{
         	"id": 83,
         	"author": "Immanuel Kant",
-        	"quote": "Reglas para la felicidad: algo que hacer, alguien a quien amar, algo que esperar",
+        	"quote": "Rules for happiness: something to do, someone to love, something to look forward to",
 			"topics": ["filosofia", "felicidad"]
     	},
 	
     	{
         	"id": 84,
         	"author": "Immanuel Kant",
-        	"quote": "No inviertas todo tu tiempo en un sólo esfuerzo, porque cada cosa requiere su tiempo",
+        	"quote": "Don't devote all your time to a single endeavor, because everything takes time",
 			"topics": ["filosofia", "tiempo"]
     	},
 	
     	{
         	"id": 85,
         	"author": "Immanuel Kant",
-        	"quote": "Como el camino terreno está sembrado de espinas, Dios ha dado al hombre tres dones: la sonrisa, el sueño y la esperanza",
+        	"quote": "Since the path of life is strewn with thorns, God has given man three gifts: a smile, a dream, and hope",
 			"topics": ["filosofia", "dios"]
     	},
 	
     	{
         	"id": 86,
         	"author": "Immanuel Kant",
-        	"quote": "El sabio puede cambiar de opinión. El necio, nunca",
+        	"quote": "A wise person can change their mind. A fool never can.",
 			"topics": ["filosofia", "sabiduria"]
     	},
 	
     	{
         	"id": 87,
         	"author": "Immanuel Kant",
-        	"quote": "En las tinieblas la imaginación trabaja más activamente que en plena luz",
+        	"quote": "In the dark, the imagination works more actively than in broad daylight",
 			"topics": ["filosofia", "imaginación"]
     	},
 	
     	{
         	"id": 88,
         	"author": "Immanuel Kant",
-        	"quote": "Lo único que es un fin en sí mismo es el hombre, nunca puede ser utilizado como medio",
+        	"quote": "The only thing that is an end in itself is man; he can never be used as a means",
 			"topics": ["filosofia"]
     	},
 	
     	{
         	"id": 89,
         	"author": "Immanuel Kant",
-        	"quote": "Dormía y soñaba que la vida era bella; desperté y advertí que la vida era deber",
+        	"quote": "I was sleeping and dreaming that life was beautiful; I woke up and realized that life was a duty",
 			"topics": ["filosofia", "vida"]
     	},
 	
     	{
         	"id": 90,
         	"author": "Immanuel Kant",
-        	"quote": "Con las piedras que con duro intento los críticos te lanzan, bien puedes erigirte un monumento",
+        	"quote": "With the stones that critics hurl at you with such ferocity, you might as well build yourself a monument",
 			"topics": ["filosofia", "critica"]
     	},
 	
