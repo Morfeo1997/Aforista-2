@@ -134,7 +134,8 @@
     	{
         	"id": 15,
         	"author": "Blaise Pascal",
-        	"quote": "The queen of the world is power, not opinion; but it is opinion that wields power"
+        	"quote": "The queen of the world is power, not opinion; but it is opinion that wields power",
+        	"topics": ["filosofia", "moral"]
     	},
 	
     	{

@@ -140,7 +140,8 @@
     	{
         	"id": 15,
         	"author": "Blaise Pascal",
-        	"quote": "La reina del mundo es la fuerza y no la opinión; pero es la opinión la que usa la fuerza"
+        	"quote": "La reina del mundo es la fuerza y no la opinión; pero es la opinión la que usa la fuerza",
+			"topics": ["filosofia", "moral"]
     	},
 	
     	{

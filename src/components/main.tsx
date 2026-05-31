@@ -38,6 +38,12 @@ export default function Main() {
   const topics: Topic[] = data.topics;
 
   const quotes: Quote[] = data.quotes;
+  
+  console.log(
+  quotes.filter(
+    (quote) => !Array.isArray(quote.topics)
+  )
+);
 
   const filteredQuotes = useMemo(() => {
     if (selectedTopic === "all") {
