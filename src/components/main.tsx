@@ -17,12 +17,12 @@ type Topic = {
   label: string;
 };
 
-const topicThemeMap: Record<string, any> = {
+const topicThemeMap = {
   filosofia: "philosophy",
   ciencia: "science",
   arte: "art",
   vida: "nature",
-};
+} as const;
 
 export default function Main() {
   const { data } = useLanguage();
@@ -50,26 +50,32 @@ export default function Main() {
   }, [quotes, selectedTopic]);
 
   const generateQuote = () => {
-    if (filteredQuotes.length === 0) return;
+  if (filteredQuotes.length === 0) return;
 
-    const randomIndex = Math.floor(
-      Math.random() * filteredQuotes.length
-    );
+  const randomQuote =
+    filteredQuotes[
+      Math.floor(
+        Math.random() * filteredQuotes.length
+      )
+    ];
 
-    const randomQuote =
-      filteredQuotes[randomIndex];
+  setCurrentQuote(randomQuote);
 
-    setCurrentQuote(randomQuote);
+  const primaryTopic =
+    randomQuote.topics?.[0];
 
-    const mappedTheme =
-      topicThemeMap[selectedTopic];
+  if (!primaryTopic) {
+    setTheme("default");
+    return;
+  }
 
-    if (mappedTheme) {
-      setTheme(mappedTheme);
-    } else {
-      setTheme("default");
-    }
-  };
+  const mappedTheme =
+    topicThemeMap[
+      primaryTopic as keyof typeof topicThemeMap
+    ];
+
+  setTheme(mappedTheme ?? "default");
+};
 
   return (
     <main className="flex min-h-screen w-full items-center justify-center px-6 py-10">
