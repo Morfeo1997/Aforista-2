@@ -1,5 +1,5 @@
 {
-	"topics": [
+  "topics": [
     {
       "id": "filosofia",
       "label": "Filosofía"
@@ -17,1152 +17,1138 @@
       "label": "Life"
     }
   ],
-	"quotes":[
-    	{
-        	"id":1,
-        	"author": "Blaise Pascal",
-        	"quote": "A man's greatness lies in recognizing his own smallness.",
-        	"topics": ["filosofia", "vida"],
-        	"year": 1657,
-        	"source": "Pensées"
-    	},
-	
-    	{
-        	"id": 2,
-        	"author": "Blaise Pascal",
-        	"quote": "Justice without force is impotence; force without justice is tyranny",
-        	"topics": ["filosofia", "justicia", "politica"],
-        	"year": 1657
-    	},
-	
-    	{
-        	"id": 3,
-        	"author": "Blaise Pascal",
-        	"quote": "Two extremes: rejecting reason, accepting nothing but reason",
-        	"topics": ["filosofia"],
-        	"year": 1657
-    	},
-	
-    	{
-        	"id": 4,
-        	"author": "Blaise Pascal",
-        	"quote": "A man has hopes just as a bird has wings. That is what sustains him.",
-        	"topics": ["filosofia", "vida"],
-        	"year": 1657
-    	},
-	
-    	{
-        	"id": 5,
-        	"author": "Blaise Pascal",
-        	"quote": "If you talk about love enough, you end up falling in love",
-        	"topics": ["filosofia", "amor"],
-        	"year": 1657
-    	},
-	
-    	{
-        	"id": 6,
-        	"author": "Blaise Pascal",
-        	"quote": "What good is it for a man to gain the whole world if he loses his soul?",
-        	"topics": ["filosofia", "vida"],
-        	"year": 1657
-    	},
-	
-    	{
-        	"id": 7,
-        	"author": "Blaise Pascal",
-        	"quote": "Those who doubt but fail to investigate become not only unhappy but also unjust",
-        	"topics": ["filosofia"],
-        	"year": 1657
-    	},
-	
-    	{
-        	"id": 8,
-        	"author": "Blaise Pascal",
-        	"quote": "The king is surrounded by people whose sole concern is to entertain him and keep him from thinking about himself. For, no matter how much of a king he may be, he is miserable if he thinks about it.",
-        	"topics": ["filosofia", "vida"],
-        	"year": 1657
-    	},
-	
-    	{
-        	"id": 9,
-        	"author": "Blaise Pascal",
-        	"quote": "Description of the man: dependence, desire for independence, need.",
-			"topics": ["filosofia"],
-        	"year": 1657
-    	},
-	
-    	{
-        	"id": 10,
-        	"author": "Blaise Pascal",
-        	"quote": "When it comes to religion, we must be sincere: true pagans, true Jews, true Christians",
-			"topics": ["filosofia", "religión"],
-        	"year": 1657
-    	},
-	
-    	{
-        	"id": 11,
-        	"author": "Blaise Pascal",
-        	"quote": "Who feels miserable not because he isn't a king, but because he is a dethroned king?",
-			"topics": ["filosofia", "vida"],
-        	"year": 1657
-    	},
-	
-    	{
-        	"id": 12,
-        	"author": "Blaise Pascal",
-        	"quote": "Morality is the science par excellence; it is the art of living well and being happy",
-			"topics": ["filosofia", "moral"],
-        	"year": 1657
-    	},
-	
-    	{
-        	"id": 13,
-        	"author": "Blaise Pascal",
-        	"quote": "He who believes he is right about everything is ignorant of the true nature of things",
-			"topics": ["filosofia", "razón"],
-        	"year": 1657
-    	},
-	
-    	{
-        	"id": 14,
-        	"author": "Blaise Pascal",
-        	"quote": "Conscience is the best moral guide we have",
-			"topics": ["filosofia", "moral"],
-        	"year": 1657
-    	},
-	
-    	{
-        	"id": 15,
-        	"author": "Blaise Pascal",
-        	"quote": "The queen of the world is power, not opinion; but it is opinion that wields power",
-        	"topics": ["filosofia", "moral"]
-    	},
-	
-    	{
-        	"id": 16,
-        	"author": "Blaise Pascal",
-        	"quote": "Our nature is in motion. Absolute stillness is death.",
-			"topics": ["filosofia", "vida"],
-        	"year": 1657
-    	},
-	
-    	{
-        	"id": 17,
-        	"author": "Blaise Pascal",
-        	"quote": "If we’re always ready to be happy, it’s inevitable that we’ll sometimes not be",
-			"topics": ["filosofia", "felicidad"],
-        	"year": 1657
-    	},
-	
-    	{
-        	"id": 18,
-        	"author": "Blaise Pascal",
-        	"quote": "Reason works slowly, and with so many considerations and so many principles, that it constantly drifts off or loses its way. Passion acts in an instant",
-			"topics": ["filosofia", "razón"],
-        	"year": 1657
-    	},
-	
-    	{
-        	"id": 19,
-        	"author": "Blaise Pascal",
-        	"quote": "Neither is a contradiction an indication of falsehood, nor is the absence of contradiction an indication of truth",
-			"topics": ["filosofia", "verdad"],
-        	"year": 1657
-    	},
-	
-    	{
-        	"id": 20,
-        	"author": "Blaise Pascal",
-        	"quote": "We never actually live; instead, we wait to live. And since we are always preparing to be happy, it is inevitable that we will never be so.",
-			"topics": ["filosofia", "felicidad"],
-        	"year": 1657
-    	},
-	
-    	{
-        	"id": 21,
-        	"author": "Platón",
-        	"quote": "It is not the eyes that see, but what we see through the eyes",
-			"topics": ["filosofia"]
-    	},
-	
-    	{
-        	"id": 22,
-        	"author": "Platón",
-        	"quote": "A wise man will always want to be with someone who is better than he is",
-			"topics": ["filosofia", "sabiduria"]
-    	},
-	
-    	{
-        	"id": 23,
-        	"author": "Platón",
-        	"quote": "We must look for a cause of our troubles other than God",
-			"topics": ["filosofia", "dios"]
-    	},
-	
-    	{
-        	"id": 24,
-        	"author": "Platón",
-        	"quote": "No human cause deserves such anxiety",
-			"topics": ["filosofia", "ansiedad"]
-    	},
-	
-    	{
-        	"id": 25,
-        	"author": "Platón",
-        	"quote": "By seeking the good of our fellow human beings, we will find our own",
-			"topics": ["filosofia", "vida"]
-    	},
-	
-    	{
-        	"id": 26,
-        	"author": "Platón",
-        	"quote": "Especially at night, it is beautiful to believe in the light",
-			"topics": ["filosofia", "esperanza"]
-    	},
-	
-    	{
-        	"id": 27,
-        	"author": "Platón",
-        	"quote": "The purpose of education is virtue, and the goal is to become a good citizen",
-			"topics": ["filosofia", "educación"]
-    	},
-	
-    	{
-        	"id": 28,
-        	"author": "Platón",
-        	"quote": "There are three kinds of men: those who love wisdom, those who love honor, and those who love wealth",
-			"topics": ["filosofia", "vida"]
-    	},
-	
-    	{
-        	"id": 29,
-        	"author": "Platón",
-        	"quote": "Love is feeling the sacred essence beating within your loved one",
-			"topics": ["filosofia", "amor"]
-    	},
-	
-    	{
-        	"id": 30,
-        	"author": "Platón",
-        	"quote": "States are like men; they are born of their own characteristics",
-			"topics": ["filosofia"]
-    	},
-	
-    	{
-        	"id": 31,
-        	"author": "Platón",
-        	"quote": "The larger stones cannot be properly set without the smaller ones",
-			"topics": ["filosofia", "vida"]
-    	},
-	
-    	{
-        	"id": 32,
-        	"author": "Platón",
-        	"quote": "Honesty often yields less profit than lying",
-			"topics": ["filosofia", "verdad"]
-    	},
-	
-    	{
-        	"id": 33,
-        	"author": "Platón",
-        	"quote": "You should never discourage anyone who is constantly making progress, no matter how slowly they go",
-			"topics": ["filosofia", "vida"]
-    	},
-	
-    	{
-        	"id": 34,
-        	"author": "Platón",
-        	"quote": "Any man can easily do harm, but not every man can do good for another",
-			"topics": ["filosofia", "bondad"]
-    	},
-	
-    	{
-        	"id": 35,
-        	"author": "Platón",
-        	"quote": "A wise man speaks with authority when he takes charge of his own life",
-			"topics": ["filosofia", "vida"]
-    	},
-	
-    	{
-        	"id": 36,
-        	"author": "Platón",
-        	"quote": "Good deeds give us strength and inspire others to do good as well",
-			"topics": ["filosofia", "vida", "bondad"]
-    	},
-	
-    	{
-        	"id": 37,
-        	"author": "Platón",
-        	"quote": "When a man is not willing to make sacrifices for his beliefs, either those beliefs are worthless or the man himself is worthless",
-			"topics": ["filosofia", "verdad"]
-    	},
-	
-    	{
-        	"id": 38,
-        	"author": "Platón",
-        	"quote": "If virtue had a face, everyone would fall in love with it",
-			"topics": ["filosofia"]
-    	},
-	
-    	{
-        	"id": 39,
-        	"author": "Platón",
-        	"quote": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when adults are afraid of the light",
-			"topics": ["filosofia", "miedo"]
-    	},
-	
-    	{
-        	"id": 40,
-        	"author": "Platón",
-        	"quote": "When a mob exercises authority, it is even more cruel than tyrants",
-			"topics": ["filosofia", "democracia"]
-    	},
-	
-    	{
-        	"id": 41,
-        	"author": "Aristóteles",
-        	"quote": "Friendship is a soul that dwells in two bodies; a heart that dwells in two souls",
-			"topics": ["filosofia", "amistad"]
-    	},
-	
-    	{
-        	"id": 42,
-        	"author": "Aristóteles",
-        	"quote": "The purpose of art is to give form to the hidden essence of things, not to copy their outward appearance",
-			"topics": ["arte", "filosofia"]
-    	},
-	
-    	{
-        	"id": 43,
-        	"author": "Aristóteles",
-        	"quote": "Happiness can only be found where there is virtue and earnest effort, for life is no game",
-			"topics": ["filosofia", "felicidad"]
-    	},
-	
-    	{
-        	"id": 44,
-        	"author": "Aristóteles",
-        	"quote": "The only true sign of deep understanding is the ability to teach",
-			"topics": ["filosofia"]
-    	},
-	
-    	{
-        	"id": 45,
-        	"author": "Aristóteles",
-        	"quote": "The goal of the wise is not to ensure pleasure, but to avoid pain",
-			"topics": ["filosofia"]
-    	},
-	
-    	{
-        	"id": 46,
-        	"author": "Aristóteles",
-        	"quote": "We acquire a particular quality by acting in a particular way",
-			"topics": ["filosofia"]
-    	},
-	
-    	{
-        	"id": 47,
-        	"author": "Aristóteles",
-        	"quote": "The purpose of art is to give form to the hidden essence of things, not to copy their outward appearance",
-			"topics": ["arte"]
-    	},
-	
-    	{
-        	"id": 48,
-        	"author": "Aristóteles",
-        	"quote": "Some people believe that all it takes to be friends is to want to be friends, just as if all it took to be healthy were to wish for good health",
-			"topics": ["filosofia", "amistad"]
-    	},
-	
-    	{
-        	"id": 49,
-        	"author": "Aristóteles",
-        	"quote": "If you're not a good follower, you can't be a good leader",
-			"topics": ["filosofia", "politica", "liderazgo"]
-    	},
-	
-    	{
-        	"id": 50,
-        	"author": "Aristóteles",
-        	"quote": "Developing certain habits at a young age is no small matter:/n it is of the utmost importance",
-			"topics": ["filosofia", "habitos"]
-    	},
-	
-    	{
-        	"id": 51,
-        	"author": "Aristóteles",
-        	"quote": "Good style should have a touch of novelty while at the same time remaining understated",
-			"topics": ["arte"]
-    	},
-	
-    	{
-        	"id": 52,
-        	"author": "Aristóteles",
-        	"quote": "Only those who do good can hope to find happiness in life",
-			"topics": ["filosofia", "felicidad"]
-    	},
-	
-    	{
-        	"id": 53,
-        	"author": "Aristóteles",
-        	"quote": "A person can learn nothing except by virtue of what they already know",
-			"topics": ["filosofia"]
-    	},
-	
-    	{
-        	"id": 54,
-        	"author": "Aristóteles",
-        	"quote": "I consider the one who overcomes his own desires to be braver than the one who overcomes his enemies",
-			"topics": ["filosofia", "valentia"]
-    	},
-	
-    	{
-        	"id": 55,
-        	"author": "Aristóteles",
-        	"quote": "We value more what we have achieved through great effort",
-			"topics": ["filosofia"]
-    	},
-	
-    	{
-        	"id": 56,
-        	"author": "Aristóteles",
-        	"quote": "Philosophy must be a special branch of knowledge, concerned with first principles and first causes",
-			"topics": ["filosofia"]
-    	},
-	
-    	{
-        	"id": 57,
-        	"author": "Aristóteles",
-        	"quote": "I consider the person who conquers their desires to be braver than the one who conquers their enemies, for the hardest victory is the victory over oneself",
-			"topics": ["filosofia", "vida"]
-    	},
-	
-    	{
-        	"id": 58,
-        	"author": "Aristóteles",
-        	"quote": "Happiness is the meaning and purpose of life, the ultimate goal of human existence",
-			"topics": ["filosofia", "felicidad", "vida"]
-    	},
-	
-    	{
-        	"id": 59,
-        	"author": "Aristóteles",
-        	"quote": "The best thing is to leave this life as if leaving a party—neither thirsty nor drunk",
-			"topics": ["filosofia", "vida"]
-    	},
-	
-    	{
-        	"id": 60,
-        	"author": "Aristóteles",
-        	"quote": "In times of poverty and other hardships, true friends are a safe haven",
-			"topics": ["filosofia", "amistad"]
-    	},
-    	
-    	{
-        	"id": 61,
-        	"author": "Arthur Schopenhauer",
-        	"quote": "Life is a vague longing and a torment",
-			"topics": ["filosofia", "vida"]
-    	},
-	
-    	{
-        	"id": 62,
-        	"author": "Arthur Schopenhauer",
-        	"quote": "Young people should learn early on to cope with being alone, as it is a source of happiness and peace of mind",
-			"topics": ["filosofia", "soledad", "felicidad"]
-    	},
-	
-    	{
-        	"id": 63,
-        	"author": "Arthur Schopenhauer",
-        	"quote": "Men are by nature merely indifferent to one another; but women are by nature enemies",
-			"topics": ["filosofia"]
-    	},
-	
-    	{
-        	"id": 64,
-        	"author": "Arthur Schopenhauer",
-        	"quote": "Optimism is nothing more than the unwarranted self-praise of the true creator of the world—that is, the will to live—which gazes with satisfaction upon its own work; hence, it is not only a false doctrine, but even a pernicious one",
-			"topics": ["filosofia", "vida", "optimismo"]
-    	},
-	
-    	{
-        	"id": 65,
-        	"author": "Arthur Schopenhauer",
-        	"quote": "The best, most varied, and longest-lasting pleasures are those of the mind",
-			"topics": ["filosofia", "vida"]
-    	},
-	
-    	{
-        	"id": 66,
-        	"author": "Arthur Schopenhauer",
-        	"quote": "Those who do not enjoy solitude will not love freedom",
-			"topics": ["filosofia", "libertad", "soledad"]
-    	},
-	
-    	{
-        	"id": 67,
-        	"author": "Arthur Schopenhauer",
-        	"quote": "Man is the only animal that causes pain to others for no other reason than the desire to do so",
-			"topics": ["filosofia", "dolor"]
-    	},
-	
-    	{
-        	"id": 68,
-        	"author": "Arthur Schopenhauer",
-        	"quote": "Life without pain is meaningless",
-			"topics": ["filosofia", "vida"]
-    	},
-	
-    	{
-        	"id": 69,
-        	"author": "Arthur Schopenhauer",
-        	"quote": "Religions are like fireflies. They need darkness to shine.",
-			"topics": ["filosofia", "religión"]
-    	},
-	
-    	{
-        	"id": 70,
-        	"author": "Arthur Schopenhauer",
-        	"quote": "Wealth is like seawater; the more we drink, the thirstier we become; the same is true of fame",
-			"topics": ["filosofia", "fama", "riqueza"]
-    	},
-	
-    	{
-        	"id": 71,
-        	"author": "Arthur Schopenhauer",
-        	"quote": "Compassion is the foundation of morality",
-			"topics": ["filosofia", "moral"]
-    	},
-	
-    	{
-        	"id": 72,
-        	"author": "Arthur Schopenhauer",
-        	"quote": "Life is a constant process of agony",
-			"topics": ["filosofia", "vida"]
-    	},
-	
-    	{
-        	"id": 73,
-        	"author": "Arthur Schopenhauer",
-        	"quote": "Every genius is a big child; he looks at the world as something strange, as a spectacle, and therefore with a purely objective interest",
-			"topics": ["filosofia"]
-    	},
-	
-    	{
-        	"id": 74,
-        	"author": "Arthur Schopenhauer",
-        	"quote": "Patriotism is the passion of fools and the silliest of all passions",
-			"topics": ["filosofia", "patriotismo", "pasión"]
-    	},
-	
-    	{
-        	"id": 75,
-        	"author": "Arthur Schopenhauer",
-        	"quote": "A man can only be himself when he is alone",
-			"topics": ["filosofia", "soledad"]
-    	},
-	
-    	{
-        	"id": 76,
-        	"author": "Arthur Schopenhauer",
-        	"quote": "A pessimist is an optimist who is fully aware of the facts",
-			"topics": ["filosofia", "optimismo", "pesimismo"]
-    	},
-	
-    	{
-        	"id": 77,
-        	"author": "Arthur Schopenhauer",
-        	"quote": "Man owes animals not compassion, but justice",
-			"topics": ["filosofia", "justicia", "animales"]
-    	},
-	
-    	{
-        	"id": 78,
-        	"author": "Arthur Schopenhauer",
-        	"quote": "Man have turned the Earth into a living hell for animals",
-			"topics": ["filosofia", "animales"]
-    	},
-	
-    	{
-        	"id": 79,
-        	"author": "Arthur Schopenhauer",
-        	"quote": "The need for companionship that arises from the emptiness and monotony of human life brings people together; but their many unpleasant and repulsive qualities, along with their unbearable shortcomings, drive them apart once again",
-			"topics": ["filosofia", "vida", "sociedad"]
-    	},
-	
-    	{
-        	"id": 80,
-        	"author": "Arthur Schopenhauer",
-        	"quote": "It's hard to find happiness within yourself, but it's impossible to find it anywhere else",
-			"topics": ["filosofia", "felicidad", "soledad"]
-    	},
-	
-    	{
-        	"id": 81,
-        	"author": "Immanuel Kant",
-        	"quote": "An individual's intelligence is measured by the amount of uncertainty they are able to tolerate",
-			"topics": ["filosofia", "inteligencia"]
-    	},
-	
-    	{
-        	"id": 82,
-        	"author": "Immanuel Kant",
-        	"quote": "All our knowledge begins with the senses, proceeds to understanding, and ends with reason. There is nothing higher than reason",
-			"topics": ["filosofia", "razón"]
-    	},
-	
-    	{
-        	"id": 83,
-        	"author": "Immanuel Kant",
-        	"quote": "Rules for happiness: something to do, someone to love, something to look forward to",
-			"topics": ["filosofia", "felicidad"]
-    	},
-	
-    	{
-        	"id": 84,
-        	"author": "Immanuel Kant",
-        	"quote": "Don't devote all your time to a single endeavor, because everything takes time",
-			"topics": ["filosofia", "tiempo"]
-    	},
-	
-    	{
-        	"id": 85,
-        	"author": "Immanuel Kant",
-        	"quote": "Since the path of life is strewn with thorns, God has given man three gifts: a smile, a dream, and hope",
-			"topics": ["filosofia", "dios"]
-    	},
-	
-    	{
-        	"id": 86,
-        	"author": "Immanuel Kant",
-        	"quote": "A wise person can change their mind. A fool never can.",
-			"topics": ["filosofia", "sabiduria"]
-    	},
-	
-    	{
-        	"id": 87,
-        	"author": "Immanuel Kant",
-        	"quote": "In the dark, the imagination works more actively than in broad daylight",
-			"topics": ["filosofia", "imaginación"]
-    	},
-	
-    	{
-        	"id": 88,
-        	"author": "Immanuel Kant",
-        	"quote": "The only thing that is an end in itself is man; he can never be used as a means",
-			"topics": ["filosofia"]
-    	},
-	
-    	{
-        	"id": 89,
-        	"author": "Immanuel Kant",
-        	"quote": "I was sleeping and dreaming that life was beautiful; I woke up and realized that life was a duty",
-			"topics": ["filosofia", "vida"]
-    	},
-	
-    	{
-        	"id": 90,
-        	"author": "Immanuel Kant",
-        	"quote": "With the stones that critics hurl at you with such ferocity, you might as well build yourself a monument",
-			"topics": ["filosofia", "critica"]
-    	},
-	
-    	{
-        	"id": 91,
-        	"author": "Immanuel Kant",
-        	"quote": "La felicidad no es un ideal de la razón, sino de la imaginación",
-			"topics": ["filosofia", "felicidad", "imaginación"]
-    	},
-	
-    	{
-        	"id": 92,
-        	"author": "Immanuel Kant",
-        	"quote": "Cuanto más ocupados estemos, más agudamente sentimos que vivimos, cuanto más conscientes somos de la vida",
-			"topics": ["filosofia", "vida"]
-    	},
-	
-    	{
-        	"id": 93,
-        	"author": "Immanuel Kant",
-        	"quote": "Los pensamientos sin contenido son vacíos, las intuiciones sin conceptos son ciegas",
-			"topics": ["filosofia", "sabiduria"]
-    	},
-	
-    	{
-        	"id": 94,
-        	"author": "Immanuel Kant",
-        	"quote": "El espacio y el tiempo son el marco dentro del cual se ve limitada la mente para construir su experiencia de la realidad",
-			"topics": ["filosofia", "tiempo", "razón"]
-    	},
-	
-    	{
-        	"id": 95,
-        	"author": "Immanuel Kant",
-        	"quote": "Tuve que negar el conocimiento con el fin de hacer espacio para la fe",
-			"topics": ["filosofia", "sabiduria", "religión"]
-    	},
-	
-    	{
-        	"id": 96,
-        	"author": "Immanuel Kant",
-        	"quote": "Obra de modo que la máxima de tu voluntad pueda ser en todo tiempo principio de una ley general",
-			"topics": ["filosofia", "razón", "moral"]
-    	},
-	
-    	{
-        	"id": 97,
-        	"author": "Immanuel Kant",
-        	"quote": "Trata a las personas como un fin, nunca como un medio para un fin",
-			"topics": ["filosofia", "amistad"]
-    	},
-	
-    	{
-        	"id": 98,
-        	"author": "Immanuel Kant",
-        	"quote": "Sólo el iluminado, no tiene miedo de las sombras",
-			"topics": ["filosofia", "miedo", "sabiduria"]
-    	},
-	
-    	{
-        	"id": 99,
-        	"author": "Immanuel Kant",
-        	"quote": "El que es cruel con los animales se vuelve duro también en sus relaciones con los hombres. Podemos juzgar el corazón de un hombre por su trato a los animales",
-			"topics": ["filosofia", "animales", "moral"]
-    	},
-	
-    	{
-        	"id": 100,
-        	"author": "Immanuel Kant",
-        	"quote": "El derecho es el conjunto de condiciones que permiten a la libertad de cada uno acomodarse a la libertad de todos",
-			"topics": ["filosofia", "justicia", "libertad"]
-    	},
-	
-    	{
-        	"id":101,
-        	"author": "Rene Descartes",
-        	"quote": "Todo lo complejo puede dividirse en partes simples",
-			"topics": ["filosofia", "razón"]
-    	},
-	
-    	{
-        	"id":102,
-        	"author": "Rene Descartes",
-        	"quote": "Daría todo lo que sé por la mitad de lo que ignoro",
-			"topics": ["filosofia", "sabiduria"]
-    	},
-	
-    	{
-        	"id":103,
-        	"author": "Rene Descartes",
-        	"quote": "Sería absurdo que nosotros, cosas finitas, tratáramos de determinar las cosas infinitas",
-			"topics": ["filosofia", "razón"]
-    	},
-	
-    	{
-        	"id":104,
-        	"author": "Rene Descartes",
-        	"quote": "La razón y el juicio es la única cosa que nos hace hombres y nos distingue de los animales",
-			"topics": ["filosofia", "animales", "razón"]
-    	},
-	
-    	{
-        	"id":105,
-        	"author": "Rene Descartes",
-        	"quote": "Es prudente no fiarse por entero de quienes nos han engañado una vez",
-			"topics": ["filosofia", "moral"]
-    	},
-	
-    	{
-        	"id":106,
-        	"author": "Rene Descartes",
-        	"quote": "Despréndete de todas las impresiones de los sentidos y de la imaginación y no te fíes sino de la razón",
-			"topics": ["filosofia", "razón"] 
-    	},
-	
-    	{
-        	"id":107,
-        	"author": "Rene Descartes",
-        	"quote": "Vivir sin filosofar es, propiamente, tener los ojos cerrados sin tratar de abrirlos jamás",
-			"topics": ["filosofia", "vida", "moral"]
-    	},
-	
-    	{
-        	"id":108,
-        	"author": "Rene Descartes",
-        	"quote": "Mejor que buscar la verdad sin método es no pensar nunca en ella, porque los estudios desordenados y las meditaciones oscuras turban las luces naturales de la razón y ciegan la inteligencia",
-			"topics": ["filosofia", "verdad", "razón"]
-    	},
-	
-    	{
-        	"id":109,
-        	"author": "Rene Descartes",
-        	"quote": "Un estado es mejor gobernado si tiene pocas leyes y esas leyes son minuciosamente observadas",
-			"topics": ["filosofia", "politica", "justicia"]
-    	},
-	
-    	{
-        	"id":110,
-        	"author": "Rene Descartes",
-        	"quote": "No hay alma, por poco noble que sea, que permanezca tan aferrada a los objetos de los sentidos que, a veces, no se aparte de ellos para desear un bien mayor",
-			"topics": ["filosofia"]
-    	},
-	
-    	{
-        	"id":111,
-        	"author": "Rene Descartes",
-        	"quote": "Leer un libro enseña más que hablar con su autor, porque el autor, en el libro, solo ha puesto sus mejores pensamientos",
-			"topics": ["filosofia", "sabiduria"]
-    	},
-	
-    	{
-        	"id":112,
-        	"author": "Rene Descartes",
-        	"quote": "Para saber lo que la gente realmente piensa presta atención a lo que hacen en lugar de a lo que dicen",
-			"topics": ["filosofia", "verdad","vida"]
-    	},
-	
-    	{
-        	"id":113,
-        	"author": "Rene Descartes",
-        	"quote": "Sentir no es otra cosa que pensar",
-			"topics": ["filosofia", "sabiduria"]
-    	},
-	
-    	{
-        	"id":114,
-        	"author": "Rene Descartes",
-        	"quote": "Dos cosas contribuyen a avanzar: ir más deprisa que los otros, o ir por el buen camino",
-			"topics": ["filosofia", "progreso", "vida"]
-    	},
-	
-    	{
-        	"id":115,
-        	"author": "Rene Descartes",
-        	"quote": "Mejor es modificar nuestros deseos que la ordenación del mundo",
-			"topics": ["filosofia", "vida"]
-    	},
-	
-    	{
-        	"id":116,
-        	"author": "Rene Descartes",
-        	"quote": "He cometido todos los errores que se podían cometer y sin embargo nunca he dejado de esforzarme",
-			"topics": ["filosofia", "adversidad"]
-    	},
-	
-    	{
-        	"id":117,
-        	"author": "Rene Descartes",
-        	"quote": "Mi objetivo no es enseñar el método que todo el mundo debería seguir para utilizar bien la razón, sino únicamente mostrar como he tratado de utilizar bien la mía",
-			"topics": ["filosofia", "razón"]
-    	},
-	
-    	{
-        	"id":118,
-        	"author": "Rene Descartes",
-        	"quote": "El que emplea demasiado tiempo en viajar acaba siendo extranjero en su propio país",
-			"topics": ["filosofia", "mundo"]
-    	},
-	
-    	{
-        	"id":119,
-        	"author": "Rene Descartes",
-        	"quote": "Con frecuencia una falsa alegría vale más que una tristeza cuya causa es verdadera",
-			"topics": ["filosofia", "felicidad"]
-    	},
-	
-    	{
-        	"id":120,
-        	"author": "Rene Descartes",
-        	"quote": "Los más generosos acostumbran a ser los más humildes",
-			"topics": ["filosofia","moral", "bondad"]
-    	},
-	
-    	{
-        	"id":122,
-        	"author":"Rene Descartes",
-        	"quote": "La verdadera inteligencia consiste en descubrir la inteligencia ajena",
-			"topics": ["filosofia", "inteligencia", "sabiduria"]
-    	},
-	
-    	{
-        	"id":123,
-        	"author":"Rene Descartes",
-        	"quote": "Nuestra idea de Dios implica la existencia necesaria y eterna. Por tanto, la conclusión manifiesta es que Dios existe",
-			"topics": ["filosofia", "dios"]
-    	},
-	
-    	{
-        	"id":124,
-        	"author":"Rene Descartes",
-        	"quote": "La naturaleza aborrece el vacío",
-			"topics": ["filosofia", "vida"]
-    	},
-	
-    	{
-        	"id":125,
-        	"author":"Rene Descartes",
-        	"quote": "Abrigamos una multitud de prejuicios si no nos decidimos a dudar, alguna vez, de todas las cosas en que encontremos la menor sospecha de incertidumbre",
-			"topics": ["filosofia", "verdad", "justicia"]
-    	},
-	
-    	{
-        	"id":126,
-        	"author":"Rene Descartes",
-        	"quote": "Pensad antes de obrar y no comencéis nada sin haber consultado las circunstancias bien a fondo",
-			"topics": ["filosofia", "vida"]
-    	},
-	
-    	{
-        	"id":127,
-        	"author":"Rene Descartes",
-        	"quote": "Lo poco que he aprendido carece de valor comparado con lo que ignoro y no desespero en aprender",
-			"topics": ["filosofia", "sabiduria"]
-    	},
-	
-    	{
-        	"id":128,
-        	"author":"Rene Descartes",
-        	"quote": "Ser incapaz de entusiasmo es señal de mediocridad",
-			"topics": ["filosofia", "felicidad"]
-    	},
-	
-    	{
-        	"id":129,
-        	"author":"Rene Descartes",
-        	"quote": "Dubito, ergo cogito (Dudo, luego pienso)",
-			"topics": ["filosofia", "razón"]
-    	},
-	
-    	{
-        	"id":130,
-        	"author":"Rene Descartes",
-        	"quote": "Cogito, ergo sum (Pienso, luego existo)",
-			"topics": ["filosofia", "razón"]
-    	},
-	
-    	{
-        	"id":131,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "Los monos son demasiado buenos para que el hombre pueda descender de ellos",
-			"topics": ["filosofia", "animales", "moral"]
-    	},
-	
-    	{
-        	"id":132,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "Aquel que tiene un porqué para vivir se puede enfrentar a todos los cómos",
-			"topics": ["filosofia", "adversidad", "vida"]
-    	},
-	
-    	{
-        	"id":133,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "Sin música, la vida sería un error",
-			"topics": ["filosofia", "música"]
-    	},
-	
-    	{
-        	"id":134,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "El destino de los hombres está hecho de momentos felices, toda la vida los tiene, pero no de épocas felices",
-			"topics": ["filosofia", "felicidad"]
-    	},
-	
-    	{
-        	"id":135,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "Los que más han amado al hombre le han hecho siempre el máximo daño",
-			"topics": ["filosofia", "amor"]
-    	},
-	
-    	{
-        	"id":136,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "Cuando llegue el sufrimiento, míralo a la cara y enfréntate a él",
-			"topics": ["filosofia", "adversidad"]
-    	},
-	
-    	{
-        	"id":137,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "La mentira más común es aquella con la que las personas se engañan a sí mismas",
-			"topics": ["filosofia", "verdad"]
-    	},
-	
-    	{
-        	"id":138,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "¿Es el hombre un fallo de Dios, o Dios un fallo del hombre?",
-			"topics": ["filosofia", "dios"]
-    	},
-	
-    	{
-        	"id":139,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "El amor no es ciego, sólo está cegado por la pasión que lleva dentro",
-			"topics": ["filosofia", "amor", "pasión"]
-    	},
-	
-    	{
-        	"id":140,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "El hombre fue quién creó a Dios a su imagen y semejanza",
-			"topics": ["filosofia", "dios"]
-    	},
-	
-    	{
-        	"id":141,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "Yo necesito compañeros vivos, no cadáveres con los que tenga que cargar",
-			"topics": ["filosofia", "amistad"]
-    	},
-	
-    	{
-        	"id":142,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "La mujer perfecta es un ser humano superior al mejor de los hombres",
-			"topics": ["filosofia", "mujer", "hombre"]
-    	},
-	
-    	{
-        	"id":143,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "La vida es demasiado breve como para aburrirnos",
-			"topics": ["filosofia", "vida", "aburrimiento"]
-    	},
-	
-    	{
-        	"id":144,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "Estamos acostumbrados a la vida porque nos gusta el amor",
-			"topics": ["filosofia", "amor"]
-    	},
-	
-    	{
-        	"id":145,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "El remordimiento es como un perro mordiendo una piedra: una estupidez",
-			"topics": ["filosofia", "remordimiento"]
-    	},
-	
-    	{
-        	"id":146,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "Cualquier idealismo frente a la necesidad es un engaño",
-			"topics": ["filosofia", "sabiduria"]
-    	},
-	
-    	{
-        	"id":147,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "La guerra vuelve estúpido al vencedor y rencoroso al vencido",
-			"topics": ["filosofia", "guerra"]
-    	},
-	
-    	{
-        	"id":148,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "Tenemos arte para no morir de la verdad",
-			"topics": ["arte", "filosofia"]
-    	},
-	
-    	{
-        	"id":149,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "Cuando se tiene muchas cosas que hacer, el día tiene 100 bolsillos",
-			"topics": ["filosofia", "vida"]
-    	},
-	
-    	{
-        	"id":150,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "Sin arte la vida también sería un error",
-			"topics": ["arte"]
-    	},
-	
-    	{
-        	"id":151,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "La boca puede mentir, pero la mueca del momento revela la verdad",
-			"topics": ["filosofia", "verdad"]
-    	},
-	
-    	{
-        	"id":152,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "El camino a todo lo grandioso pasa por guardar silencio",
-			"topics": ["filosofia", "sabiduria"]
-    	},
-	
-    	{
-        	"id":153,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "Es la perseverancia la que hace grandes a los hombres, no la fuerza",
-			"topics": ["filosofia", "grandeza", "sabiduria"]
-    	},
-	
-    	{
-        	"id":154,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "Aquello que hacemos nunca es comprendido, sólo es acogido por elogios o crítica",
-			"topics": ["filosofia", "critica", "vida"]
-    	},
-	
-    	{
-        	"id":155,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "Cuanto más nos elevamos, más pequeños parecemos a quienes no saben volar.",
-			"topics": ["filosofia", "vida", "sabiduria"]
-    	},
-	
-	
-    	{
-        	"id":156,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "Toda convicción es una cárcel.",
-			"topics": ["filosofia", "vida", "sabiduria"]
-    	},
-	
-	
-    	{
-        	"id":157,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "La vida misma es la voluntad de dominar.",
-			"topics": ["filosofia", "vida"]
-    	},
-	
-	
-    	{
-        	"id":158,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "Es sencillo hacer que las cosas sean complicadas, pero difícil hacer que sean sencillas.",
-			"topics": ["filosofia"]
-    	},
-	
-	
-    	{
-        	"id":159,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "El mundo real es mucho más pequeño que el mundo de la imaginación.",
-			"topics": ["filosofia", "imaginación"]
-    	},
-	
-	
-    	{
-        	"id":160,
-        	"author":"Friedrich Nietzsche",
-        	"quote": "Entre el sentido de culpabilidad y el placer, siempre gana el placer.",
-			"topics": ["filosofia", "placer"]
-    	}
-	
-	
-	
-	
-	
-    	
-	
-	
-	
-	]
+  "quotes": [
+    {
+      "id": 1,
+      "author": "Blaise Pascal",
+      "quote": "A man's greatness lies in recognizing his own smallness.",
+      "topics": ["filosofia", "vida"],
+      "year": 1657,
+      "source": "Pensées"
+    },
+
+    {
+      "id": 2,
+      "author": "Blaise Pascal",
+      "quote": "Justice without force is impotence; force without justice is tyranny",
+      "topics": ["filosofia", "justicia", "politica"],
+      "year": 1657
+    },
+
+    {
+      "id": 3,
+      "author": "Blaise Pascal",
+      "quote": "Two extremes: rejecting reason, accepting nothing but reason",
+      "topics": ["filosofia"],
+      "year": 1657
+    },
+
+    {
+      "id": 4,
+      "author": "Blaise Pascal",
+      "quote": "A man has hopes just as a bird has wings. That is what sustains him.",
+      "topics": ["filosofia", "vida"],
+      "year": 1657
+    },
+
+    {
+      "id": 5,
+      "author": "Blaise Pascal",
+      "quote": "If you talk about love enough, you end up falling in love",
+      "topics": ["filosofia", "amor"],
+      "year": 1657
+    },
+
+    {
+      "id": 6,
+      "author": "Blaise Pascal",
+      "quote": "What good is it for a man to gain the whole world if he loses his soul?",
+      "topics": ["filosofia", "vida"],
+      "year": 1657
+    },
+
+    {
+      "id": 7,
+      "author": "Blaise Pascal",
+      "quote": "Those who doubt but fail to investigate become not only unhappy but also unjust",
+      "topics": ["filosofia"],
+      "year": 1657
+    },
+
+    {
+      "id": 8,
+      "author": "Blaise Pascal",
+      "quote": "The king is surrounded by people whose sole concern is to entertain him and keep him from thinking about himself. For, no matter how much of a king he may be, he is miserable if he thinks about it.",
+      "topics": ["filosofia", "vida"],
+      "year": 1657
+    },
+
+    {
+      "id": 9,
+      "author": "Blaise Pascal",
+      "quote": "Description of the man: dependence, desire for independence, need.",
+      "topics": ["filosofia"],
+      "year": 1657
+    },
+
+    {
+      "id": 10,
+      "author": "Blaise Pascal",
+      "quote": "When it comes to religion, we must be sincere: true pagans, true Jews, true Christians",
+      "topics": ["filosofia", "religión"],
+      "year": 1657
+    },
+
+    {
+      "id": 11,
+      "author": "Blaise Pascal",
+      "quote": "Who feels miserable not because he isn't a king, but because he is a dethroned king?",
+      "topics": ["filosofia", "vida"],
+      "year": 1657
+    },
+
+    {
+      "id": 12,
+      "author": "Blaise Pascal",
+      "quote": "Morality is the science par excellence; it is the art of living well and being happy",
+      "topics": ["filosofia", "moral"],
+      "year": 1657
+    },
+
+    {
+      "id": 13,
+      "author": "Blaise Pascal",
+      "quote": "He who believes he is right about everything is ignorant of the true nature of things",
+      "topics": ["filosofia", "razón"],
+      "year": 1657
+    },
+
+    {
+      "id": 14,
+      "author": "Blaise Pascal",
+      "quote": "Conscience is the best moral guide we have",
+      "topics": ["filosofia", "moral"],
+      "year": 1657
+    },
+
+    {
+      "id": 15,
+      "author": "Blaise Pascal",
+      "quote": "The queen of the world is power, not opinion; but it is opinion that wields power",
+      "topics": ["filosofia", "moral"]
+    },
+
+    {
+      "id": 16,
+      "author": "Blaise Pascal",
+      "quote": "Our nature is in motion. Absolute stillness is death.",
+      "topics": ["filosofia", "vida"],
+      "year": 1657
+    },
+
+    {
+      "id": 17,
+      "author": "Blaise Pascal",
+      "quote": "If we’re always ready to be happy, it’s inevitable that we’ll sometimes not be",
+      "topics": ["filosofia", "felicidad"],
+      "year": 1657
+    },
+
+    {
+      "id": 18,
+      "author": "Blaise Pascal",
+      "quote": "Reason works slowly, and with so many considerations and so many principles, that it constantly drifts off or loses its way. Passion acts in an instant",
+      "topics": ["filosofia", "razón"],
+      "year": 1657
+    },
+
+    {
+      "id": 19,
+      "author": "Blaise Pascal",
+      "quote": "Neither is a contradiction an indication of falsehood, nor is the absence of contradiction an indication of truth",
+      "topics": ["filosofia", "verdad"],
+      "year": 1657
+    },
+
+    {
+      "id": 20,
+      "author": "Blaise Pascal",
+      "quote": "We never actually live; instead, we wait to live. And since we are always preparing to be happy, it is inevitable that we will never be so.",
+      "topics": ["filosofia", "felicidad"],
+      "year": 1657
+    },
+
+    {
+      "id": 21,
+      "author": "Platón",
+      "quote": "It is not the eyes that see, but what we see through the eyes",
+      "topics": ["filosofia"]
+    },
+
+    {
+      "id": 22,
+      "author": "Platón",
+      "quote": "A wise man will always want to be with someone who is better than he is",
+      "topics": ["filosofia", "sabiduria"]
+    },
+
+    {
+      "id": 23,
+      "author": "Platón",
+      "quote": "We must look for a cause of our troubles other than God",
+      "topics": ["filosofia", "dios"]
+    },
+
+    {
+      "id": 24,
+      "author": "Platón",
+      "quote": "No human cause deserves such anxiety",
+      "topics": ["filosofia", "ansiedad"]
+    },
+
+    {
+      "id": 25,
+      "author": "Platón",
+      "quote": "By seeking the good of our fellow human beings, we will find our own",
+      "topics": ["filosofia", "vida"]
+    },
+
+    {
+      "id": 26,
+      "author": "Platón",
+      "quote": "Especially at night, it is beautiful to believe in the light",
+      "topics": ["filosofia", "esperanza"]
+    },
+
+    {
+      "id": 27,
+      "author": "Platón",
+      "quote": "The purpose of education is virtue, and the goal is to become a good citizen",
+      "topics": ["filosofia", "educación"]
+    },
+
+    {
+      "id": 28,
+      "author": "Platón",
+      "quote": "There are three kinds of men: those who love wisdom, those who love honor, and those who love wealth",
+      "topics": ["filosofia", "vida"]
+    },
+
+    {
+      "id": 29,
+      "author": "Platón",
+      "quote": "Love is feeling the sacred essence beating within your loved one",
+      "topics": ["filosofia", "amor"]
+    },
+
+    {
+      "id": 30,
+      "author": "Platón",
+      "quote": "States are like men; they are born of their own characteristics",
+      "topics": ["filosofia"]
+    },
+
+    {
+      "id": 31,
+      "author": "Platón",
+      "quote": "The larger stones cannot be properly set without the smaller ones",
+      "topics": ["filosofia", "vida"]
+    },
+
+    {
+      "id": 32,
+      "author": "Platón",
+      "quote": "Honesty often yields less profit than lying",
+      "topics": ["filosofia", "verdad"]
+    },
+
+    {
+      "id": 33,
+      "author": "Platón",
+      "quote": "You should never discourage anyone who is constantly making progress, no matter how slowly they go",
+      "topics": ["filosofia", "vida"]
+    },
+
+    {
+      "id": 34,
+      "author": "Platón",
+      "quote": "Any man can easily do harm, but not every man can do good for another",
+      "topics": ["filosofia", "bondad"]
+    },
+
+    {
+      "id": 35,
+      "author": "Platón",
+      "quote": "A wise man speaks with authority when he takes charge of his own life",
+      "topics": ["filosofia", "vida"]
+    },
+
+    {
+      "id": 36,
+      "author": "Platón",
+      "quote": "Good deeds give us strength and inspire others to do good as well",
+      "topics": ["filosofia", "vida", "bondad"]
+    },
+
+    {
+      "id": 37,
+      "author": "Platón",
+      "quote": "When a man is not willing to make sacrifices for his beliefs, either those beliefs are worthless or the man himself is worthless",
+      "topics": ["filosofia", "verdad"]
+    },
+
+    {
+      "id": 38,
+      "author": "Platón",
+      "quote": "If virtue had a face, everyone would fall in love with it",
+      "topics": ["filosofia"]
+    },
+
+    {
+      "id": 39,
+      "author": "Platón",
+      "quote": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when adults are afraid of the light",
+      "topics": ["filosofia", "miedo"]
+    },
+
+    {
+      "id": 40,
+      "author": "Platón",
+      "quote": "When a mob exercises authority, it is even more cruel than tyrants",
+      "topics": ["filosofia", "democracia"]
+    },
+
+    {
+      "id": 41,
+      "author": "Aristóteles",
+      "quote": "Friendship is a soul that dwells in two bodies; a heart that dwells in two souls",
+      "topics": ["filosofia", "amistad"]
+    },
+
+    {
+      "id": 42,
+      "author": "Aristóteles",
+      "quote": "The purpose of art is to give form to the hidden essence of things, not to copy their outward appearance",
+      "topics": ["arte", "filosofia"]
+    },
+
+    {
+      "id": 43,
+      "author": "Aristóteles",
+      "quote": "Happiness can only be found where there is virtue and earnest effort, for life is no game",
+      "topics": ["filosofia", "felicidad"]
+    },
+
+    {
+      "id": 44,
+      "author": "Aristóteles",
+      "quote": "The only true sign of deep understanding is the ability to teach",
+      "topics": ["filosofia"]
+    },
+
+    {
+      "id": 45,
+      "author": "Aristóteles",
+      "quote": "The goal of the wise is not to ensure pleasure, but to avoid pain",
+      "topics": ["filosofia"]
+    },
+
+    {
+      "id": 46,
+      "author": "Aristóteles",
+      "quote": "We acquire a particular quality by acting in a particular way",
+      "topics": ["filosofia"]
+    },
+
+    {
+      "id": 47,
+      "author": "Aristóteles",
+      "quote": "The purpose of art is to give form to the hidden essence of things, not to copy their outward appearance",
+      "topics": ["arte"]
+    },
+
+    {
+      "id": 48,
+      "author": "Aristóteles",
+      "quote": "Some people believe that all it takes to be friends is to want to be friends, just as if all it took to be healthy were to wish for good health",
+      "topics": ["filosofia", "amistad"]
+    },
+
+    {
+      "id": 49,
+      "author": "Aristóteles",
+      "quote": "If you're not a good follower, you can't be a good leader",
+      "topics": ["filosofia", "politica", "liderazgo"]
+    },
+
+    {
+      "id": 50,
+      "author": "Aristóteles",
+      "quote": "Developing certain habits at a young age is no small matter:/n it is of the utmost importance",
+      "topics": ["filosofia", "habitos"]
+    },
+
+    {
+      "id": 51,
+      "author": "Aristóteles",
+      "quote": "Good style should have a touch of novelty while at the same time remaining understated",
+      "topics": ["arte"]
+    },
+
+    {
+      "id": 52,
+      "author": "Aristóteles",
+      "quote": "Only those who do good can hope to find happiness in life",
+      "topics": ["filosofia", "felicidad"]
+    },
+
+    {
+      "id": 53,
+      "author": "Aristóteles",
+      "quote": "A person can learn nothing except by virtue of what they already know",
+      "topics": ["filosofia"]
+    },
+
+    {
+      "id": 54,
+      "author": "Aristóteles",
+      "quote": "I consider the one who overcomes his own desires to be braver than the one who overcomes his enemies",
+      "topics": ["filosofia", "valentia"]
+    },
+
+    {
+      "id": 55,
+      "author": "Aristóteles",
+      "quote": "We value more what we have achieved through great effort",
+      "topics": ["filosofia"]
+    },
+
+    {
+      "id": 56,
+      "author": "Aristóteles",
+      "quote": "Philosophy must be a special branch of knowledge, concerned with first principles and first causes",
+      "topics": ["filosofia"]
+    },
+
+    {
+      "id": 57,
+      "author": "Aristóteles",
+      "quote": "I consider the person who conquers their desires to be braver than the one who conquers their enemies, for the hardest victory is the victory over oneself",
+      "topics": ["filosofia", "vida"]
+    },
+
+    {
+      "id": 58,
+      "author": "Aristóteles",
+      "quote": "Happiness is the meaning and purpose of life, the ultimate goal of human existence",
+      "topics": ["filosofia", "felicidad", "vida"]
+    },
+
+    {
+      "id": 59,
+      "author": "Aristóteles",
+      "quote": "The best thing is to leave this life as if leaving a party—neither thirsty nor drunk",
+      "topics": ["filosofia", "vida"]
+    },
+
+    {
+      "id": 60,
+      "author": "Aristóteles",
+      "quote": "In times of poverty and other hardships, true friends are a safe haven",
+      "topics": ["filosofia", "amistad"]
+    },
+
+    {
+      "id": 61,
+      "author": "Arthur Schopenhauer",
+      "quote": "Life is a vague longing and a torment",
+      "topics": ["filosofia", "vida"]
+    },
+
+    {
+      "id": 62,
+      "author": "Arthur Schopenhauer",
+      "quote": "Young people should learn early on to cope with being alone, as it is a source of happiness and peace of mind",
+      "topics": ["filosofia", "soledad", "felicidad"]
+    },
+
+    {
+      "id": 63,
+      "author": "Arthur Schopenhauer",
+      "quote": "Men are by nature merely indifferent to one another; but women are by nature enemies",
+      "topics": ["filosofia"]
+    },
+
+    {
+      "id": 64,
+      "author": "Arthur Schopenhauer",
+      "quote": "Optimism is nothing more than the unwarranted self-praise of the true creator of the world—that is, the will to live—which gazes with satisfaction upon its own work; hence, it is not only a false doctrine, but even a pernicious one",
+      "topics": ["filosofia", "vida", "optimismo"]
+    },
+
+    {
+      "id": 65,
+      "author": "Arthur Schopenhauer",
+      "quote": "The best, most varied, and longest-lasting pleasures are those of the mind",
+      "topics": ["filosofia", "vida"]
+    },
+
+    {
+      "id": 66,
+      "author": "Arthur Schopenhauer",
+      "quote": "Those who do not enjoy solitude will not love freedom",
+      "topics": ["filosofia", "libertad", "soledad"]
+    },
+
+    {
+      "id": 67,
+      "author": "Arthur Schopenhauer",
+      "quote": "Man is the only animal that causes pain to others for no other reason than the desire to do so",
+      "topics": ["filosofia", "dolor"]
+    },
+
+    {
+      "id": 68,
+      "author": "Arthur Schopenhauer",
+      "quote": "Life without pain is meaningless",
+      "topics": ["filosofia", "vida"]
+    },
+
+    {
+      "id": 69,
+      "author": "Arthur Schopenhauer",
+      "quote": "Religions are like fireflies. They need darkness to shine.",
+      "topics": ["filosofia", "religión"]
+    },
+
+    {
+      "id": 70,
+      "author": "Arthur Schopenhauer",
+      "quote": "Wealth is like seawater; the more we drink, the thirstier we become; the same is true of fame",
+      "topics": ["filosofia", "fama", "riqueza"]
+    },
+
+    {
+      "id": 71,
+      "author": "Arthur Schopenhauer",
+      "quote": "Compassion is the foundation of morality",
+      "topics": ["filosofia", "moral"]
+    },
+
+    {
+      "id": 72,
+      "author": "Arthur Schopenhauer",
+      "quote": "Life is a constant process of agony",
+      "topics": ["filosofia", "vida"]
+    },
+
+    {
+      "id": 73,
+      "author": "Arthur Schopenhauer",
+      "quote": "Every genius is a big child; he looks at the world as something strange, as a spectacle, and therefore with a purely objective interest",
+      "topics": ["filosofia"]
+    },
+
+    {
+      "id": 74,
+      "author": "Arthur Schopenhauer",
+      "quote": "Patriotism is the passion of fools and the silliest of all passions",
+      "topics": ["filosofia", "patriotismo", "pasión"]
+    },
+
+    {
+      "id": 75,
+      "author": "Arthur Schopenhauer",
+      "quote": "A man can only be himself when he is alone",
+      "topics": ["filosofia", "soledad"]
+    },
+
+    {
+      "id": 76,
+      "author": "Arthur Schopenhauer",
+      "quote": "A pessimist is an optimist who is fully aware of the facts",
+      "topics": ["filosofia", "optimismo", "pesimismo"]
+    },
+
+    {
+      "id": 77,
+      "author": "Arthur Schopenhauer",
+      "quote": "Man owes animals not compassion, but justice",
+      "topics": ["filosofia", "justicia", "animales"]
+    },
+
+    {
+      "id": 78,
+      "author": "Arthur Schopenhauer",
+      "quote": "Man have turned the Earth into a living hell for animals",
+      "topics": ["filosofia", "animales"]
+    },
+
+    {
+      "id": 79,
+      "author": "Arthur Schopenhauer",
+      "quote": "The need for companionship that arises from the emptiness and monotony of human life brings people together; but their many unpleasant and repulsive qualities, along with their unbearable shortcomings, drive them apart once again",
+      "topics": ["filosofia", "vida", "sociedad"]
+    },
+
+    {
+      "id": 80,
+      "author": "Arthur Schopenhauer",
+      "quote": "It's hard to find happiness within yourself, but it's impossible to find it anywhere else",
+      "topics": ["filosofia", "felicidad", "soledad"]
+    },
+
+    {
+      "id": 81,
+      "author": "Immanuel Kant",
+      "quote": "An individual's intelligence is measured by the amount of uncertainty they are able to tolerate",
+      "topics": ["filosofia", "inteligencia"]
+    },
+
+    {
+      "id": 82,
+      "author": "Immanuel Kant",
+      "quote": "All our knowledge begins with the senses, proceeds to understanding, and ends with reason. There is nothing higher than reason",
+      "topics": ["filosofia", "razón"]
+    },
+
+    {
+      "id": 83,
+      "author": "Immanuel Kant",
+      "quote": "Rules for happiness: something to do, someone to love, something to look forward to",
+      "topics": ["filosofia", "felicidad"]
+    },
+
+    {
+      "id": 84,
+      "author": "Immanuel Kant",
+      "quote": "Don't devote all your time to a single endeavor, because everything takes time",
+      "topics": ["filosofia", "tiempo"]
+    },
+
+    {
+      "id": 85,
+      "author": "Immanuel Kant",
+      "quote": "Since the path of life is strewn with thorns, God has given man three gifts: a smile, a dream, and hope",
+      "topics": ["filosofia", "dios"]
+    },
+
+    {
+      "id": 86,
+      "author": "Immanuel Kant",
+      "quote": "A wise person can change their mind. A fool never can.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+
+    {
+      "id": 87,
+      "author": "Immanuel Kant",
+      "quote": "In the dark, the imagination works more actively than in broad daylight",
+      "topics": ["filosofia", "imaginación"]
+    },
+
+    {
+      "id": 88,
+      "author": "Immanuel Kant",
+      "quote": "The only thing that is an end in itself is man; he can never be used as a means",
+      "topics": ["filosofia"]
+    },
+
+    {
+      "id": 89,
+      "author": "Immanuel Kant",
+      "quote": "I was sleeping and dreaming that life was beautiful; I woke up and realized that life was a duty",
+      "topics": ["filosofia", "vida"]
+    },
+
+    {
+      "id": 90,
+      "author": "Immanuel Kant",
+      "quote": "With the stones that critics hurl at you with such ferocity, you might as well build yourself a monument",
+      "topics": ["filosofia", "critica"]
+    },
+
+    {
+      "id": 91,
+      "author": "Immanuel Kant",
+      "quote": "Happiness is not an ideal of reason, but of the imagination",
+      "topics": ["filosofia", "felicidad", "imaginación"]
+    },
+
+    {
+      "id": 92,
+      "author": "Immanuel Kant",
+      "quote": "The busier we are, the more keenly we feel that we are truly living; the more aware we are of life",
+      "topics": ["filosofia", "vida"]
+    },
+
+    {
+      "id": 93,
+      "author": "Immanuel Kant",
+      "quote": "Thoughts without content are empty; intuitions without concepts are blind",
+      "topics": ["filosofia", "sabiduria"]
+    },
+
+    {
+      "id": 94,
+      "author": "Immanuel Kant",
+      "quote": "Space and time are the framework within which the mind is limited in constructing its experience of reality",
+      "topics": ["filosofia", "tiempo", "razón"]
+    },
+
+    {
+      "id": 95,
+      "author": "Immanuel Kant",
+      "quote": "Tuve que negar el conocimiento con el fin de hacer espacio para la fe",
+      "topics": ["filosofia", "sabiduria", "religión"]
+    },
+
+    {
+      "id": 96,
+      "author": "Immanuel Kant",
+      "quote": "Act in such a way that the highest expression of your will may at all times serve as the basis for a general law",
+      "topics": ["filosofia", "razón", "moral"]
+    },
+
+    {
+      "id": 97,
+      "author": "Immanuel Kant",
+      "quote": "Treat people as an end in themselves, never as a means to an end",
+      "topics": ["filosofia", "amistad"]
+    },
+
+    {
+      "id": 98,
+      "author": "Immanuel Kant",
+      "quote": "Only the enlightened are unafraid of the shadows",
+      "topics": ["filosofia", "miedo", "sabiduria"]
+    },
+
+    {
+      "id": 99,
+      "author": "Immanuel Kant",
+      "quote": "Those who are cruel to animals also become harsh in their dealings with people. We can judge a person’s heart by the way they treat animals",
+      "topics": ["filosofia", "animales", "moral"]
+    },
+
+    {
+      "id": 100,
+      "author": "Immanuel Kant",
+      "quote": "Law is the set of conditions that allows the freedom of each individual to be reconciled with the freedom of all",
+      "topics": ["filosofia", "justicia", "libertad"]
+    },
+
+    {
+      "id": 101,
+      "author": "Rene Descartes",
+      "quote": "Everything complex can be broken down into simple parts",
+      "topics": ["filosofia", "razón"]
+    },
+
+    {
+      "id": 102,
+      "author": "Rene Descartes",
+      "quote": "I would give everything I know for half of what I don't know",
+      "topics": ["filosofia", "sabiduria"]
+    },
+
+    {
+      "id": 103,
+      "author": "Rene Descartes",
+      "quote": "It would be absurd for us, as finite beings, to try to determine infinite things",
+      "topics": ["filosofia", "razón"]
+    },
+
+    {
+      "id": 104,
+      "author": "Rene Descartes",
+      "quote": "Reason and judgment are the only things that make us human and set us apart from animals",
+      "topics": ["filosofia", "animales", "razón"]
+    },
+
+    {
+      "id": 105,
+      "author": "Rene Descartes",
+      "quote": "It is wise not to trust completely those who have deceived us once",
+      "topics": ["filosofia", "moral"]
+    },
+
+    {
+      "id": 106,
+      "author": "Rene Descartes",
+      "quote": "Let go of all impressions from the senses and the imagination, and trust only reason",
+      "topics": ["filosofia", "razón"]
+    },
+
+    {
+      "id": 107,
+      "author": "Rene Descartes",
+      "quote": "To live without philosophizing is, in a sense, to keep one’s eyes closed without ever trying to open them",
+      "topics": ["filosofia", "vida", "moral"]
+    },
+
+    {
+      "id": 108,
+      "author": "Rene Descartes",
+      "quote": "It is better never to think about the truth than to seek it without a method, for haphazard studies and obscure musings cloud the natural light of reason and blind the mind",
+      "topics": ["filosofia", "verdad", "razón"]
+    },
+
+    {
+      "id": 109,
+      "author": "Rene Descartes",
+      "quote": "A state is better governed if it has few laws and those laws are strictly enforced",
+      "topics": ["filosofia", "politica", "justicia"]
+    },
+
+    {
+      "id": 110,
+      "author": "Rene Descartes",
+      "quote": "There is no soul, however unrefined it may be, that remains so attached to the objects of the senses that it never turns away from them to seek a greater good",
+      "topics": ["filosofia"]
+    },
+
+    {
+      "id": 111,
+      "author": "Rene Descartes",
+      "quote": "Reading a book teaches you more than talking to its author, because the author has included only his best thoughts in the book",
+      "topics": ["filosofia", "sabiduria"]
+    },
+
+    {
+      "id": 112,
+      "author": "Rene Descartes",
+      "quote": "To find out what people really think, pay attention to what they do rather than what they say",
+      "topics": ["filosofia", "verdad", "vida"]
+    },
+
+    {
+      "id": 113,
+      "author": "Rene Descartes",
+      "quote": "Feeling is nothing more than thinking",
+      "topics": ["filosofia", "sabiduria"]
+    },
+
+    {
+      "id": 114,
+      "author": "Rene Descartes",
+      "quote": "Two things help you move forward: going faster than others, or staying on the right path",
+      "topics": ["filosofia", "progreso", "vida"]
+    },
+
+    {
+      "id": 115,
+      "author": "Rene Descartes",
+      "quote": "It is better to change our desires than to try to change the world",
+      "topics": ["filosofia", "vida"]
+    },
+
+    {
+      "id": 116,
+      "author": "Rene Descartes",
+      "quote": "I've made every mistake imaginable, and yet I've never stopped trying",
+      "topics": ["filosofia", "adversidad"]
+    },
+
+    {
+      "id": 117,
+      "author": "Rene Descartes",
+      "quote": "My goal is not to teach the method everyone should follow to use reason properly, but simply to show how I have tried to use mine properly",
+      "topics": ["filosofia", "razón"]
+    },
+
+    {
+      "id": 118,
+      "author": "Rene Descartes",
+      "quote": "Anyone who spends too much time traveling ends up feeling like a stranger in their own country",
+      "topics": ["filosofia", "mundo"]
+    },
+
+    {
+      "id": 119,
+      "author": "Rene Descartes",
+      "quote": "Often, a false joy is worth more than a sadness caused by something real",
+      "topics": ["filosofia", "felicidad"]
+    },
+
+    {
+      "id": 120,
+      "author": "Rene Descartes",
+      "quote": "The most generous people are usually the most humble",
+      "topics": ["filosofia", "moral", "bondad"]
+    },
+
+    {
+      "id": 122,
+      "author": "Rene Descartes",
+      "quote": "True intelligence lies in recognizing the intelligence of others",
+      "topics": ["filosofia", "inteligencia", "sabiduria"]
+    },
+
+    {
+      "id": 123,
+      "author": "Rene Descartes",
+      "quote": "Our conception of God implies that He necessarily and eternally exists. Therefore, the obvious conclusion is that God exists.",
+      "topics": ["filosofia", "dios"]
+    },
+
+    {
+      "id": 124,
+      "author": "Rene Descartes",
+      "quote": "Nature abhors a vacuum",
+      "topics": ["filosofia", "vida"]
+    },
+
+    {
+      "id": 125,
+      "author": "Rene Descartes",
+      "quote": "We harbor a multitude of prejudices if we do not occasionally take the time to question everything about which we have even the slightest suspicion of uncertainty",
+      "topics": ["filosofia", "verdad", "justicia"]
+    },
+
+    {
+      "id": 126,
+      "author": "Rene Descartes",
+      "quote": "Think before you act, and don't start anything without first thoroughly considering the circumstances",
+      "topics": ["filosofia", "vida"]
+    },
+
+    {
+      "id": 127,
+      "author": "Rene Descartes",
+      "quote": "The little I have learned is insignificant compared to what I do not know and have no hope of ever learning",
+      "topics": ["filosofia", "sabiduria"]
+    },
+
+    {
+      "id": 128,
+      "author": "Rene Descartes",
+      "quote": "An inability to feel enthusiasm is a sign of mediocrity",
+      "topics": ["filosofia", "felicidad"]
+    },
+
+    {
+      "id": 129,
+      "author": "Rene Descartes",
+      "quote": "Dubito, ergo cogito (I doubt, then I think)",
+      "topics": ["filosofia", "razón"]
+    },
+
+    {
+      "id": 130,
+      "author": "Rene Descartes",
+      "quote": "Cogito, ergo sum (I think, therefore I am)",
+      "topics": ["filosofia", "razón"]
+    },
+
+    {
+      "id": 131,
+      "author": "Friedrich Nietzsche",
+      "quote": "Los monos son demasiado buenos para que el hombre pueda descender de ellos",
+      "topics": ["filosofia", "animales", "moral"]
+    },
+
+    {
+      "id": 132,
+      "author": "Friedrich Nietzsche",
+      "quote": "Aquel que tiene un porqué para vivir se puede enfrentar a todos los cómos",
+      "topics": ["filosofia", "adversidad", "vida"]
+    },
+
+    {
+      "id": 133,
+      "author": "Friedrich Nietzsche",
+      "quote": "Sin música, la vida sería un error",
+      "topics": ["filosofia", "música"]
+    },
+
+    {
+      "id": 134,
+      "author": "Friedrich Nietzsche",
+      "quote": "El destino de los hombres está hecho de momentos felices, toda la vida los tiene, pero no de épocas felices",
+      "topics": ["filosofia", "felicidad"]
+    },
+
+    {
+      "id": 135,
+      "author": "Friedrich Nietzsche",
+      "quote": "Los que más han amado al hombre le han hecho siempre el máximo daño",
+      "topics": ["filosofia", "amor"]
+    },
+
+    {
+      "id": 136,
+      "author": "Friedrich Nietzsche",
+      "quote": "Cuando llegue el sufrimiento, míralo a la cara y enfréntate a él",
+      "topics": ["filosofia", "adversidad"]
+    },
+
+    {
+      "id": 137,
+      "author": "Friedrich Nietzsche",
+      "quote": "La mentira más común es aquella con la que las personas se engañan a sí mismas",
+      "topics": ["filosofia", "verdad"]
+    },
+
+    {
+      "id": 138,
+      "author": "Friedrich Nietzsche",
+      "quote": "¿Es el hombre un fallo de Dios, o Dios un fallo del hombre?",
+      "topics": ["filosofia", "dios"]
+    },
+
+    {
+      "id": 139,
+      "author": "Friedrich Nietzsche",
+      "quote": "El amor no es ciego, sólo está cegado por la pasión que lleva dentro",
+      "topics": ["filosofia", "amor", "pasión"]
+    },
+
+    {
+      "id": 140,
+      "author": "Friedrich Nietzsche",
+      "quote": "El hombre fue quién creó a Dios a su imagen y semejanza",
+      "topics": ["filosofia", "dios"]
+    },
+
+    {
+      "id": 141,
+      "author": "Friedrich Nietzsche",
+      "quote": "Yo necesito compañeros vivos, no cadáveres con los que tenga que cargar",
+      "topics": ["filosofia", "amistad"]
+    },
+
+    {
+      "id": 142,
+      "author": "Friedrich Nietzsche",
+      "quote": "La mujer perfecta es un ser humano superior al mejor de los hombres",
+      "topics": ["filosofia", "mujer", "hombre"]
+    },
+
+    {
+      "id": 143,
+      "author": "Friedrich Nietzsche",
+      "quote": "La vida es demasiado breve como para aburrirnos",
+      "topics": ["filosofia", "vida", "aburrimiento"]
+    },
+
+    {
+      "id": 144,
+      "author": "Friedrich Nietzsche",
+      "quote": "Estamos acostumbrados a la vida porque nos gusta el amor",
+      "topics": ["filosofia", "amor"]
+    },
+
+    {
+      "id": 145,
+      "author": "Friedrich Nietzsche",
+      "quote": "El remordimiento es como un perro mordiendo una piedra: una estupidez",
+      "topics": ["filosofia", "remordimiento"]
+    },
+
+    {
+      "id": 146,
+      "author": "Friedrich Nietzsche",
+      "quote": "Cualquier idealismo frente a la necesidad es un engaño",
+      "topics": ["filosofia", "sabiduria"]
+    },
+
+    {
+      "id": 147,
+      "author": "Friedrich Nietzsche",
+      "quote": "La guerra vuelve estúpido al vencedor y rencoroso al vencido",
+      "topics": ["filosofia", "guerra"]
+    },
+
+    {
+      "id": 148,
+      "author": "Friedrich Nietzsche",
+      "quote": "Tenemos arte para no morir de la verdad",
+      "topics": ["arte", "filosofia"]
+    },
+
+    {
+      "id": 149,
+      "author": "Friedrich Nietzsche",
+      "quote": "Cuando se tiene muchas cosas que hacer, el día tiene 100 bolsillos",
+      "topics": ["filosofia", "vida"]
+    },
+
+    {
+      "id": 150,
+      "author": "Friedrich Nietzsche",
+      "quote": "Sin arte la vida también sería un error",
+      "topics": ["arte"]
+    },
+
+    {
+      "id": 151,
+      "author": "Friedrich Nietzsche",
+      "quote": "La boca puede mentir, pero la mueca del momento revela la verdad",
+      "topics": ["filosofia", "verdad"]
+    },
+
+    {
+      "id": 152,
+      "author": "Friedrich Nietzsche",
+      "quote": "El camino a todo lo grandioso pasa por guardar silencio",
+      "topics": ["filosofia", "sabiduria"]
+    },
+
+    {
+      "id": 153,
+      "author": "Friedrich Nietzsche",
+      "quote": "Es la perseverancia la que hace grandes a los hombres, no la fuerza",
+      "topics": ["filosofia", "grandeza", "sabiduria"]
+    },
+
+    {
+      "id": 154,
+      "author": "Friedrich Nietzsche",
+      "quote": "Aquello que hacemos nunca es comprendido, sólo es acogido por elogios o crítica",
+      "topics": ["filosofia", "critica", "vida"]
+    },
+
+    {
+      "id": 155,
+      "author": "Friedrich Nietzsche",
+      "quote": "Cuanto más nos elevamos, más pequeños parecemos a quienes no saben volar.",
+      "topics": ["filosofia", "vida", "sabiduria"]
+    },
+
+    {
+      "id": 156,
+      "author": "Friedrich Nietzsche",
+      "quote": "Toda convicción es una cárcel.",
+      "topics": ["filosofia", "vida", "sabiduria"]
+    },
+
+    {
+      "id": 157,
+      "author": "Friedrich Nietzsche",
+      "quote": "La vida misma es la voluntad de dominar.",
+      "topics": ["filosofia", "vida"]
+    },
+
+    {
+      "id": 158,
+      "author": "Friedrich Nietzsche",
+      "quote": "Es sencillo hacer que las cosas sean complicadas, pero difícil hacer que sean sencillas.",
+      "topics": ["filosofia"]
+    },
+
+    {
+      "id": 159,
+      "author": "Friedrich Nietzsche",
+      "quote": "El mundo real es mucho más pequeño que el mundo de la imaginación.",
+      "topics": ["filosofia", "imaginación"]
+    },
+
+    {
+      "id": 160,
+      "author": "Friedrich Nietzsche",
+      "quote": "Entre el sentido de culpabilidad y el placer, siempre gana el placer.",
+      "topics": ["filosofia", "placer"]
+    }
+  ]
 }
