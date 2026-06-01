@@ -4,14 +4,17 @@ import {
   useEffect,
   useMemo,
   useState,
-  ReactNode,
 } from "react";
+
+import type { ReactNode } from "react";
 
 import defaultTheme from "../data/themes/default.json";
 import philosophyTheme from "../data/themes/philosophy.json";
 import scienceTheme from "../data/themes/science.json";
 import artTheme from "../data/themes/art.json";
 import natureTheme from "../data/themes/nature.json";
+
+import {gsap} from "gsap";
 
 export type ThemeName =
   | "default"
@@ -77,48 +80,32 @@ export function ThemeProvider({
   }, [themeName]);
 
   useEffect(() => {
-    const root = document.documentElement;
+  const root = document.documentElement;
 
-    root.style.setProperty(
-      "--bg-color",
-      theme.colors.background
-    );
+  gsap.to(root, {
+    duration: 0.8,
+    ease: "power2.inOut",
 
-    root.style.setProperty(
-      "--surface-color",
-      theme.colors.surface
-    );
+    "--bg-color": theme.colors.background,
 
-    root.style.setProperty(
-      "--primary-text",
-      theme.colors.primaryText
-    );
+    "--surface-color": theme.colors.surface,
 
-    root.style.setProperty(
-      "--secondary-text",
-      theme.colors.secondaryText
-    );
+    "--primary-text": theme.colors.primaryText,
 
-    root.style.setProperty(
-      "--accent-color",
-      theme.colors.accent
-    );
+    "--secondary-text": theme.colors.secondaryText,
 
-    root.style.setProperty(
-      "--accent-hover",
-      theme.colors.accentHover
-    );
+    "--accent-color": theme.colors.accent,
 
-    root.style.setProperty(
-      "--border-color",
-      theme.colors.border
-    );
+    "--accent-hover": theme.colors.accentHover,
 
-    root.style.setProperty(
-      "--main-gradient",
-      theme.gradients.main
-    );
-  }, [theme]);
+    "--border-color": theme.colors.border,
+  });
+
+  root.style.setProperty(
+    "--main-gradient",
+    theme.gradients.main
+  );
+}, [theme]);
 
   return (
     <ThemeContext.Provider
