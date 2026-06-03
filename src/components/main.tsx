@@ -2,6 +2,12 @@ import { useMemo, useState } from "react";
 
 import { useLanguage } from "../context/LanguageContext";
 import { useTheme } from "../context/ThemeContext";
+import { useRef } from "react";
+
+import {
+  getRandomAnimation,
+} from "../animations/index";
+import { getThemeFromQuote } from "../utils/getThemeFromQuote";
 
 type Quote = {
   id: number;
@@ -23,6 +29,9 @@ const topicThemeMap = {
   arte: "art",
   vida: "nature",
 } as const;
+
+const quoteRef =
+  useRef<HTMLDivElement>(null);
 
 export default function Main() {
   const { data } = useLanguage();
@@ -65,7 +74,19 @@ export default function Main() {
       )
     ];
 
-  setCurrentQuote(randomQuote);
+  const animation =
+  getRandomAnimation();
+
+  animation(
+    quoteRef.current!,
+    () => {
+      setCurrentQuote(randomQuote);
+
+      setTheme(
+        getThemeFromQuote(randomQuote)
+      );
+    }
+  );
 
   const primaryTopic =
     randomQuote.topics?.[0];
@@ -97,6 +118,7 @@ export default function Main() {
       >
         {/* Caja principal */}
         <div
+          ref={quoteRef}
           className="flex min-h-[320px] items-center justify-center rounded-3xl border p-8 text-center"
           style={{
             borderColor:
