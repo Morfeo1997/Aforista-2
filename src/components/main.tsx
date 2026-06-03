@@ -30,11 +30,12 @@ const topicThemeMap = {
   vida: "nature",
 } as const;
 
-const quoteRef =
-  useRef<HTMLDivElement>(null);
 
 export default function Main() {
   const { data } = useLanguage();
+
+  const quoteRef =
+  useRef<HTMLDivElement>(null);
 
   const { setTheme } = useTheme();
 
