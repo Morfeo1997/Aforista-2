@@ -6,6 +6,8 @@ import { rotateAnimation } from "./rotate";
 import { flipAnimation } from "./flip";
 import { bounceAnimation } from "./bounce";
 import { zoomAnimation } from "./zoom";
+import { shuffleAnimation } from "./shuffle";
+import { waveAnimation } from "./wave";
 
 
 export const animations = [
@@ -17,6 +19,8 @@ export const animations = [
   flipAnimation,
   bounceAnimation,
   zoomAnimation,
+  shuffleAnimation,
+  waveAnimation,
 ];
 
 export const getRandomAnimation = () => {
