@@ -8,11 +8,11 @@ import {
 
 import type { ReactNode } from "react";
 
-import defaultTheme from "../data/themes/default.json";
-import philosophyTheme from "../data/themes/philosophy.json";
-import scienceTheme from "../data/themes/science.json";
-import artTheme from "../data/themes/art.json";
-import natureTheme from "../data/themes/nature.json";
+import defaultThemeJson from "../data/themes/default.json";
+import philosophyThemeJson from "../data/themes/philosophy.json";
+import scienceThemeJson from "../data/themes/science.json";
+import artThemeJson from "../data/themes/art.json";
+import natureThemeJson from "../data/themes/nature.json";
 
 import {gsap} from "gsap";
 
@@ -22,6 +22,21 @@ export type ThemeName =
   | "science"
   | "art"
   | "nature";
+
+const defaultTheme =
+  defaultThemeJson as Theme;
+
+const philosophyTheme =
+  philosophyThemeJson as Theme;
+
+const scienceTheme =
+  scienceThemeJson as Theme;
+
+const artTheme =
+  artThemeJson as Theme;
+
+const natureTheme =
+  natureThemeJson as Theme;
 
 type Theme = {
   id: ThemeName;
