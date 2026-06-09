@@ -1149,6 +1149,306 @@
       "author": "Friedrich Nietzsche",
       "quote": "Between guilt and pleasure, pleasure always wins out.",
       "topics": ["filosofia", "placer"]
+    },
+    {
+      "id": 161,
+      "author": "Marie Curie",
+      "quote": "It is my sincere hope that some of you will continue this scientific work and remain committed to making a lasting contribution to science.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 162,
+      "author": "Marie Curie",
+      "quote": "You should never be afraid of what you're doing when it's the right thing to do.",
+      "topics": ["ciencia", "moral"]
+    },
+    {
+      "id": 163,
+      "author": "Marie Curie",
+      "quote": "You'll never convince me that women were made to walk on stilts.",
+      "topics": ["ciencia", "mujer"]
+    },
+    {
+      "id": 164,
+      "author": "Marie Curie",
+      "quote": "We must not forget that when radium was discovered, no one knew it would be useful in hospitals. It was pure science. And that proves that scientific work should not be viewed solely from the perspective of its direct application. It should be pursued for its own sake, for the beauty of science, and then there will always be the possibility that a scientific discovery will, like radium, become a benefit to humanity.",
+      "topics": ["ciencia", "progreso"]
+    },
+    {
+      "id": 165,
+      "author": "Marie Curie",
+      "quote": "We must be persistent and, above all, have confidence in ourselves. We must believe that we are capable of something.",
+      "topics": ["ciencia", "progreso"]
+    },
+    {
+      "id": 166,
+      "author": "Marie Curie",
+      "quote": "I am among those who believe that science possesses great beauty.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 167,
+      "author": "Marie Curie",
+      "quote": "I am one of those who, like Nobel, believe that humanity will benefit more than it will suffer from new discoveries.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 168,
+      "author": "Marie Curie",
+      "quote": "I was taught that the path to progress was neither quick nor easy.",
+      "topics": ["ciencia", "progreso"]
+    },
+    {
+      "id": 169,
+      "author": "Marie Curie",
+      "quote": "A scientist in his laboratory is not just a technician: he is also a child faced with natural phenomena that fascinate him like a fairy tale.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 170,
+      "author": "Marie Curie",
+      "quote": "Nothing in life should be feared; it should simply be understood. Now is the time to understand more, so that we may fear less.",
+      "topics": ["ciencia", "vida"]
+    },
+    {
+      "id": 171,
+      "author": "Marie Curie",
+      "quote": "Life isn't easy for any of us. But… who cares! You have to persevere and, above all, believe in yourself. You have to feel capable of achieving something and know that you must achieve it, no matter what it takes.",
+      "topics": ["ciencia", "vida"]
+    },
+    {
+      "id": 172,
+      "author": "Marie Curie",
+      "quote": "You never realize what you've accomplished; you can only see what remains to be done.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 173,
+      "author": "Marie Curie",
+      "quote": "Be less curious about people and more curious about ideas.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 174,
+      "author": "Marie Curie",
+      "quote": "There are sadistic scientists who rush to find flaws instead of establishing the truth.",
+      "topics": ["ciencia", "placer"]
+    },
+    {
+      "id": 175,
+      "author": "Marie Curie",
+      "quote": "You cannot hope to build a better world without helping people improve themselves. To that end, each of us must work on our own self-improvement and, at the same time, share a general responsibility toward all of humanity; our particular duty is to help those whom we believe we can be of most use to.",
+      "topics": ["ciencia", "moral"]
+    },
+    {
+      "id": 176,
+      "author": "Marie Curie",
+      "quote": "I’ve often been asked—especially by women—how I manage to balance family life with a career in science. Well, it hasn’t been easy.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 177,
+      "author": "Marie Curie",
+      "quote": "The best life is not the longest, but the one richest in good deeds.",
+      "topics": ["ciencia", "vida"]
+    },
+    {
+      "id": 178,
+      "author": "Marie Curie",
+      "quote": "Humanity needs practical people who make the most of their work and safeguard their own interests without neglecting the common good. But humanity also needs dreamers, for whom the selfless pursuit of a cause is so compelling that they find it impossible to focus on their own material gain.",
+      "topics": ["ciencia", "vida"]
+    },
+    {
+      "id": 179,
+      "author": "Marie Curie",
+      "quote": "It is important to dream about life and to turn a dream into reality.",
+      "topics": ["ciencia", "vida"]
+    },
+    {
+      "id": 180,
+      "author": "Marie Curie",
+      "quote": "Life isn't easy for any of us. But... who cares! You have to persevere and, above all, believe in yourself. You have to feel capable of achieving something, and you have to go after it, no matter what it takes.",
+      "topics": ["ciencia", "vida"]
+    },
+    {
+      "id": 181,
+      "author": "Charles Darwin",
+      "quote": "In the struggle for survival, the strongest prevails at the expense of its rivals because it is better able to adapt to its environment.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 182,
+      "author": "Charles Darwin",
+      "quote": "Through brutality, the weaknesses of the body and mind are quickly eliminated.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 183,
+      "author": "Charles Darwin",
+      "quote": "It is quite clear that living organisms must be exposed to new living conditions over several generations in order to produce a significant number of variations.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 184,
+      "author": "Charles Darwin",
+      "quote": "Insects, like me, are misunderstood by most people.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 185,
+      "author": "Charles Darwin",
+      "quote": "Man chooses for his own good; nature does so for the common good.",
+      "topics": ["ciencia", "naturaleza"]
+    },
+    {
+      "id": 186,
+      "author": "Charles Darwin",
+      "quote": "Throughout human history, those who have learned to cooperate are the ones who have prevailed.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 187,
+      "author": "Charles Darwin",
+      "quote": "It is the weakest members of a society who tend to propagate their species.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 188,
+      "author": "Charles Darwin",
+      "quote": "I firmly believe that without speculation, there can be no good or original observation.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 189,
+      "author": "Charles Darwin",
+      "quote": "The mystery of the origin of all things is beyond our comprehension; as for me, I must be content to remain agnostic.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 190,
+      "author": "Charles Darwin",
+      "quote": "Favorable variations and individual differences, along with the elimination of harmful ones, is what we have called “natural selection” or “survival of the fittest.”",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 191,
+      "author": "Charles Darwin",
+      "quote": "Humans are descended from a four-legged creature with a bushy tail, which was likely arboreal in its habits.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 192,
+      "author": "Charles Darwin",
+      "quote": "A man of science must have no desires or attachments, but merely a heart of stone.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 193,
+      "author": "Charles Darwin",
+      "quote": "In conclusion, it seems that nothing could be better for a young naturalist than a trip to distant lands.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 194,
+      "author": "Charles Darwin",
+      "quote": "There is no fundamental difference between humans and animals in their ability to feel pleasure and pain, happiness and misery.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 195,
+      "author": "Charles Darwin",
+      "quote": "I love silly experiments. I'm always doing them.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 196,
+      "author": "Charles Darwin",
+      "quote": "I have called this principle—by which every slight variation, if useful, is preserved—the principle of natural selection.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 197,
+      "author": "Charles Darwin",
+      "quote": "The highest possible level of moral culture is when we recognize that we must control our thoughts.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 198,
+      "author": "Charles Darwin",
+      "quote": "Love for all living creatures is man's noblest quality.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 199,
+      "author": "Charles Darwin",
+      "quote": "The very essence of instinct is that it operates independently of reason.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 200,
+      "author": "Charles Darwin",
+      "quote": "It is not the strongest of the species that survives, nor is it the most intelligent. It is the one that is most adaptable to change.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 201,
+      "author": "Charles Darwin",
+      "quote": "Free will is to the mind what chance is to matter.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 202,
+      "author": "Charles Darwin",
+      "quote": "A man who dares to waste an hour of his time has not discovered the value of life.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 203,
+      "author": "Charles Darwin",
+      "quote": "Natural selection, as we shall see later, is a force always ready to act, and as immeasurably superior to man’s feeble efforts as the works of nature are to those of art.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 204,
+      "author": "Charles Darwin",
+      "quote": "When it was first suggested that the sun remained stationary and the world revolved around it, common sense declared the theory to be false; but the old saying “vox populi, vox Dei,” as every philosopher knows, cannot be trusted when it comes to science.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 205,
+      "author": "Charles Darwin",
+      "quote": "An American monkey, an atel, who got drunk on cognac, could never be persuaded to try it again—which showed he had more sense than many men.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 206,
+      "author": "Charles Darwin",
+      "quote": "It is so obvious that both good and bad traits are hereditary.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 207,
+      "author": "Charles Darwin",
+      "quote": "Actually, I doubt that compassion is a natural or innate quality.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 208,
+      "author": "Charles Darwin",
+      "quote": "There is no fundamental difference between humans and higher animals in terms of their mental faculties.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 209,
+      "author": "Charles Darwin",
+      "quote": "Although the domestic pigeon—which is a wild pigeon that has been only very slightly domesticated—has managed in some places to return to that primitive state.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 210,
+      "author": "Charles Darwin",
+      "quote": "Mathematics seems to give one a new sense of purpose.",
+      "topics": ["ciencia"]
     }
   ]
 }

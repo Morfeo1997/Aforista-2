@@ -1178,13 +1178,13 @@
     {
       "id": 164,
       "author": "Marie Curie",
-      "quote": "No debemos olvidar que cuando se descubrió el radio nadie sabía que iba a ser útil en hospitales. Era un trabajo de ciencia pura. /n Y ello es prueba de que el trabajo científico no debe considerarse desde el punto de vista de su uso directo. /n Se debe realizar por sí mismo, por la belleza de la ciencia y luego siempre existirá la posibilidad de que un descubrimiento científico se convierta, como el radio, en un beneficio para la humanidad.",
+      "quote": "No debemos olvidar que cuando se descubrió el radio nadie sabía que iba a ser útil en hospitales. Era un trabajo de ciencia pura. Y ello es prueba de que el trabajo científico no debe considerarse desde el punto de vista de su uso directo. Se debe realizar por sí mismo, por la belleza de la ciencia y luego siempre existirá la posibilidad de que un descubrimiento científico se convierta, como el radio, en un beneficio para la humanidad.",
       "topics": ["ciencia", "progreso"]
     },
     {
       "id": 165,
       "author": "Marie Curie",
-      "quote": "Debemos tener constancia y sobre todo confianza en nosotros mismos. /n Debemos creer que estamos dotados para algo.",
+      "quote": "Debemos tener constancia y sobre todo confianza en nosotros mismos. Debemos creer que estamos dotados para algo.",
       "topics": ["ciencia", "progreso"]
     },
     {
@@ -1250,7 +1250,7 @@
     {
       "id": 176,
       "author": "Marie Curie",
-      "quote": "Con frecuencia he sido cuestionada, especialmente por mujeres sobre cómo podría conciliar la vida familiar con una carrera científica./n Bueno, no ha sido fácil.",
+      "quote": "Con frecuencia he sido cuestionada, especialmente por mujeres sobre cómo podría conciliar la vida familiar con una carrera científica. Bueno, no ha sido fácil.",
       "topics": ["ciencia"]
     },
     {
@@ -1457,6 +1457,5 @@
       "quote": "Las matemáticas parecen dotar a uno de un nuevo sentido.",
       "topics": ["ciencia"]
     }
-
   ]
 }
