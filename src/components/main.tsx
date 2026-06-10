@@ -40,7 +40,7 @@ export default function Main() {
   const { setTheme } = useTheme();
 
   const [selectedTopic, setSelectedTopic] =
-    useState("all");
+  useState<string>("all");
 
   const [currentQuote, setCurrentQuote] =
     useState<Quote | null>(null);
@@ -56,17 +56,17 @@ export default function Main() {
 );
 
   const filteredQuotes = useMemo(() => {
-    if (selectedTopic === "all") {
-      return quotes;
-    }
+  if (selectedTopic === "all") {
+    return quotes;
+  }
 
-    return quotes.filter((quote) =>
-      quote.topics.includes(selectedTopic)
-    );
-  }, [quotes, selectedTopic]);
+  return quotes.filter((quote) =>
+    quote.topics?.includes(selectedTopic)
+  );
+}, [quotes, selectedTopic]);
 
   const generateQuote = () => {
-  if (filteredQuotes.length === 0) return;
+  if (!filteredQuotes.length) return;
 
   const randomQuote =
     filteredQuotes[
@@ -76,7 +76,7 @@ export default function Main() {
     ];
 
   const animation =
-  getRandomAnimation();
+    getRandomAnimation();
 
   animation(
     quoteRef.current!,
@@ -88,21 +88,6 @@ export default function Main() {
       );
     }
   );
-
-  const primaryTopic =
-    randomQuote.topics?.[0];
-
-  if (!primaryTopic) {
-    setTheme("default");
-    return;
-  }
-
-  const mappedTheme =
-    topicThemeMap[
-      primaryTopic as keyof typeof topicThemeMap
-    ];
-
-  setTheme(mappedTheme ?? "default");
 };
 
   return (
@@ -119,20 +104,21 @@ export default function Main() {
       >
         {/* Caja principal */}
         <div
+  className="flex min-h-[320px] items-center justify-center rounded-3xl border p-8 text-center"
+  style={{
+    borderColor: "var(--border-color)",
+  }}
+>
+        <div
           ref={quoteRef}
-          className="flex min-h-[320px] items-center justify-center rounded-3xl border p-8 text-center"
-          style={{
-            borderColor:
-              "var(--border-color)",
-          }}
+          className="w-full"
         >
           {currentQuote ? (
             <div className="space-y-6">
               <p
                 className="text-2xl leading-relaxed md:text-4xl"
                 style={{
-                  color:
-                    "var(--primary-text)",
+                  color: "var(--primary-text)",
                 }}
               >
                 “{currentQuote.quote}”
@@ -171,8 +157,7 @@ export default function Main() {
               <h1
                 className="text-4xl font-bold md:text-6xl"
                 style={{
-                  color:
-                    "var(--primary-text)",
+                  color: "var(--primary-text)",
                 }}
               >
                 ¿Qué te interesa saber hoy?
@@ -191,6 +176,7 @@ export default function Main() {
             </div>
           )}
         </div>
+      </div>
 
         {/* Controles */}
         <div className="flex flex-col gap-4 md:flex-row">
@@ -199,17 +185,7 @@ export default function Main() {
             onChange={(e) =>
               setSelectedTopic(e.target.value)
             }
-            className="flex-1 rounded-2xl border px-4 py-4 text-lg outline-none transition-all"
-            style={{
-              background:
-                "var(--bg-color)",
-
-              borderColor:
-                "var(--border-color)",
-
-              color:
-                "var(--primary-text)",
-            }}
+            className="..."
           >
             <option value="all">
               Todos

@@ -4,10 +4,7 @@ type Quote = {
   topics: string[];
 };
 
-const topicThemeMap: Record<
-  string,
-  ThemeName
-> = {
+const topicThemeMap: Record<string, ThemeName> = {
   filosofia: "philosophy",
   ciencia: "science",
   arte: "art",
@@ -17,15 +14,11 @@ const topicThemeMap: Record<
 export function getThemeFromQuote(
   quote: Quote
 ): ThemeName {
-  const primaryTopic =
-    quote.topics?.[0];
+  const primaryTopic = quote.topics?.[0];
 
   if (!primaryTopic) {
     return "default";
   }
 
-  return (
-    topicThemeMap[primaryTopic] ??
-    "default"
-  );
+  return topicThemeMap[primaryTopic] ?? "default";
 }
