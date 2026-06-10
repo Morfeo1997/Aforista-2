@@ -4,10 +4,10 @@
 
   "colors": {
     "background": "#BF3030",
-    "surface": "#18181B",
+    "surface": "#390E0E",
 
     "primaryText": "#F1C6C6",
-    "secondaryText": "#DE7C7C",
+    "secondaryText": "#E8A1A1",
 
     "accent": "#DE7C7C",
     "accentHover": "#832121",
@@ -16,6 +16,6 @@
   },
 
   "gradients": {
-    "main": "linear-gradient(135deg, #BF3030 0%, #BF7830 100%)"
+    "main": "linear-gradient(135deg, #BF3030 0%, #140505 100%)"
   }
 }
