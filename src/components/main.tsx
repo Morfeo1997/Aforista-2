@@ -179,27 +179,44 @@ export default function Main() {
       </div>
 
         {/* Controles */}
-        <div className="flex flex-col gap-4 md:flex-row">
+        <div className="flex flex-col gap-4">
           <select
-            value={selectedTopic}
-            onChange={(e) =>
-              setSelectedTopic(e.target.value)
-            }
-            className="..."
-          >
-            <option value="all">
-              Todos
-            </option>
+  value={selectedTopic}
+  onChange={(e) =>
+    setSelectedTopic(e.target.value)
+  }
+  className="rounded-lg border px-4 py-3"
+  style={{
+    color: "var(--primary-text)",
+    backgroundColor: "var(--surface-color)",
+    borderColor: "var(--border-color)",
+  }}
+>
+  <option
+    value="all"
+    style={{
+      color: "var(--primary-text)",
+      backgroundColor:
+        "var(--surface-color)",
+    }}
+  >
+    Todos
+  </option>
 
-            {topics.map((topic) => (
-              <option
-                key={topic.id}
-                value={topic.id}
-              >
-                {topic.label}
-              </option>
-            ))}
-          </select>
+  {topics.map((topic) => (
+    <option
+      key={topic.id}
+      value={topic.id}
+      style={{
+        color: "var(--primary-text)",
+        backgroundColor:
+          "var(--surface-color)",
+      }}
+    >
+      {topic.label}
+    </option>
+  ))}
+</select>
 
           <button
             onClick={generateQuote}
