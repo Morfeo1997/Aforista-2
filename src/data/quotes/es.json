@@ -1636,6 +1636,186 @@
       "author": "Copérnico",
       "quote": "El aparente movimiento retrógrado y directo de los planetas no surge de su movimiento, sino de la Tierra.",
       "topics": ["ciencia", "tierra"]
+    },
+    {
+      "id": 241,
+      "author": "Isaac Newton",
+      "quote": "Para cada acción siempre se opone una reacción igual.",
+      "topics": ["ciencia", "fisica"]
+    },
+    {
+      "id": 242,
+      "author": "Isaac Newton",
+      "quote": "La gravedad explica los movimientos de los planetas, pero no puede explicar quién pone los planetas en movimiento.",
+      "topics": ["ciencia", "fisica", "universo"]
+    },
+    {
+      "id": 243,
+      "author": "Isaac Newton",
+      "quote": "Puedo calcular el movimiento de los cuerpos celestes, pero no la locura de la gente.",
+      "topics": ["ciencia", "sociedad"]
+    },
+    {
+      "id": 244,
+      "author": "Isaac Newton",
+      "quote": "Hay que hacer las reglas, no seguirlas.",
+      "topics": ["ciencia", "leyes"]
+    },
+    {
+      "id": 245,
+      "author": "Isaac Newton",
+      "quote": "La naturaleza se complace con la simplicidad. Y la naturaleza no es necia.",
+      "topics": ["ciencia", "naturaleza"]
+    },
+    {
+      "id": 246,
+      "author": "Isaac Newton",
+      "quote": "Es el peso, no el número de experimentos lo que debe ser considerado.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 247,
+      "author": "Isaac Newton",
+      "quote": "Vive tu vida como una exclamación en lugar de una explicación.",
+      "topics": ["ciencia", "vida"]
+    },
+    {
+      "id": 248,
+      "author": "Isaac Newton",
+      "quote": "Toda fuerza ejercida sobre un cuerpo es directamente proporcional a la aceleración que experimentará.",
+      "topics": ["ciencia", "fisica"]
+    },
+    {
+      "id": 249,
+      "author": "Isaac Newton",
+      "quote": "La naturaleza es verdaderamente coherente y confortable consigo misma.",
+      "topics": ["ciencia", "naturaleza"]
+    },
+    {
+      "id": 250,
+      "author": "Isaac Newton",
+      "quote": "La unidad en la variedad, y la variedad en la unidad es la ley suprema del universo.",
+      "topics": ["ciencia", "universo"]
+    },
+    {
+      "id": 251,
+      "author": "Isaac Newton",
+      "quote": "Para mí nunca ha habido una mayor fuente de honor terrenal que la distinción conectada con los avances en la ciencia.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 252,
+      "author": "Isaac Newton",
+      "quote": "Aquél a quien nadie le gusta, por lo general no gusta a nadie.",
+      "topics": ["ciencia", "sociedad"]
+    },
+    {
+      "id": 253,
+      "author": "Isaac Newton",
+      "quote": "No hay filosofía más sublime que la conocida con el nombre de sagrada escritura.",
+      "topics": ["ciencia", "filosofia", "religión"]
+    },
+    {
+      "id": 254,
+      "author": "Isaac Newton",
+      "quote": "Quienes emprenden a buscar la piedra filosofal por sus mismas normas estarán obligados a una vida estricta y religiosa.",
+      "topics": ["ciencia", "religión"]
+    },
+    {
+      "id": 255,
+      "author": "Isaac Newton",
+      "quote": "Mientras más tiempo y dedicación gasta uno en la adoración de dioses falsos, menos tiempo tiene de pensar en el verdadero.",
+      "topics": ["ciencia", "religión", "dios"]
+    },
+    {
+      "id": 256,
+      "author": "Isaac Newton",
+      "quote": "Hay más indicaciones seguras de validez en La Biblia que en cualquier historia profana.",
+      "topics": ["ciencia", "religión"]
+    },
+    {
+      "id": 257,
+      "author": "Isaac Newton",
+      "quote": "Si otros pensaran tan duro como lo hice, obtendrían resultados similares.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 258,
+      "author": "Isaac Newton",
+      "quote": "Las hipótesis no deben ser consideradas en la filosofía experimental.",
+      "topics": ["ciencia", "filosofia"]
+    },
+    {
+      "id": 259,
+      "author": "Isaac Newton",
+      "quote": "Mis descubrimientos han sido posible por haber sido la respuesta a las oraciones.",
+      "topics": ["ciencia", "religión", "dios"]
+    },
+    {
+      "id": 260,
+      "author": "Isaac Newton",
+      "quote": "Dios está en todas partes, los pensamientos de las mentes están en alguna parte, y todos los cuerpos ocupando un espacio.",
+      "topics": ["ciencia", "dios"]
+    },
+    {
+      "id": 261,
+      "author": "Isaac Newton",
+      "quote": "No se puede existir sin estar relacionado con el espacio de alguna forma.",
+      "topics": ["ciencia", "universo"]
+    },
+    {
+      "id": 262,
+      "author": "Isaac Newton",
+      "quote": "Dios dio las profecías del Antiguo Testamento, no para satisfacer la curiosidad de la gente, sino para que después puedan ser interpretadas según el modo que se hayan cumplido.",
+      "topics": ["ciencia", "religión", "dios"]
+    },
+    {
+      "id": 263,
+      "author": "Isaac Newton",
+      "quote": "Cuando las dos fuerzas se unen, su eficiencia es doble.",
+      "topics": ["ciencia", "fisica"]
+    },
+    {
+      "id": 264,
+      "author": "Isaac Newton",
+      "quote": "Tomo mi telescopio y observo el espacio, lo que se encuentra a millones de kilómetros de distancia.",
+      "topics": ["ciencia", "astronomia"]
+    },
+    {
+      "id": 265,
+      "author": "Isaac Newton",
+      "quote": "Física, ten mucho cuidado con la metafísica.",
+      "topics": ["ciencia", "fisica", "metafisica"]
+    },
+    {
+      "id": 266,
+      "author": "Isaac Newton",
+      "quote": "Dios creó todo con su reglas, incluyó número, peso y medida en todas las cosas.",
+      "topics": ["ciencia", "dios"]
+    },
+    {
+      "id": 267,
+      "author": "Isaac Newton",
+      "quote": "La mejor manera de entender, es usando buenos ejemplos.",
+      "topics": ["ciencia", "moral"]
+    },
+    {
+      "id": 268,
+      "author": "Isaac Newton",
+      "quote": "Ninguna persona mayor ama las matemáticas.",
+      "topics": ["ciencia", "matematicas"]
+    },
+    {
+      "id": 269,
+      "author": "Isaac Newton",
+      "quote": "El ateísmo es tan sin sentido y odioso a la humanidad que nunca tuvo muchos profesores.",
+      "topics": ["ciencia", "ateismo"]
+    },
+    {
+      "id": 270,
+      "author": "Isaac Newton",
+      "quote": "No mezclaré conjeturas con certezas.",
+      "topics": ["ciencia", "verdad"]
     }
   ]
 }
