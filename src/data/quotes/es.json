@@ -1456,6 +1456,186 @@
       "author": "Charles Darwin",
       "quote": "Las matemáticas parecen dotar a uno de un nuevo sentido.",
       "topics": ["ciencia"]
+    },
+    {
+      "id": 211,
+      "author": "Copérnico",
+      "quote": "La naturaleza nunca hace nada superfluo, nada inútil, y sabe sacar múltiples efectos de una sola causa.",
+      "topics": ["ciencia", "naturaleza"]
+    },
+    {
+      "id": 212,
+      "author": "Copérnico",
+      "quote": "No estoy tan enamorado de mis propias opiniones como para ignorar lo que los demás puedan pensar acerca de ellas.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 213,
+      "author": "Copérnico",
+      "quote": "Saber que sabemos lo que sabemos y saber que no sabemos lo que no sabemos, ese es el verdadero conocimiento.",
+      "topics": ["ciencia", "sabiduria"]
+    },
+    {
+      "id": 214,
+      "author": "Copérnico",
+      "quote": "En primer lugar, debemos saber que el universo es esférico.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 215,
+      "author": "Copérnico",
+      "quote": "El océano envuelve la Tierra y llena sus abismos más profundos.",
+      "topics": ["ciencia", "tierra"]
+    },
+    {
+      "id": 216,
+      "author": "Copérnico",
+      "quote": "Como sentado en un trono real, el Sol gobierna la familia de planetas que giran alrededor suyo.",
+      "topics": ["ciencia", "sol"]
+    },
+    {
+      "id": 217,
+      "author": "Copérnico",
+      "quote": "En medio de todo está el Sol. Pues, ¿quién en este bellísimo templo pondría esta lámpara en otro lugar mejor, desde el que se pudiera alumbrar todo?",
+      "topics": ["ciencia", "sol"]
+    },
+    {
+      "id": 218,
+      "author": "Copérnico",
+      "quote": "El movimiento de la Tierra sola basta para explicar tantas desigualdades aparentes en los cielos.",
+      "topics": ["ciencia", "tierra"]
+    },
+    {
+      "id": 219,
+      "author": "Copérnico",
+      "quote": "LLas matemáticas se escriben para los matemáticos.",
+      "topics": ["ciencia", "matematicas"]
+    },
+    {
+      "id": 220,
+      "author": "Copérnico",
+      "quote": "La tierra junto con sus aguas circundantes debe, de hecho, tener una forma tal como la que revela su sombra, ya que eclipsa la luna con el arco de un círculo perfecto.",
+      "topics": ["ciencia", "tierra"]
+    },
+    {
+      "id": 221,
+      "author": "Copérnico",
+      "quote": "Dado que el sol permanece parado, lo que aparece como movimiento del sol es debido realmente más bien al movimiento de la tierra.",
+      "topics": ["ciencia", "tierra"]
+    },
+    {
+      "id": 222,
+      "author": "Copérnico",
+      "quote": "Cerca del sol está el centro del universo.",
+      "topics": ["ciencia", "sol"]
+    },
+    {
+      "id": 223,
+      "author": "Copérnico",
+      "quote": "De todas las cosas visibles, la más alta es el cielo de las estrellas fijas.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 224,
+      "author": "Copérnico",
+      "quote": "Es posible que las cosas que estoy diciendo ahora sean oscuras, pero se aclararán en el lugar que les corresponde.",
+      "topics": ["ciencia", "futuro"]
+    },
+    {
+      "id": 225,
+      "author": "Copérnico",
+      "quote": "Conocer las obras poderosas de Dios, comprender su sabiduría, majestad y poder; para apreciar, en grado, el maravilloso funcionamiento de sus leyes, seguramente todo esto debe ser un modo de adoración agradable y aceptable para el Altísimo, para quien la ignorancia no puede ser más agradecida que el conocimiento.",
+      "topics": ["ciencia", "dios"]
+    },
+    {
+      "id": 226,
+      "author": "Copérnico",
+      "quote": "Cada luz tiene su sombra, y cada sombra tiene una mañana siguiente.",
+      "topics": ["ciencia", "esperanza"]
+    },
+    {
+      "id": 227,
+      "author": "Copérnico",
+      "quote": "El Universo ha sido forjado para nosotros por un Creador supremamente bueno y ordenado.",
+      "topics": ["ciencia", "dios"]
+    },
+    {
+      "id": 228,
+      "author": "Copérnico",
+      "quote": "Trismegisto lo llama un \"Dios visible\"; Electra de Sófocles, \"aquello que contempla todas las cosas\". Y así el sol, como si descansara en un trono regio, gobierna la familia de estrellas que giran alrededor.",
+      "topics": ["ciencia", "sol"]
+    },
+    {
+      "id": 229,
+      "author": "Copérnico",
+      "quote": "Las naciones no se arruinan por un solo acto de violencia, sino de manera gradual y casi imperceptible por la depreciación de su moneda circulante, a través de su excesiva cantidad.",
+      "topics": ["ciencia", "inflación"]
+    },
+    {
+      "id": 230,
+      "author": "Copérnico",
+      "quote": "La masa masiva de la tierra en realidad se reduce a la insignificancia en comparación con el tamaño de los cielos.",
+      "topics": ["ciencia", "tierra"]
+    },
+    {
+      "id": 231,
+      "author": "Copérnico",
+      "quote": "Porque lo que podría ser más hermoso que los cielos que contienen todas las cosas hermosas.",
+      "topics": ["ciencia", "universo"]
+    },
+    {
+      "id": 232,
+      "author": "Copérnico",
+      "quote": "Soy consciente de que las ideas de un filósofo no están sujetas al juicio de las personas ordinarias, porque su esfuerzo es buscar la verdad en todas las cosas, en la medida en que la razón humana lo permita Dios.",
+      "topics": ["ciencia", "filosofia", "verdad"]
+    },
+    {
+      "id": 233,
+      "author": "Copérnico",
+      "quote": "En tantas y tan importantes formas, entonces, los planetas dan testimonio de la movilidad de la tierra.",
+      "topics": ["ciencia", "tierra", "universo"]
+    },
+    {
+      "id": 234,
+      "author": "Copérnico",
+      "quote": "El desprecio a causa de la novedad y la no convencionalidad de mi opinión casi me indujo a abandonar por completo el trabajo que había emprendido.",
+      "topics": ["ciencia", "critica"]
+    },
+    {
+      "id": 235,
+      "author": "Copérnico",
+      "quote": "La astronomía está escrita para astrónomos. Para ellos mi trabajo también parecerá, a menos que esté equivocado, para hacer alguna contribución.",
+      "topics": ["ciencia", "tierra", "astronomia"]
+    },
+    {
+      "id": 236,
+      "author": "Copérnico",
+      "quote": "En medio de todo mora el sol.",
+      "topics": ["ciencia", "universo", "sol"]
+    },
+    {
+      "id": 237,
+      "author": "Copérnico",
+      "quote": "Es deber de un astrónomo componer la historia de los movimientos celestes a través de un estudio cuidadoso y experto",
+      "topics": ["ciencia", "astronomia"]
+    },
+    {
+      "id": 238,
+      "author": "Copérnico",
+      "quote": "Para un viajero que va de cualquier lugar hacia el norte, ese polo de la rotación diaria sube gradualmente más alto, mientras que el polo opuesto cae una cantidad igual.",
+      "topics": ["ciencia", "tierra"]
+    },
+    {
+      "id": 239,
+      "author": "Copérnico",
+      "quote": "Las verdaderas leyes no pueden ser alcanzadas por el uso de la razón; y a partir de esas suposiciones, las mociones se pueden calcular correctamente, tanto para el futuro como para el pasado.",
+      "topics": ["ciencia", "verdad"]
+    },
+    {
+      "id": 240,
+      "author": "Copérnico",
+      "quote": "El aparente movimiento retrógrado y directo de los planetas no surge de su movimiento, sino de la Tierra.",
+      "topics": ["ciencia", "tierra"]
     }
   ]
 }
