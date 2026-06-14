@@ -1816,6 +1816,186 @@
       "author": "Isaac Newton",
       "quote": "No mezclaré conjeturas con certezas.",
       "topics": ["ciencia", "verdad"]
+    },
+    {
+      "id": 271,
+      "author": "Gregor Mendel",
+      "quote": "La simiente es la base de la vida y contiene en sí todo el potencial para el crecimiento y desarrollo de un organismo.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 272,
+      "author": "Gregor Mendel",
+      "quote": "La herencia es la transmisión de características de una generación a otra, y es parte fundamental de la evolución.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 273,
+      "author": "Gregor Mendel",
+      "quote": "El estudio de la genética nos permite comprender cómo se transmiten y combinan los rasgos en una población.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 274,
+      "author": "Gregor Mendel",
+      "quote": "El estudio de los caracteres hereditarios nos ayuda a entender la variedad y diversidad de la vida.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 275,
+      "author": "Gregor Mendel",
+      "quote": "Es importante recordar que no todos los rasgos son hereditarios; existen influencias del entorno que también moldean a un organismo.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 276,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos enseña que no hay una versión 'correcta' o 'mejor' de un rasgo; todos los genotipos y fenotipos son válidos y tienen su lugar en la naturaleza.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 277,
+      "author": "Gregor Mendel",
+      "quote": "El descubrimiento de las leyes de la herencia nos ha permitido criar especies seleccionando los mejores rasgos para obtener individuos más fuertes y adecuados.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 278,
+      "author": "Gregor Mendel",
+      "quote": "Los cruzamientos entre individuos permiten revelar la presencia de genes recesivos y dominantes.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 279,
+      "author": "Gregor Mendel",
+      "quote": "La genética mendeliana nos enseña que la herencia se basa en la segregación y recombinación de alelos.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 280,
+      "author": "Gregor Mendel",
+      "quote": "Los caracteres hereditarios pueden ser influenciados por múltiples genes y factores.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 281,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos muestra cómo pequeños cambios a nivel genético pueden resultar en grandes variaciones en los rasgos de un organismo.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 282,
+      "author": "Gregor Mendel",
+      "quote": "La genética proporciona una herramienta poderosa para la medicina, permitiéndonos comprender y tratar enfermedades genéticas.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 283,
+      "author": "Gregor Mendel",
+      "quote": "Los seres vivos no son entidades aisladas, sino que están interconectados a través de la herencia y la evolución.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 284,
+      "author": "Gregor Mendel",
+      "quote": "Los estudios genéticos nos ayudan a entender y conservar la diversidad biológica.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 285,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos muestra que todos los seres vivos comparten un ancestro común.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 286,
+      "author": "Gregor Mendel",
+      "quote": "El conocimiento de la genética nos muestra que las apariencias pueden ser engañosas y que los rasgos externos no siempre reflejan la verdadera composición genética.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 287,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos enseña que la variabilidad genética es esencial para la supervivencia y adaptación de las especies.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 288,
+      "author": "Gregor Mendel",
+      "quote": "La genética no solo se limita a los seres vivos, también es aplicable a otros sistemas complejos, como la economía y las redes sociales.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 289,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos muestra que somos responsables de nuestras propias acciones, ya que nuestras elecciones pueden influir en la herencia que transmitimos a las generaciones futuras.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 290,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos recuerda que somos parte de un proceso evolutivo continuo y que nuestro propósito en la vida es contribuir al crecimiento y desarrollo de las futuras generaciones.",
+      "topics": ["ciencia", "genetica", "evolucion"]
+    },
+    {
+      "id": 291,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos enseña a respetar y valorar la diversidad, ya que cada individuo es único en su composición genética.",
+      "topics": ["ciencia", "genetica", "diversidad"]
+    },
+    {
+      "id": 292,
+      "author": "Gregor Mendel",
+      "quote": "Las leyes de Mendel son un testimonio de la belleza y elegancia de la naturaleza.",
+      "topics": ["ciencia", "genetica", "naturaleza"]
+    },
+    {
+      "id": 293,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos muestra que no hay separación entre lo vivo y lo no vivo, ya que todos los sistemas están conectados a través de la herencia y la evolución.",
+      "topics": ["ciencia", "genetica", "evolucion"]
+    },
+    {
+      "id": 294,
+      "author": "Gregor Mendel",
+      "quote": "La genética es una herramienta poderosa para la comprensión y conservación de la biodiversidad.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 295,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos permite entender cómo los cambios en los genes pueden dar lugar a enfermedades y cómo podemos prevenirlas o tratarlas.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 296,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos recuerda que no somos dueños y señores de la naturaleza, sino parte integral de ella.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 297,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos revela la enorme complejidad y belleza de la vida en todas sus manifestaciones.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 298,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos ayuda a entender y valorar la interconexión entre todos los seres vivos.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 299,
+      "author": "Gregor Mendel",
+      "quote": "La comprensión de la genética nos permite tomar decisiones informadas y éticas en temas como la modificación genética y el uso de la tecnología.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 300,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos muestra que el futuro de la vida en la Tierra depende de nuestra capacidad de valorar y proteger la diversidad genética.",
+      "topics": ["ciencia", "genetica", "futuro"]
     }
   ]
 }
