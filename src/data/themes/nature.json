@@ -6,10 +6,10 @@
     "background": "#39A367",
     "surface": "#40A339",
 
-    "primaryText": "#CAECD9",
-    "secondaryText": "#A1A1AA",
+    "primaryText": "#ECF8F1",
+    "secondaryText": "#CAECD9",
 
-    "accent": "#ECF8F1",
+    "accent": "#133521",
     "accentHover": "#64C990",
 
     "border": "#1E5737"
