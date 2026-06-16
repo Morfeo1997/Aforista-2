@@ -22,21 +22,31 @@ export default function Start({ onComplete }: StartProps) {
     if (!circle || !container) return;
 
     const timeline = gsap.timeline({
-      onComplete: () => {
-        onComplete?.();
+  onComplete: () => {
+    onComplete?.();
       },
     });
 
     timeline
       .set(circle, {
         scale: 0,
+        rotate: 0,
         opacity: 1,
       })
       .to(circle, {
         scale: 25,
-        duration: 1.2,
+        rotate: 1080,
+        duration: 1.4,
         ease: "power4.inOut",
       })
+      .to(
+        circle,
+        {
+          opacity: 0.85,
+          duration: 0.2,
+        },
+        "-=0.3"
+      )
       .to(
         container,
         {
@@ -44,7 +54,7 @@ export default function Start({ onComplete }: StartProps) {
           duration: 0.4,
           ease: "power2.out",
         },
-        "-=0.3"
+        "-=0.5"
       );
   };
 
@@ -56,7 +66,11 @@ export default function Start({ onComplete }: StartProps) {
       {/* Círculo animado */}
       <div
         ref={circleRef}
-        className="absolute h-40 w-40 rounded-full bg-blue-700 opacity-0"
+        className="absolute h-40 w-40 rounded-full opacity-0"
+        style={{
+          background:
+            "conic-gradient(red, orange, yellow, green, cyan, blue, violet, red)",
+        }}
       />
 
       {/* Contenido */}
