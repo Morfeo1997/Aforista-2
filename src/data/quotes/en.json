@@ -1449,6 +1449,546 @@
       "author": "Charles Darwin",
       "quote": "Mathematics seems to give one a new sense of purpose.",
       "topics": ["ciencia"]
+    },
+    {
+      "id": 211,
+      "author": "Copérnico",
+      "quote": "Nature never does anything superfluous or useless, and it knows how to produce multiple effects from a single cause.",
+      "topics": ["ciencia", "naturaleza"]
+    },
+    {
+      "id": 212,
+      "author": "Copérnico",
+      "quote": "I'm not so attached to my own opinions that I would ignore what others might think of them.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 213,
+      "author": "Copérnico",
+      "quote": "Knowing that we know what we know and knowing that we do not know what we do not know—that is true knowledge.",
+      "topics": ["ciencia", "sabiduria"]
+    },
+    {
+      "id": 214,
+      "author": "Copérnico",
+      "quote": "First of all, we must understand that the universe is spherical.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 215,
+      "author": "Copérnico",
+      "quote": "The ocean surrounds the Earth and fills its deepest abysses.",
+      "topics": ["ciencia", "tierra"]
+    },
+    {
+      "id": 216,
+      "author": "Copérnico",
+      "quote": "As if seated on a royal throne, the Sun reigns over the family of planets that revolve around it.",
+      "topics": ["ciencia", "sol"]
+    },
+    {
+      "id": 217,
+      "author": "Copérnico",
+      "quote": "In the center of it all is the Sun. After all, who in this beautiful temple would place this lamp in a better spot, one from which it could illuminate everything?",
+      "topics": ["ciencia", "sol"]
+    },
+    {
+      "id": 218,
+      "author": "Copérnico",
+      "quote": "The motion of the Earth alone is enough to explain so many apparent irregularities in the heavens.",
+      "topics": ["ciencia", "tierra"]
+    },
+    {
+      "id": 219,
+      "author": "Copérnico",
+      "quote": "Mathematics is written for mathematicians.",
+      "topics": ["ciencia", "matematicas"]
+    },
+    {
+      "id": 220,
+      "author": "Copérnico",
+      "quote": "The Earth, together with the waters surrounding it, must in fact have a shape such as that revealed by its shadow, since it eclipses the Moon with the arc of a perfect circle.",
+      "topics": ["ciencia", "tierra"]
+    },
+    {
+      "id": 221,
+      "author": "Copérnico",
+      "quote": "Since the sun remains stationary, what appears to be the sun's movement is actually due to the Earth's movement.",
+      "topics": ["ciencia", "tierra"]
+    },
+    {
+      "id": 222,
+      "author": "Copérnico",
+      "quote": "The center of the universe is near the sun.",
+      "topics": ["ciencia", "sol"]
+    },
+    {
+      "id": 223,
+      "author": "Copérnico",
+      "quote": "Of all visible things, the highest is the sky of the fixed stars.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 224,
+      "author": "Copérnico",
+      "quote": "What I'm saying now may seem obscure, but it will become clear in its proper context.",
+      "topics": ["ciencia", "futuro"]
+    },
+    {
+      "id": 225,
+      "author": "Copérnico",
+      "quote": "To know God’s mighty works, to understand His wisdom, majesty, and power; to appreciate, to some extent, the marvelous workings of His laws—surely all this must be a form of worship that is pleasing and acceptable to the Most High, for whom ignorance cannot be more pleasing than knowledge.",
+      "topics": ["ciencia", "dios"]
+    },
+    {
+      "id": 226,
+      "author": "Copérnico",
+      "quote": "Every light has its shadow, and every shadow has a morning to follow.",
+      "topics": ["ciencia", "esperanza"]
+    },
+    {
+      "id": 227,
+      "author": "Copérnico",
+      "quote": "The universe was created for us by a supremely good and orderly Creator.",
+      "topics": ["ciencia", "dios"]
+    },
+    {
+      "id": 228,
+      "author": "Copérnico",
+      "quote": "Trismegistus calls it a “visible God”; Electra by Sophocles, “that which beholds all things.” And so the sun, as if resting on a royal throne, rules over the family of stars that revolve around it.",
+      "topics": ["ciencia", "sol"]
+    },
+    {
+      "id": 229,
+      "author": "Copérnico",
+      "quote": "Nations are not ruined by a single act of violence, but rather gradually and almost imperceptibly by the depreciation of their currency in circulation, due to its excessive supply.",
+      "topics": ["ciencia", "inflación"]
+    },
+    {
+      "id": 230,
+      "author": "Copérnico",
+      "quote": "The Earth's immense mass is actually insignificant compared to the size of the heavens.",
+      "topics": ["ciencia", "tierra"]
+    },
+    {
+      "id": 231,
+      "author": "Copérnico",
+      "quote": "For what could be more beautiful than the heavens, which contain all things beautiful?",
+      "topics": ["ciencia", "universo"]
+    },
+    {
+      "id": 232,
+      "author": "Copérnico",
+      "quote": "I am aware that a philosopher's ideas are not subject to the judgment of ordinary people, because his endeavor is to seek the truth in all things, to the extent that human reason allows, God willing.",
+      "topics": ["ciencia", "filosofia", "verdad"]
+    },
+    {
+      "id": 233,
+      "author": "Copérnico",
+      "quote": "In so many and such significant ways, then, the planets bear witness to the Earth's movement.",
+      "topics": ["ciencia", "tierra", "universo"]
+    },
+    {
+      "id": 234,
+      "author": "Copérnico",
+      "quote": "The disdain my opinion drew because of its novelty and unconventionality almost led me to abandon the work I had undertaken entirely.",
+      "topics": ["ciencia", "critica"]
+    },
+    {
+      "id": 235,
+      "author": "Copérnico",
+      "quote": "Astronomy is written for astronomers. To them, my work will also seem—unless I am mistaken—to make some contribution.",
+      "topics": ["ciencia", "tierra", "astronomia"]
+    },
+    {
+      "id": 236,
+      "author": "Copérnico",
+      "quote": "In the midst of it all, the sun remains.",
+      "topics": ["ciencia", "universo", "sol"]
+    },
+    {
+      "id": 237,
+      "author": "Copérnico",
+      "quote": "It is an astronomer's duty to piece together the history of celestial movements through careful and expert study.",
+      "topics": ["ciencia", "astronomia"]
+    },
+    {
+      "id": 238,
+      "author": "Copérnico",
+      "quote": "For a traveler heading north from any location, that pole of the daily rotation gradually rises higher, while the opposite pole drops by an equal amount.",
+      "topics": ["ciencia", "tierra"]
+    },
+    {
+      "id": 239,
+      "author": "Copérnico",
+      "quote": "True laws cannot be arrived at through the use of reason; and based on these assumptions, motions can be correctly calculated, both for the future and for the past.",
+      "topics": ["ciencia", "verdad"]
+    },
+    {
+      "id": 240,
+      "author": "Copérnico",
+      "quote": "The apparent retrograde and direct motion of the planets is not due to their own motion, but to the Earth's motion.",
+      "topics": ["ciencia", "tierra"]
+    },
+    {
+      "id": 241,
+      "author": "Isaac Newton",
+      "quote": "Para cada acción siempre se opone una reacción igual.",
+      "topics": ["ciencia", "fisica"]
+    },
+    {
+      "id": 242,
+      "author": "Isaac Newton",
+      "quote": "La gravedad explica los movimientos de los planetas, pero no puede explicar quién pone los planetas en movimiento.",
+      "topics": ["ciencia", "fisica", "universo"]
+    },
+    {
+      "id": 243,
+      "author": "Isaac Newton",
+      "quote": "Puedo calcular el movimiento de los cuerpos celestes, pero no la locura de la gente.",
+      "topics": ["ciencia", "sociedad"]
+    },
+    {
+      "id": 244,
+      "author": "Isaac Newton",
+      "quote": "Hay que hacer las reglas, no seguirlas.",
+      "topics": ["ciencia", "leyes"]
+    },
+    {
+      "id": 245,
+      "author": "Isaac Newton",
+      "quote": "La naturaleza se complace con la simplicidad. Y la naturaleza no es necia.",
+      "topics": ["ciencia", "naturaleza"]
+    },
+    {
+      "id": 246,
+      "author": "Isaac Newton",
+      "quote": "Es el peso, no el número de experimentos lo que debe ser considerado.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 247,
+      "author": "Isaac Newton",
+      "quote": "Vive tu vida como una exclamación en lugar de una explicación.",
+      "topics": ["ciencia", "vida"]
+    },
+    {
+      "id": 248,
+      "author": "Isaac Newton",
+      "quote": "Toda fuerza ejercida sobre un cuerpo es directamente proporcional a la aceleración que experimentará.",
+      "topics": ["ciencia", "fisica"]
+    },
+    {
+      "id": 249,
+      "author": "Isaac Newton",
+      "quote": "La naturaleza es verdaderamente coherente y confortable consigo misma.",
+      "topics": ["ciencia", "naturaleza"]
+    },
+    {
+      "id": 250,
+      "author": "Isaac Newton",
+      "quote": "La unidad en la variedad, y la variedad en la unidad es la ley suprema del universo.",
+      "topics": ["ciencia", "universo"]
+    },
+    {
+      "id": 251,
+      "author": "Isaac Newton",
+      "quote": "Para mí nunca ha habido una mayor fuente de honor terrenal que la distinción conectada con los avances en la ciencia.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 252,
+      "author": "Isaac Newton",
+      "quote": "Aquél a quien nadie le gusta, por lo general no gusta a nadie.",
+      "topics": ["ciencia", "sociedad"]
+    },
+    {
+      "id": 253,
+      "author": "Isaac Newton",
+      "quote": "No hay filosofía más sublime que la conocida con el nombre de sagrada escritura.",
+      "topics": ["ciencia", "filosofia", "religión"]
+    },
+    {
+      "id": 254,
+      "author": "Isaac Newton",
+      "quote": "Quienes emprenden a buscar la piedra filosofal por sus mismas normas estarán obligados a una vida estricta y religiosa.",
+      "topics": ["ciencia", "religión"]
+    },
+    {
+      "id": 255,
+      "author": "Isaac Newton",
+      "quote": "Mientras más tiempo y dedicación gasta uno en la adoración de dioses falsos, menos tiempo tiene de pensar en el verdadero.",
+      "topics": ["ciencia", "religión", "dios"]
+    },
+    {
+      "id": 256,
+      "author": "Isaac Newton",
+      "quote": "Hay más indicaciones seguras de validez en La Biblia que en cualquier historia profana.",
+      "topics": ["ciencia", "religión"]
+    },
+    {
+      "id": 257,
+      "author": "Isaac Newton",
+      "quote": "Si otros pensaran tan duro como lo hice, obtendrían resultados similares.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 258,
+      "author": "Isaac Newton",
+      "quote": "Las hipótesis no deben ser consideradas en la filosofía experimental.",
+      "topics": ["ciencia", "filosofia"]
+    },
+    {
+      "id": 259,
+      "author": "Isaac Newton",
+      "quote": "Mis descubrimientos han sido posible por haber sido la respuesta a las oraciones.",
+      "topics": ["ciencia", "religión", "dios"]
+    },
+    {
+      "id": 260,
+      "author": "Isaac Newton",
+      "quote": "Dios está en todas partes, los pensamientos de las mentes están en alguna parte, y todos los cuerpos ocupando un espacio.",
+      "topics": ["ciencia", "dios"]
+    },
+    {
+      "id": 261,
+      "author": "Isaac Newton",
+      "quote": "No se puede existir sin estar relacionado con el espacio de alguna forma.",
+      "topics": ["ciencia", "universo"]
+    },
+    {
+      "id": 262,
+      "author": "Isaac Newton",
+      "quote": "Dios dio las profecías del Antiguo Testamento, no para satisfacer la curiosidad de la gente, sino para que después puedan ser interpretadas según el modo que se hayan cumplido.",
+      "topics": ["ciencia", "religión", "dios"]
+    },
+    {
+      "id": 263,
+      "author": "Isaac Newton",
+      "quote": "Cuando las dos fuerzas se unen, su eficiencia es doble.",
+      "topics": ["ciencia", "fisica"]
+    },
+    {
+      "id": 264,
+      "author": "Isaac Newton",
+      "quote": "Tomo mi telescopio y observo el espacio, lo que se encuentra a millones de kilómetros de distancia.",
+      "topics": ["ciencia", "astronomia"]
+    },
+    {
+      "id": 265,
+      "author": "Isaac Newton",
+      "quote": "Física, ten mucho cuidado con la metafísica.",
+      "topics": ["ciencia", "fisica", "metafisica"]
+    },
+    {
+      "id": 266,
+      "author": "Isaac Newton",
+      "quote": "Dios creó todo con su reglas, incluyó número, peso y medida en todas las cosas.",
+      "topics": ["ciencia", "dios"]
+    },
+    {
+      "id": 267,
+      "author": "Isaac Newton",
+      "quote": "La mejor manera de entender, es usando buenos ejemplos.",
+      "topics": ["ciencia", "moral"]
+    },
+    {
+      "id": 268,
+      "author": "Isaac Newton",
+      "quote": "Ninguna persona mayor ama las matemáticas.",
+      "topics": ["ciencia", "matematicas"]
+    },
+    {
+      "id": 269,
+      "author": "Isaac Newton",
+      "quote": "El ateísmo es tan sin sentido y odioso a la humanidad que nunca tuvo muchos profesores.",
+      "topics": ["ciencia", "ateismo"]
+    },
+    {
+      "id": 270,
+      "author": "Isaac Newton",
+      "quote": "No mezclaré conjeturas con certezas.",
+      "topics": ["ciencia", "verdad"]
+    },
+    {
+      "id": 271,
+      "author": "Gregor Mendel",
+      "quote": "La simiente es la base de la vida y contiene en sí todo el potencial para el crecimiento y desarrollo de un organismo.",
+      "topics": ["ciencia"]
+    },
+    {
+      "id": 272,
+      "author": "Gregor Mendel",
+      "quote": "La herencia es la transmisión de características de una generación a otra, y es parte fundamental de la evolución.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 273,
+      "author": "Gregor Mendel",
+      "quote": "El estudio de la genética nos permite comprender cómo se transmiten y combinan los rasgos en una población.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 274,
+      "author": "Gregor Mendel",
+      "quote": "El estudio de los caracteres hereditarios nos ayuda a entender la variedad y diversidad de la vida.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 275,
+      "author": "Gregor Mendel",
+      "quote": "Es importante recordar que no todos los rasgos son hereditarios; existen influencias del entorno que también moldean a un organismo.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 276,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos enseña que no hay una versión 'correcta' o 'mejor' de un rasgo; todos los genotipos y fenotipos son válidos y tienen su lugar en la naturaleza.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 277,
+      "author": "Gregor Mendel",
+      "quote": "El descubrimiento de las leyes de la herencia nos ha permitido criar especies seleccionando los mejores rasgos para obtener individuos más fuertes y adecuados.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 278,
+      "author": "Gregor Mendel",
+      "quote": "Los cruzamientos entre individuos permiten revelar la presencia de genes recesivos y dominantes.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 279,
+      "author": "Gregor Mendel",
+      "quote": "La genética mendeliana nos enseña que la herencia se basa en la segregación y recombinación de alelos.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 280,
+      "author": "Gregor Mendel",
+      "quote": "Los caracteres hereditarios pueden ser influenciados por múltiples genes y factores.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 281,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos muestra cómo pequeños cambios a nivel genético pueden resultar en grandes variaciones en los rasgos de un organismo.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 282,
+      "author": "Gregor Mendel",
+      "quote": "La genética proporciona una herramienta poderosa para la medicina, permitiéndonos comprender y tratar enfermedades genéticas.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 283,
+      "author": "Gregor Mendel",
+      "quote": "Los seres vivos no son entidades aisladas, sino que están interconectados a través de la herencia y la evolución.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 284,
+      "author": "Gregor Mendel",
+      "quote": "Los estudios genéticos nos ayudan a entender y conservar la diversidad biológica.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 285,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos muestra que todos los seres vivos comparten un ancestro común.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 286,
+      "author": "Gregor Mendel",
+      "quote": "El conocimiento de la genética nos muestra que las apariencias pueden ser engañosas y que los rasgos externos no siempre reflejan la verdadera composición genética.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 287,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos enseña que la variabilidad genética es esencial para la supervivencia y adaptación de las especies.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 288,
+      "author": "Gregor Mendel",
+      "quote": "La genética no solo se limita a los seres vivos, también es aplicable a otros sistemas complejos, como la economía y las redes sociales.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 289,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos muestra que somos responsables de nuestras propias acciones, ya que nuestras elecciones pueden influir en la herencia que transmitimos a las generaciones futuras.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 290,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos recuerda que somos parte de un proceso evolutivo continuo y que nuestro propósito en la vida es contribuir al crecimiento y desarrollo de las futuras generaciones.",
+      "topics": ["ciencia", "genetica", "evolucion"]
+    },
+    {
+      "id": 291,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos enseña a respetar y valorar la diversidad, ya que cada individuo es único en su composición genética.",
+      "topics": ["ciencia", "genetica", "diversidad"]
+    },
+    {
+      "id": 292,
+      "author": "Gregor Mendel",
+      "quote": "Las leyes de Mendel son un testimonio de la belleza y elegancia de la naturaleza.",
+      "topics": ["ciencia", "genetica", "naturaleza"]
+    },
+    {
+      "id": 293,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos muestra que no hay separación entre lo vivo y lo no vivo, ya que todos los sistemas están conectados a través de la herencia y la evolución.",
+      "topics": ["ciencia", "genetica", "evolucion"]
+    },
+    {
+      "id": 294,
+      "author": "Gregor Mendel",
+      "quote": "La genética es una herramienta poderosa para la comprensión y conservación de la biodiversidad.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 295,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos permite entender cómo los cambios en los genes pueden dar lugar a enfermedades y cómo podemos prevenirlas o tratarlas.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 296,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos recuerda que no somos dueños y señores de la naturaleza, sino parte integral de ella.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 297,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos revela la enorme complejidad y belleza de la vida en todas sus manifestaciones.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 298,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos ayuda a entender y valorar la interconexión entre todos los seres vivos.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 299,
+      "author": "Gregor Mendel",
+      "quote": "La comprensión de la genética nos permite tomar decisiones informadas y éticas en temas como la modificación genética y el uso de la tecnología.",
+      "topics": ["ciencia", "genetica"]
+    },
+    {
+      "id": 300,
+      "author": "Gregor Mendel",
+      "quote": "La genética nos muestra que el futuro de la vida en la Tierra depende de nuestra capacidad de valorar y proteger la diversidad genética.",
+      "topics": ["ciencia", "genetica", "futuro"]
     }
   ]
 }
