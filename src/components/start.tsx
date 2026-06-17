@@ -35,7 +35,7 @@ export default function Start({ onComplete }: StartProps) {
       })
       .to(circle, {
         scale: 25,
-        rotate: 1080,
+        rotate: 540,
         duration: 1.4,
         ease: "power4.inOut",
       })
@@ -68,9 +68,19 @@ export default function Start({ onComplete }: StartProps) {
         ref={circleRef}
         className="absolute h-40 w-40 rounded-full opacity-0"
         style={{
-          background:
-            "conic-gradient(red, orange, yellow, green, cyan, blue, violet, red)",
-        }}
+  			background: `
+    			conic-gradient(
+      			#8b7285,
+      			#a58a75,
+      			#b2a07a,
+      			#7f9b85,
+      			#6f8f95,
+      			#7b82a3,
+      			#907da6,
+      			#8b7285
+    			)
+  			`,
+			}}
       />
 
       {/* Contenido */}
