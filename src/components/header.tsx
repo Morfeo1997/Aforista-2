@@ -71,9 +71,9 @@ export default function Header() {
           }
           className="rounded-xl border border-[var(--border-color)] bg-[var(--surface-color)] px-4 py-2 text-[var(--primary-text)] outline-none"
         >
-          <option value="es">Español</option>
+          <option value="es">🇪🇸 Español</option>
 
-          <option value="en">English</option>
+          <option value="en">🇬🇧 English</option>
         </select>
       </div>
 

@@ -35,7 +35,7 @@ export default function Start({ onComplete }: StartProps) {
       })
       .to(circle, {
         scale: 25,
-        rotate: 540,
+        rotate: 360,
         duration: 1.4,
         ease: "power4.inOut",
       })
