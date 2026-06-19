@@ -48,12 +48,6 @@ type LanguageContextType = {
 
   setLanguage: (lang: Language) => void;
 
-  startTitle: string;
-
-  startDescription: string;
-
-  startButton: string;
-
   data: LanguageData;
 };
 
