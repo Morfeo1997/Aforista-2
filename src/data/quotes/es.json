@@ -1,7 +1,13 @@
 {
-  "language": "es",
+    "language": "es",
 
   "welcomeMessage": "¿Qué te interesa saber hoy?",
+
+  "startTitle": "¿Quieres leer algo hoy?",
+
+  "startDescription": "Explora pensamientos, ideas y aforismos de distintos temas.",
+
+  "startButton": "Quiero aprender algo hoy",
 
   "buttonText": "Generar",
 

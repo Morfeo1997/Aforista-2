@@ -29,6 +29,12 @@ type LanguageData = {
 
   welcomeMessage: string;
 
+  startTitle: string;
+
+  startDescription: string;
+
+  startButton: string;
+
   buttonText: string;
 
   topics: Topic[];
@@ -41,6 +47,12 @@ type LanguageContextType = {
   language: Language;
 
   setLanguage: (lang: Language) => void;
+
+  startTitle: string;
+
+  startDescription: string;
+
+  startButton: string;
 
   data: LanguageData;
 };
@@ -77,6 +89,7 @@ export function LanguageProvider({
         language,
         setLanguage,
         data,
+        
       }}
     >
       {children}

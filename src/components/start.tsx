@@ -1,5 +1,6 @@
 import { useRef, useState } from "react";
 import { gsap } from "gsap";
+import { useLanguage } from "../context/LanguageContext";
 
 type StartProps = {
   onComplete?: () => void;
@@ -10,6 +11,12 @@ export default function Start({ onComplete }: StartProps) {
 
   const circleRef = useRef<HTMLDivElement>(null);
   const containerRef = useRef<HTMLDivElement>(null);
+
+    const {
+    startTitle,
+    startDescription,
+    startButton,
+  } = useLanguage();
 
   const handleStart = () => {
     if (isAnimating) return;
@@ -86,11 +93,11 @@ export default function Start({ onComplete }: StartProps) {
       {/* Contenido */}
       <div className="z-10 flex flex-col items-center gap-6 text-center">
         <h1 className="text-4xl font-bold text-white md:text-6xl">
-          ¿Quieres leer algo hoy?
+          {startTitle}
         </h1>
 
         <p className="max-w-md text-zinc-400">
-          Explora pensamientos, ideas y aforismos de distintos temas.
+          {startDescription}
         </p>
 
         <button
@@ -98,7 +105,7 @@ export default function Start({ onComplete }: StartProps) {
           disabled={isAnimating}
           className="rounded-2xl border border-zinc-700 bg-zinc-900 px-8 py-4 text-lg font-medium text-white transition-all duration-300 hover:scale-105 hover:bg-zinc-800 disabled:cursor-not-allowed"
         >
-          Quiero aprender algo hoy
+          {startButton}
         </button>
       </div>
     </section>

@@ -1,4 +1,16 @@
 {
+  "language": "en",
+
+  "welcomeMessage": "What would you like to learn today?",
+
+  "startTitle": "Would you like to read something today?",
+
+  "startDescription": "Explore thoughts, ideas and aphorisms from different topics.",
+
+  "startButton": "I want to learn something today",
+
+  "buttonText": "Generate",
+  
   "topics": [
     {
       "id": "filosofia",
