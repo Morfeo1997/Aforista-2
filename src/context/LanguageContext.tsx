@@ -29,6 +29,10 @@ type LanguageData = {
 
   welcomeMessage: string;
 
+  welcomeText: string;
+
+  allTopics: string;
+
   startTitle: string;
 
   startDescription: string;

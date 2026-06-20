@@ -3,6 +3,10 @@
 
   "welcomeMessage": "What would you like to learn today?",
 
+  "welcomeText": "Choose a topic and discover something new",
+
+  "allTopics": "All",
+
   "startTitle": "Would you like to read something today?",
 
   "startDescription": "Explore thoughts, ideas and aphorisms from different topics.",
@@ -13,7 +17,7 @@
   
   "topics": [
     {
-      "id": "filosofia",
+      "id": "philosofy",
       "label": "Filosofía"
     },
     {

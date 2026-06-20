@@ -160,7 +160,7 @@ export default function Main() {
                   color: "var(--primary-text)",
                 }}
               >
-                ¿Qué te interesa saber hoy?
+                {data.welcomeMessage}
               </h1>
 
               <p
@@ -170,8 +170,7 @@ export default function Main() {
                     "var(--secondary-text)",
                 }}
               >
-                Selecciona un tema y descubre
-                una idea nueva.
+                {data.welcomeText}
               </p>
             </div>
           )}
@@ -200,7 +199,7 @@ export default function Main() {
         "var(--surface-color)",
     }}
   >
-    Todos
+    {data.allTopics}
   </option>
 
   {topics.map((topic) => (
@@ -226,7 +225,7 @@ export default function Main() {
                 "var(--accent-color)",
             }}
           >
-            Generar
+            {data.buttonText}
           </button>
         </div>
       </div>
