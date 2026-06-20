@@ -59,7 +59,7 @@ export default function Header() {
     <header className="fixed top-0 left-0 z-50 flex w-full items-center justify-between border-b border-[var(--border-color)] bg-black/30 px-6 py-4 backdrop-blur">
       {/* Logo */}
       <h1 className="text-xl font-semibold text-[var(--primary-text)]">
-        Aphorism Machine
+        Pensarium
       </h1>
 
       {/* Desktop */}
@@ -100,7 +100,7 @@ export default function Header() {
                   : "bg-zinc-800 text-zinc-300"
               }`}
             >
-              Español
+              🇪🇸 Español
             </button>
 
             <button
@@ -111,7 +111,7 @@ export default function Header() {
                   : "bg-zinc-800 text-zinc-300"
               }`}
             >
-              English
+              🇬🇧 English
             </button>
           </div>
         )}
