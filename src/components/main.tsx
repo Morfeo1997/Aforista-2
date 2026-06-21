@@ -23,13 +23,6 @@ type Topic = {
   label: string;
 };
 
-const topicThemeMap = {
-  filosofia: "philosophy",
-  ciencia: "science",
-  arte: "art",
-  vida: "nature",
-} as const;
-
 
 export default function Main() {
   const { data } = useLanguage();
