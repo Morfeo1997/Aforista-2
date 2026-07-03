@@ -1,5 +1,5 @@
 {
-    "language": "es",
+  "language": "es",
 
   "welcomeMessage": "¿Qué te interesa saber hoy?",
 
@@ -2006,6 +2006,186 @@
       "author": "Gregor Mendel",
       "quote": "La genética nos muestra que el futuro de la vida en la Tierra depende de nuestra capacidad de valorar y proteger la diversidad genética.",
       "topics": ["ciencia", "genetica", "futuro"]
+    },
+    {
+      "id": 301,
+      "author": "François de La Rochefoucauld",
+      "quote": "Pasa con el verdadero amor como con los aparecidos; todo el mundo habla de ellos, pero muy pocos los han visto.",
+      "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 302,
+      "author": "François de La Rochefoucauld",
+      "quote": "El medio más fácil para ser engañado es creerse más listo que los demás.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 303,
+      "author": "François de La Rochefoucauld",
+      "quote": "La solemnidad es un truco del cuerpo para disimular los defectos de la mente.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 304,
+      "author": "François de La Rochefoucauld",
+      "quote": "Insensato, es el nombre que generalmente damos a aquellos que no piensan como nosotros.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 305,
+      "author": "François de La Rochefoucauld",
+      "quote": "Si juzgamos el amor por la mayor parte de sus efectos, se parece más al odio que a la amistad.",
+      "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 306,
+      "author": "François de La Rochefoucauld",
+      "quote": "No hay disfraz que pueda largo tiempo ocultar el amor donde lo hay, ni fingirlo donde no lo hay.",
+      "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 307,
+      "author": "François de La Rochefoucauld",
+      "quote": "Nunca somos tan felices ni tan desdichados como nosotros creemos.",
+      "topics": ["filosofia", "felicidad"]
+    },
+    {
+      "id": 308,
+      "author": "François de La Rochefoucauld",
+      "quote": "Ponemos más interés en hacer creer a los demás que somos felices que en tratar de serlo.",
+      "topics": ["filosofia", "felicidad"]
+    },
+    {
+      "id": 309,
+      "author": "François de La Rochefoucauld",
+      "quote": "La sobriedad es el culto al cuerpo que impide atiborrarse de comida.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 310,
+      "author": "François de La Rochefoucauld",
+      "quote": "A veces creemos odiar la adulación y lo que se odia es la manera de adular.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 311,
+      "author": "François de La Rochefoucauld",
+      "quote": "Los celos se nutren de dudas y la verdad los deshace o los colma.",
+      "topics": ["filosofia", "envidia", "verdad"]
+    },
+    {
+      "id": 312,
+      "author": "François de La Rochefoucauld",
+      "quote": "El silencio es el partido más seguro para el que desconfía de sí mismo.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 313,
+      "author": "François de La Rochefoucauld",
+      "quote": "Es más vergonzoso desconfiar de los amigos, que ser engañado por ellos.",
+      "topics": ["filosofia", "amistad"]
+    },
+    {
+      "id": 314,
+      "author": "François de La Rochefoucauld",
+      "quote": "Todo el mundo se queja de su memoria, pero nadie de su inteligencia.",
+      "topics": ["filosofia", "inteligencia"]
+    },
+    {
+      "id": 315,
+      "author": "François de La Rochefoucauld",
+      "quote": "A los viejos les gusta dar buenos consejos, para consolarse de no poder dar malos ejemplos.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 316,
+      "author": "François de La Rochefoucauld",
+      "quote": "Vengarse de una ofensa es ponerse al nivel de los enemigos; perdonársela es hacerse superior a ellos.",
+      "topics": ["filosofia", "perdon"]
+    },
+    {
+      "id": 317,
+      "author": "François de La Rochefoucauld",
+      "quote": "El arrepentimiento no es tanto el pesar por el mal que hemos hecho como el temor al mal que puede sobrevenirnos como consecuencia.",
+      "topics": ["filosofia", "arrepentimiento"]
+    },
+    {
+      "id": 318,
+      "author": "François de La Rochefoucauld",
+      "quote": "A veces un necio tiene talento, pero nunca buen juicio.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 319,
+      "author": "François de La Rochefoucauld",
+      "quote": "Cada edad de la vida es nueva para nosotros; no importa cuántos años tengamos, aún nos aqueja la inexperiencia.",
+      "topics": ["filosofia", "vida"]
+    },
+    {
+      "id": 320,
+      "author": "François de La Rochefoucauld",
+      "quote": "El temperamento determina con frecuencia el valor de los hombres y la virtud de las mujeres.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 321,
+      "author": "François de La Rochefoucauld",
+      "quote": "La filosofía triunfa con facilidad sobre las desventuras pasadas y futuras, pero las desventuras presentes triunfan sobre la filosofía.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 322,
+      "author": "François de La Rochefoucauld",
+      "quote": "La duración de nuestras pasiones depende tan poco de nosotros como la duración de nuestra vida.",
+      "topics": ["filosofia", "pasión"]
+    },
+    {
+      "id": 323,
+      "author": "François de La Rochefoucauld",
+      "quote": "Las pasiones engendran a menudo otras que son sus contrarias: la avaricia produce a veces la prodigalidad, y la prodigalidad la avaricia; a menudo somos firmes por ser débiles, y audaces por cobardía.",
+      "topics": ["filosofia", "pasión"]
+    },
+    {
+      "id": 324,
+      "author": "François de La Rochefoucauld",
+      "quote": "La adulación es una especie de mal dinero, para lo que nuestra vanidad nos da moneda.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 325,
+      "author": "François de La Rochefoucauld",
+      "quote": "Algunas cosas falsas reproducen tan bien la verdad que sería un error de juicio no dejarse engañar por ellas.",
+      "topics": ["filosofia", "verdad"]
+    },
+    {
+      "id": 326,
+      "author": "François de La Rochefoucauld",
+      "quote": "No tenemos paciencia con la vanidad de otras personas porque es ofensivo para nuestra propia vanidad.",
+      "topics": ["filosofia", "vanidad"]
+    },
+    {
+      "id": 327,
+      "author": "François de La Rochefoucauld",
+      "quote": "Para tener éxito debemos hacer todo lo posible por parecer exitosos.",
+      "topics": ["filosofia", "exito"]
+    },
+    {
+      "id": 328,
+      "author": "François de La Rochefoucauld",
+      "quote": "Comer es una necesidad, pero comer de forma inteligente es un arte.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 329,
+      "author": "François de La Rochefoucauld",
+      "quote": "La moderación es una cualidad inventada con el fin de limitar la ambición de los grandes hombres y consolar a los mediocres de sus escasos méritos.",
+      "topics": ["filosofia", "moderación"]
+    },
+    {
+      "id": 330,
+      "author": "François de La Rochefoucauld",
+      "quote": "Lo que hace que los amantes no se aburran nunca de estar juntos es que se pasan el tiempo hablando siempre de sí mismos.",
+      "topics": ["filosofia", "amor"]
     }
   ]
 }
