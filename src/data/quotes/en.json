@@ -14,7 +14,7 @@
   "startButton": "I want to learn something today",
 
   "buttonText": "Generate",
-  
+
   "topics": [
     {
       "id": "filosofia",
@@ -2005,6 +2005,186 @@
       "author": "Gregor Mendel",
       "quote": "Genetics shows us that the future of life on Earth depends on our ability to value and protect genetic diversity.",
       "topics": ["ciencia", "genetica", "futuro"]
+    },
+    {
+      "id": 301,
+      "author": "François de La Rochefoucauld",
+      "quote": "It is the same with true love as it is with ghosts; everyone talks about them, but very few have actually seen them.",
+      "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 302,
+      "author": "François de La Rochefoucauld",
+      "quote": "The easiest way to be taken in is to think you’re smarter than everyone else.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 303,
+      "author": "François de La Rochefoucauld",
+      "quote": "Solemnity is a trick the body uses to conceal the mind’s flaws.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 304,
+      "author": "François de La Rochefoucauld",
+      "quote": "‘Fool’ is the name we usually give to those who do not think like us.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 305,
+      "author": "François de La Rochefoucauld",
+      "quote": "If we judge love by most of its effects, it resembles hatred more than friendship.",
+      "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 306,
+      "author": "François de La Rochefoucauld",
+      "quote": "No disguise can hide love for long where it exists, nor feign it where it does not.",
+      "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 307,
+      "author": "François de La Rochefoucauld",
+      "quote": "We are never as happy or as unhappy as we think we are.",
+      "topics": ["filosofia", "felicidad"]
+    },
+    {
+      "id": 308,
+      "author": "François de La Rochefoucauld",
+      "quote": "We put more effort into making others believe we are happy than into actually trying to be happy.",
+      "topics": ["filosofia", "felicidad"]
+    },
+    {
+      "id": 309,
+      "author": "François de La Rochefoucauld",
+      "quote": "Temperance is the worship of the body that prevents one from gorging oneself on food.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 310,
+      "author": "François de La Rochefoucauld",
+      "quote": "Sometimes we think we hate flattery, but what we actually hate is the way it is done.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 311,
+      "author": "François de La Rochefoucauld",
+      "quote": "Jealousy thrives on doubt, and the truth either dispels it or fuels it.",
+      "topics": ["filosofia", "envidia", "verdad"]
+    },
+    {
+      "id": 312,
+      "author": "François de La Rochefoucauld",
+      "quote": "Silence is the safest course of action for someone who lacks self-confidence.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 313,
+      "author": "François de La Rochefoucauld",
+      "quote": "It is more shameful to mistrust one’s friends than to be deceived by them.",
+      "topics": ["filosofia", "amistad"]
+    },
+    {
+      "id": 314,
+      "author": "François de La Rochefoucauld",
+      "quote": "Everyone complains about their memory, but nobody complains about their intelligence.",
+      "topics": ["filosofia", "inteligencia"]
+    },
+    {
+      "id": 315,
+      "author": "François de La Rochefoucauld",
+      "quote": "Old people like to give good advice, to console themselves for not being able to set bad examples.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 316,
+      "author": "François de La Rochefoucauld",
+      "quote": "To take revenge for an offence is to stoop to the level of one’s enemies; to forgive it is to rise above them.",
+      "topics": ["filosofia", "perdon"]
+    },
+    {
+      "id": 317,
+      "author": "François de La Rochefoucauld",
+      "quote": "Repentance is not so much regret for the wrong we have done as fear of the harm that may befall us as a result.",
+      "topics": ["filosofia", "arrepentimiento"]
+    },
+    {
+      "id": 318,
+      "author": "François de La Rochefoucauld",
+      "quote": "Sometimes a fool has talent, but never good judgement.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 319,
+      "author": "François de La Rochefoucauld",
+      "quote": "Every stage of life is new to us; no matter how old we are, we are still plagued by inexperience.",
+      "topics": ["filosofia", "vida"]
+    },
+    {
+      "id": 320,
+      "author": "François de La Rochefoucauld",
+      "quote": "Temperament often determines the courage of men and the virtue of women.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 321,
+      "author": "François de La Rochefoucauld",
+      "quote": "Philosophy easily triumphs over past and future misfortunes, but present misfortunes triumph over philosophy.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 322,
+      "author": "François de La Rochefoucauld",
+      "quote": "The duration of our passions depends just as little on us as the length of our lives.",
+      "topics": ["filosofia", "pasión"]
+    },
+    {
+      "id": 323,
+      "author": "François de La Rochefoucauld",
+      "quote": "Passions often give rise to others that are their opposites: greed sometimes leads to extravagance, and extravagance to greed; we are often steadfast because we are weak, and bold because we are cowardly.",
+      "topics": ["filosofia", "pasión"]
+    },
+    {
+      "id": 324,
+      "author": "François de La Rochefoucauld",
+      "quote": "Flattery is a kind of bad money, for which our vanity provides the currency.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 325,
+      "author": "François de La Rochefoucauld",
+      "quote": "Some falsehoods so closely resemble the truth that it would be a mistake not to be taken in by them.",
+      "topics": ["filosofia", "verdad"]
+    },
+    {
+      "id": 326,
+      "author": "François de La Rochefoucauld",
+      "quote": "We have no patience with other people’s vanity because it is offensive to our own vanity.",
+      "topics": ["filosofia", "vanidad"]
+    },
+    {
+      "id": 327,
+      "author": "François de La Rochefoucauld",
+      "quote": "To be successful, we must do everything we can to appear successful.",
+      "topics": ["filosofia", "exito"]
+    },
+    {
+      "id": 328,
+      "author": "François de La Rochefoucauld",
+      "quote": "Eating is a necessity, but eating sensibly is an art.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 329,
+      "author": "François de La Rochefoucauld",
+      "quote": "Moderation is a virtue invented to curb the ambition of great men and to console the mediocre for their meagre merits.",
+      "topics": ["filosofia", "moderación"]
+    },
+    {
+      "id": 330,
+      "author": "François de La Rochefoucauld",
+      "quote": "The reason why lovers never get bored of being together is that they spend their time constantly talking about themselves.",
+      "topics": ["filosofia", "amor"]
     }
   ]
 }
