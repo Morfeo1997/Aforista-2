@@ -2186,6 +2186,186 @@
       "author": "François de La Rochefoucauld",
       "quote": "Lo que hace que los amantes no se aburran nunca de estar juntos es que se pasan el tiempo hablando siempre de sí mismos.",
       "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 331,
+      "author": "Michel de Montaigne",
+      "quote": "Nadie está libre de decir estupideces, lo malo es decirlas con énfasis.",
+      "topics": ["filosofia", "inteligencia"]
+    },
+    {
+      "id": 332,
+      "author": "Michel de Montaigne",
+      "quote": "El que no esté seguro de su memoria debe abstenerse de mentir.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 333,
+      "author": "Michel de Montaigne",
+      "quote": "A quienes me preguntan la razón de mis viajes les contesto que sé bien de qué huyo pero ignoro lo que busco.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 334,
+      "author": "Michel de Montaigne",
+      "quote": "La principal ocupación de mi vida consiste en pasarla lo mejor posible.",
+      "topics": ["filosofia", "vida"]
+    },
+    {
+      "id": 335,
+      "author": "Michel de Montaigne",
+      "quote": "La palabra es mitad de quien la pronuncia, mitad de quien la escucha.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 336,
+      "author": "Michel de Montaigne",
+      "quote": "Los celos son, de todas las enfermedades del espíritu, aquella a la cual más cosas sirven de alimento y ninguna de remedio.",
+      "topics": ["filosofia", "envidia"]
+    },
+    {
+      "id": 337,
+      "author": "Michel de Montaigne",
+      "quote": "El signo más cierto de la sabiduría es la serenidad constante.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 338,
+      "author": "Michel de Montaigne",
+      "quote": "Yo no me encuentro a mí mismo cuando más me busco. Me encuentro por sorpresa cuando menos lo espero.",
+      "topics": ["filosofia", "vida"]
+    },
+    {
+      "id": 339,
+      "author": "Michel de Montaigne",
+      "quote": "La prueba más clara de la sabiduría es una alegría continua.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 340,
+      "author": "Michel de Montaigne",
+      "quote": "La cobardía es la madre de la crueldad.",
+      "topics": ["filosofia", "moral"]
+    },
+    {
+      "id": 341,
+      "author": "Michel de Montaigne",
+      "quote": "La conciencia hace que nos descubramos, que nos denunciemos o nos acusemos a nosotros mismos, y a falta de testigos declara contra nosotros.",
+      "topics": ["filosofia", "moral"]
+    },
+    {
+      "id": 342,
+      "author": "Michel de Montaigne",
+      "quote": "El mejor matrimonio sería aquel que reuniese a una mujer ciega con un marido sordo.",
+      "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 343,
+      "author": "Michel de Montaigne",
+      "quote": "Cada virtud sólo necesita un hombre; pero la amistad necesita dos.",
+      "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 344,
+      "author": "Michel de Montaigne",
+      "quote": "Las arrugas del espíritu nos hacen más viejos que las de la cara.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 345,
+      "author": "Michel de Montaigne",
+      "quote": "Para juzgar cosas grandes y nobles, es necesario poseer un alma igual de grande y noble.",
+      "topics": ["filosofia", "alma"]
+    },
+    {
+      "id": 346,
+      "author": "Michel de Montaigne",
+      "quote": "La verdadera libertad consiste en el dominio absoluto de sí mismo.",
+      "topics": ["filosofia", "libertad"]
+    },
+    {
+      "id": 347,
+      "author": "Michel de Montaigne",
+      "quote": "La confianza en la bondad ajena es testimonio no pequeño de la propia bondad.",
+      "topics": ["filosofia", "bondad"]
+    },
+    {
+      "id": 348,
+      "author": "Michel de Montaigne",
+      "quote": "El hombre sabio no lo es en todas las cosas.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 349,
+      "author": "Michel de Montaigne",
+      "quote": "Soledad: Un instante de plenitud.",
+      "topics": ["filosofia", "soledad"]
+    },
+    {
+      "id": 350,
+      "author": "Michel de Montaigne",
+      "quote": "Prohibir algo es despertar el deseo.",
+      "topics": ["filosofia", "prohibicion"]
+    },
+    {
+      "id": 351,
+      "author": "Michel de Montaigne",
+      "quote": "El matrimonio es como una jaula; uno ve a los pájaros desesperados por entrar, y a los que están dentro igualmente desesperados por salir.",
+      "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 352,
+      "author": "Michel de Montaigne",
+      "quote": "Cien veces al día burlamos nuestros propios defectos censurándolos en los demás.",
+      "topics": ["filosofia", "vida"]
+    },
+    {
+      "id": 353,
+      "author": "Michel de Montaigne",
+      "quote": "Si no acaba con la guerra, no es una victoria.",
+      "topics": ["filosofia", "guerra"]
+    },
+    {
+      "id": 354,
+      "author": "Michel de Montaigne",
+      "quote": "Mil rutas se apartan del fin elegido, pero hay una que llega a él.",
+      "topics": ["filosofia", "metas"]
+    },
+    {
+      "id": 355,
+      "author": "Michel de Montaigne",
+      "quote": "Encuentro tanta diferencia entre yo y yo mismo como entre yo y los demás.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 356,
+      "author": "Michel de Montaigne",
+      "quote": "Saber mucho da ocasión de dudar más.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 357,
+      "author": "Michel de Montaigne",
+      "quote": "Los libros son el mejor viático que he encontrado para este humano viaje.",
+      "topics": ["filosofia", "libros"]
+    },
+    {
+      "id": 358,
+      "author": "Michel de Montaigne",
+      "quote": "Los juegos infantiles no son tales juegos, sino sus más serias actividades.",
+      "topics": ["filosofia", "juegos", "infancia"]
+    },
+    {
+      "id": 359,
+      "author": "Michel de Montaigne",
+      "quote": "La muerte no os concierne ni vivo ni muerto: vivo, porque sois; muerto porque ya no sois.",
+      "topics": ["filosofia", "vida"]
+    },
+    {
+      "id": 360,
+      "author": "Michel de Montaigne",
+      "quote": "El cobarde sólo amenaza cuando está a salvo.",
+      "topics": ["filosofia", "cobardia"]
     }
   ]
 }
