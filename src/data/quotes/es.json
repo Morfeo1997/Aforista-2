@@ -2366,6 +2366,186 @@
       "author": "Michel de Montaigne",
       "quote": "El cobarde sólo amenaza cuando está a salvo.",
       "topics": ["filosofia", "cobardia"]
+    },
+    {
+      "id": 361,
+      "author": "Li Tai-Po",
+      "quote": "El mundo está lleno de pequeñas alegrías: el arte consiste en saber distinguirlas.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 362,
+      "author": "François Truffaut",
+      "quote": "Quienquiera que cultive la fantasía en el arte está un poco loco. Su problema estriba en hacer interesante esa locura.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 363,
+      "author": "George Bernard Shaw",
+      "quote": "Los espejos se emplean para verse la cara; el arte para verse el alma.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 364,
+      "author": "Dómenico Cieri Estrada",
+      "quote": "Advertir la vida mientras se vive, alcanzar a vislumbrar su implacable grandeza, disfrutar del tiempo y de las personas que lo habitan, celebrar la vida y el sueño de vivir, ése es su arte.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 365,
+      "author": "Oscar Wilde",
+      "quote": "En el arte como en el amor la ternura es lo que da la fuerza.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 366,
+      "author": "Oscar Wilde",
+      "quote": "El arte no es algo que se pueda tomar y dejar. Es necessario para vivir.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 367,
+      "author": "Auguste Rodin",
+      "quote": "El arte es el placer de un espíritu que penetra en la naturaleza y descubre que también ésta tiene alma.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 368,
+      "author": "Pablo Picasso",
+      "quote": "El arte no es realidad; es una mentira que nos hace darnos cuenta de la realidad, al menos de una realidad que somos capaces de comprender.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 369,
+      "author": "Eugene Ionesco",
+      "quote": "El arte es inútil, pero el hombre es incapaz de prescindir de lo inútil.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 370,
+      "author": "Elsa Triolet",
+      "quote": "Crear es tan difícil como ser libre.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 371,
+      "author": "Marc Chagall",
+      "quote": "El arte es sobre todo un estado del alma.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 372,
+      "author": "Anonimo",
+      "quote": "El que escribe en el alma de un niño escribe para siempre.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 373,
+      "author": "Frank Zappa",
+      "quote": "El arte es hacer algo de la nada y venderlo.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 374,
+      "author": "Dómenico Cieri Estrada",
+      "quote": "El arte es una pausa, un encuentro de sensibilidades.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 375,
+      "author": "Alfonso Reyes",
+      "quote": "El arte de la expresión no me apareció como un oficio retórico, independiente de la conducta, sino como un medio para realizar plenamente el sentido humano.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 376,
+      "author": "Kazimierz Brandys",
+      "quote": "El hombre dotado de inteligencia puede con el don de saber que posee, conseguir la capacidad necesaria para toda la técnica y destreza artística.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 377,
+      "author": "Thomas Louis Berger",
+      "quote": "¿Qué es el arte, sino una manera de ver?",
+      "topics": ["arte"]
+    },
+    {
+      "id": 378,
+      "author": "Vincent Van Gogh",
+      "quote": "El arte es el hombre añadido a la naturaleza.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 379,
+      "author": "Honoré de Balzac",
+      "quote": "El arte nace en el cerebro y no en el corazón.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 380,
+      "author": "Bertolt Brecht",
+      "quote": "El arte, cuando es bueno, es siempre entretenimiento.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 381,
+      "author": "Naguib Mahfuz",
+      "quote": "El arte debe ser gusto, diversión y alucinación.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 382,
+      "author": "Hipólito Taine",
+      "quote": "El arte es como un naranjo, que precisa un suelo y un clima adecuado para florecer y dar fruto.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 383,
+      "author": "Beverly Sills",
+      "quote": "El arte es la firma de la civilización.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 384,
+      "author": "Anonimo",
+      "quote": "Nada suena tan estridente a los oídos del autor como el silencio de la crítica.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 385,
+      "author": "Anónimo",
+      "quote": "Proteger el gusto es matar el arte.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 386,
+      "author": "Edgar Allan Poe",
+      "quote": "Si se me pidiera que definiera en pocas palabras el término arte, lo llamaría la reproducción de lo que los sentidos perciben en la naturaleza a través del velo del alma.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 387,
+      "author": "Edgar Degas",
+      "quote": "El arte es vicio. No te casas con él legítimamente, lo raptas.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 388,
+      "author": "Arturo Graf",
+      "quote": "El arte es bajo cierto aspecto una crítica de la realidad.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 389,
+      "author": "Victo Hugo",
+      "quote": "El arte, en sí mismo, no camina hacia adelante ni hacia atrás.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 390,
+      "author": "Susan Sontag",
+      "quote": "El arte es seducción, no rapto.",
+      "topics": ["arte"]
     }
   ]
 }
