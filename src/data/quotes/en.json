@@ -2185,6 +2185,186 @@
       "author": "François de La Rochefoucauld",
       "quote": "The reason why lovers never get bored of being together is that they spend their time constantly talking about themselves.",
       "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 331,
+      "author": "Michel de Montaigne",
+      "quote": "Nobody is immune to saying silly things; the problem is saying them with such conviction.",
+      "topics": ["filosofia", "inteligencia"]
+    },
+    {
+      "id": 332,
+      "author": "Michel de Montaigne",
+      "quote": "Anyone who is unsure of their memory should refrain from lying.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 333,
+      "author": "Michel de Montaigne",
+      "quote": "To those who ask me why I travel, I reply that I know full well what I am running away from, but I have no idea what I am looking for.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 334,
+      "author": "Michel de Montaigne",
+      "quote": "My main aim in life is to enjoy it as much as possible.",
+      "topics": ["filosofia", "vida"]
+    },
+    {
+      "id": 335,
+      "author": "Michel de Montaigne",
+      "quote": "A word belongs half to the speaker and half to the listener.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 336,
+      "author": "Michel de Montaigne",
+      "quote": "Of all the ailments of the spirit, jealousy is the one that is fuelled by so many things and for which there is no remedy.",
+      "topics": ["filosofia", "envidia"]
+    },
+    {
+      "id": 337,
+      "author": "Michel de Montaigne",
+      "quote": "The surest sign of wisdom is constant serenity.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 338,
+      "author": "Michel de Montaigne",
+      "quote": "I don’t find myself when I’m looking for myself the most. I find myself by surprise when I least expect it.",
+      "topics": ["filosofia", "vida"]
+    },
+    {
+      "id": 339,
+      "author": "Michel de Montaigne",
+      "quote": "The clearest sign of wisdom is constant joy.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 340,
+      "author": "Michel de Montaigne",
+      "quote": "Cowardice is the mother of cruelty.",
+      "topics": ["filosofia", "moral"]
+    },
+    {
+      "id": 341,
+      "author": "Michel de Montaigne",
+      "quote": "Conscience leads us to uncover our own faults, to expose or accuse ourselves, and, in the absence of witnesses, to testify against ourselves.",
+      "topics": ["filosofia", "moral"]
+    },
+    {
+      "id": 342,
+      "author": "Michel de Montaigne",
+      "quote": "The best marriage would be one that brought together a blind woman and a deaf husband.",
+      "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 343,
+      "author": "Michel de Montaigne",
+      "quote": "Every virtue needs only one person; but friendship needs two.",
+      "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 344,
+      "author": "Michel de Montaigne",
+      "quote": "The wrinkles of the spirit make us look older than those on our faces.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 345,
+      "author": "Michel de Montaigne",
+      "quote": "To judge great and noble things, one must possess a soul that is equally great and noble.",
+      "topics": ["filosofia", "alma"]
+    },
+    {
+      "id": 346,
+      "author": "Michel de Montaigne",
+      "quote": "True freedom lies in absolute self-control.",
+      "topics": ["filosofia", "libertad"]
+    },
+    {
+      "id": 347,
+      "author": "Michel de Montaigne",
+      "quote": "Trust in the goodness of others is no small testament to one’s own goodness.",
+      "topics": ["filosofia", "bondad"]
+    },
+    {
+      "id": 348,
+      "author": "Michel de Montaigne",
+      "quote": "A wise man is not wise in all things.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 349,
+      "author": "Michel de Montaigne",
+      "quote": "Solitude: A moment of fulfilment.",
+      "topics": ["filosofia", "soledad"]
+    },
+    {
+      "id": 350,
+      "author": "Michel de Montaigne",
+      "quote": "To forbid something is to arouse desire.",
+      "topics": ["filosofia", "prohibicion"]
+    },
+    {
+      "id": 351,
+      "author": "Michel de Montaigne",
+      "quote": "Marriage is like a cage; you see the birds desperate to get in, and those inside just as desperate to get out.",
+      "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 352,
+      "author": "Michel de Montaigne",
+      "quote": "A hundred times a day we mock our own faults by criticising them in others.",
+      "topics": ["filosofia", "vida"]
+    },
+    {
+      "id": 353,
+      "author": "Michel de Montaigne",
+      "quote": "If it doesn’t end the war, it’s not a victory.",
+      "topics": ["filosofia", "guerra"]
+    },
+    {
+      "id": 354,
+      "author": "Michel de Montaigne",
+      "quote": "A thousand paths lead away from the chosen destination, but there is one that leads to it.",
+      "topics": ["filosofia", "metas"]
+    },
+    {
+      "id": 355,
+      "author": "Michel de Montaigne",
+      "quote": "I find there is just as much of a difference between myself and myself as there is between myself and other people.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 356,
+      "author": "Michel de Montaigne",
+      "quote": "Knowing a great deal gives one more cause for doubt.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 357,
+      "author": "Michel de Montaigne",
+      "quote": "Books are the best companion I have found for this human journey.",
+      "topics": ["filosofia", "libros"]
+    },
+    {
+      "id": 358,
+      "author": "Michel de Montaigne",
+      "quote": "Children’s games are not merely games, but their most serious activities.",
+      "topics": ["filosofia", "juegos", "infancia"]
+    },
+    {
+      "id": 359,
+      "author": "Michel de Montaigne",
+      "quote": "Death has no bearing on you, whether I am alive or dead: alive, because you exist; dead, because you no longer exist.",
+      "topics": ["filosofia", "vida"]
+    },
+    {
+      "id": 360,
+      "author": "Michel de Montaigne",
+      "quote": "A coward only makes threats when he is safe.",
+      "topics": ["filosofia", "cobardia"]
     }
   ]
 }
