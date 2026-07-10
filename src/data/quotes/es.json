@@ -2546,6 +2546,186 @@
       "author": "Susan Sontag",
       "quote": "El arte es seducción, no rapto.",
       "topics": ["arte"]
+    },
+    {
+      "id": 391,
+      "author": "Juan Pablo II",
+      "quote": "La auténtica intuición artística va más allá de lo que perciben los sentidos y, penetrando la realidad, intenta interpretar su misterio escondido.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 392,
+      "author": "Doménico Cieri Estrada",
+      "quote": "Allí está el fastuoso escenario de la vida para los que saben mirar un poco.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 393,
+      "author": "Leon Tolstoi",
+      "quote": "El arte es uno de los medios de comunicación entre los hombres.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 394,
+      "author": "Thomas Brown",
+      "quote": "El arte es la perfección de la naturaleza. La naturaleza hizo un mundo y el arte otro.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 395,
+      "author": "Gustave Flaubert",
+      "quote": "Amad el arte, entre todas las mentiras es la menos mentirosa.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 396,
+      "author": "John Ruskin",
+      "quote": "Cada vez que las facultades humanas alcanzan su plenitud, necesariamente se expresan mediante el arte.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 397,
+      "author": "Jean Dubuffet",
+      "quote": "Cuando los gobiernos se encargan de proteger a las artes, es el fin de todo.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 398,
+      "author": "Eugene Ionesco",
+      "quote": "Si es absolutamente necesario que el arte o el teatro sirvan para algo, será para enseñar a la gente que hay actividades que no sirven para nada y que es indispensable que las haya.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 399,
+      "author": "Oscar Wilde",
+      "quote": "El arte es la forma más intensa de individualismo que el mundo ha conocido.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 400,
+      "author": "Arthur Rimbaud",
+      "quote": "Ahora puedo decir que el arte es una tontería.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 401,
+      "author": "Albert Camus",
+      "quote": "Si el mundo fuera claro, el arte no existiría.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 402,
+      "author": "Ricardo Güiraldes",
+      "quote": "En el arte no hay malos motivos; hay motivos mal empleados.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 403,
+      "author": "Raul Soldi",
+      "quote": "El arte nunca progresa, evoluciona.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 404,
+      "author": "Pilar Avivar",
+      "quote": "Arte no es representar lo bello, sino bellamente las cosas.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 405,
+      "author": "Paul Verhoeven",
+      "quote": "El arte es el reflejo del mundo. Si el mundo es horrible, el reflejo también lo es.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 406,
+      "author": "Otto Wagner",
+      "quote": "El arte en vez de declinar, debe conquistar la esfera de la tecnología.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 407,
+      "author": "Oleg Efremov",
+      "quote": "El arte todo debe mostrar porque los hombres son de tal o cual manera.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 408,
+      "author": "Max Ernst",
+      "quote": "El arte no tiene nada que ver con el gusto. No existe para que se le pruebe.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 409,
+      "author": "José María Eça de Queirós",
+      "quote": "El arte es un compendio de la naturaleza formado por la imaginación.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 410,
+      "author": "Jean Dubuffet",
+      "quote": "No hay nada más común que la pasión por el arte.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 411,
+      "author": "Arturo Graf",
+      "quote": "El que en un arte ha llegado a maestro puede prescindir de las reglas.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 412,
+      "author": "Antoni Tapies",
+      "quote": "El arte es la filosofía que refleja un pensamiento.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 413,
+      "author": "Alfonso Guerra",
+      "quote": "A veces, el arte está en los críticos. Estos inventan el arte.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 414,
+      "author": "Orson Welles",
+      "quote": "El enemigo del arte es la ausencia de limitaciones.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 415,
+      "author": "María Zambrano",
+      "quote": "El arte parece ser el empeño por descifrar o perseguir la huella dejada por una forma perdida de existencia.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 416,
+      "author": "Jules Renard",
+      "quote": "En arte, no hacer nada como los otros; en moral hacer como todo el mundo.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 417,
+      "author": "Ralph Waldo Emerson",
+      "quote": "La escultura y la pintura tienen el efecto de enseñarnos modales y suprimir la prisa.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 418,
+      "author": "John Cage",
+      "quote": "El arte no es algo que haga una sola persona, sino un proceso puesto en movimiento por muchos.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 419,
+      "author": "Jean Paul",
+      "quote": "El arte verdaderamente no es el pan, pero sí el vino de la vida.",
+      "topics": ["arte"]
+    },
+    {
+      "id": 420,
+      "author": "Aristóteles",
+      "quote": "En parte, el arte completa lo que la naturaleza no puede elaborar y, en parte, imita a la naturaleza.",
+      "topics": ["arte"]
     }
   ]
 }
