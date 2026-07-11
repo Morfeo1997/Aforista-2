@@ -2726,6 +2726,186 @@
       "author": "Aristóteles",
       "quote": "En parte, el arte completa lo que la naturaleza no puede elaborar y, en parte, imita a la naturaleza.",
       "topics": ["arte"]
+    },
+    {
+      "id": 421,
+      "author": "John Locke",
+      "quote": "La fortaleza es la protección de las demás virtudes",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 422,
+      "author": "John Locke",
+      "quote": "Las leyes se hicieron para los hombres y no los hombres para las leyes",
+      "topics": ["filosofia", "justicia", "leyes"]
+    },
+    {
+      "id": 423,
+      "author": "John Locke",
+      "quote": "Donde no hay propiedad no hay justicia",
+      "topics": ["filosofia", "justicia"]
+    },
+    {
+      "id": 424,
+      "author": "John Locke",
+      "quote": "Las acciones humanas son las intérpretes de nuestros pensamientos",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 425,
+      "author": "John Locke",
+      "quote": "Todo aquello que nos preocupe nos tendrá controlados",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 426,
+      "author": "John Locke",
+      "quote": "El hombre nace libre pero en todos lados está encadenado",
+      "topics": ["filosofia", "libertad"]
+    },
+    {
+      "id": 427,
+      "author": "John Locke",
+      "quote": "La felicidad humana es una disposición de la mente, no una condición de las circunstancias",
+      "topics": ["filosofia", "felicidad"]
+    },
+    {
+      "id": 428,
+      "author": "John Locke",
+      "quote": "Una cosa es demostrar a un hombre que está equivocado, otra es situarlo en posesión de la verdad",
+      "topics": ["filosofia", "verdad"]
+    },
+    {
+      "id": 429,
+      "author": "John Locke",
+      "quote": "Las personas somos camaleones, nuestro tono y el color de nuestro carácter se amolda a aquellos que están a nuestro alrededor",
+      "topics": ["filosofia", "sociedad"]
+    },
+    {
+      "id": 430,
+      "author": "John Locke",
+      "quote": "Pensar amuebla la mente solo con materiales de conocimiento; es pensando que hacemos lo que leemos nuestro",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 431,
+      "author": "John Locke",
+      "quote": "Nadie tiene derecho sobre la propiedad de una persona excepto ella misma",
+      "topics": ["filosofia", "justicia"]
+    },
+    {
+      "id": 432,
+      "author": "John Locke",
+      "quote": "Hay que perder la mitad del tiempo para poder emplear la otra mitad",
+      "topics": ["filosofia", "tiempo"]
+    },
+    {
+      "id": 433,
+      "author": "John Locke",
+      "quote": "El conocimiento es la única defensa ante el peligroso mundo",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 434,
+      "author": "John Locke",
+      "quote": "Los padres se preguntan por qué los arroyos son amargos, cuando ellos mismos envenenan la fuente",
+      "topics": ["filosofia", "paternidad"]
+    },
+    {
+      "id": 435,
+      "author": "John Locke",
+      "quote": "El conocimiento de ningún hombre de aquí puede ir más allá de su experiencia",
+      "topics": ["filosofia", "critica", "sabiduria"]
+    },
+    {
+      "id": 436,
+      "author": "John Locke",
+      "quote": "Una mente sana en un cuerpo sano, es lo que completa de un estado feliz en este mundo",
+      "topics": ["filosofia", "felicidad"]
+    },
+    {
+      "id": 437,
+      "author": "John Locke",
+      "quote": "El gobierno no tiene otro fin que la preservación de la propiedad",
+      "topics": ["filosofia", "justicia"]
+    },
+    {
+      "id": 438,
+      "author": "John Locke",
+      "quote": "El que quiera seriamente disponerse a la búsqueda de la verdad, deberá preparar su mente para amarla",
+      "topics": ["filosofia", "verdad"]
+    },
+    {
+      "id": 439,
+      "author": "John Locke",
+      "quote": "La educación comienza al caballero, pero leer, la buena compañía y la reflexión lo deben finalizar",
+      "topics": ["filosofia", "educación"]
+    },
+    {
+      "id": 440,
+      "author": "John Locke",
+      "quote": "Es más fácil mandar que enseñar",
+      "topics": ["filosofia", "educación"]
+    },
+    {
+      "id": 441,
+      "author": "John Locke",
+      "quote": "No hay doctrina ajena que en esto pueda superar a la propia experiencia.",
+      "topics": ["filosofia", "educación", "sabiduria"]
+    },
+    {
+      "id": 442,
+      "author": "John Locke",
+      "quote": "No puede haber mayor rudeza que interrumpir otro en la corriente de su discurso.",
+      "topics": ["filosofia", "tolerancia"]
+    },
+    {
+      "id": 443,
+      "author": "John Locke",
+      "quote": "Frecuentemente hay más que aprender de las preguntas inesperadas de los niños que de los discursos de los hombres.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 444,
+      "author": "John Locke",
+      "quote": "La ocupación última del hombre es ser feliz",
+      "topics": ["filosofia", "felicidad"]
+    },
+    {
+      "id": 445,
+      "author": "John Locke",
+      "quote": "Las nuevas opiniones siempre son sospechosas, y normalmente se rechazan",
+      "topics": ["filosofia", "critica", "verdad"]
+    },
+    {
+      "id": 446,
+      "author": "John Locke",
+      "quote": "La protesta es el derecho de la gente",
+      "topics": ["filosofia", "justicia"]
+    },
+    {
+      "id": 447,
+      "author": "John Locke",
+      "quote": "Los antiguos dejaron mucho a la industria y sagacidad del tiempo venidero.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 448,
+      "author": "John Locke",
+      "quote": "La razón por la que los hombres entran en la sociedad es para preservar su propiedad",
+      "topics": ["filosofia", "sociedad", "justicia"]
+    },
+    {
+      "id": 449,
+      "author": "John Locke",
+      "quote": "Nacemos libres y ningún poder de la tierra puede sujetarnos, como no sea nuestro propio consentimiento",
+      "topics": ["filosofia", "justicia", "libertad"]
+    },
+    {
+      "id": 450,
+      "author": "John Locke",
+      "quote": "Toda riqueza es el producto del trabajo.",
+      "topics": ["filosofia", "sabiduria"]
     }
   ]
 }
