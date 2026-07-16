@@ -2906,6 +2906,186 @@
       "author": "John Locke",
       "quote": "Toda riqueza es el producto del trabajo.",
       "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 451,
+      "author": "Jane Austen",
+      "quote": "Nuestras cicatrices nos hacen saber que nuestro pasado fue real.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 452,
+      "author": "Jane Austen",
+      "quote": "La imaginación de una dama es muy rápida; salta de la admiración al amor y del amor al matrimonio en un momento.",
+      "topics": ["amor", "sabiduria"]
+    },
+    {
+      "id": 453,
+      "author": "Jane Austen",
+      "quote": "No hay nada que no haría por aquellos que son realmente mis amigos. No tengo noción de amar a las personas a medias, no es mi naturaleza.",
+      "topics": ["amor", "amistad"]
+    },
+    {
+      "id": 454,
+      "author": "Jane Austen",
+      "quote": "Quizás son nuestras imperfecciones, las que nos hacen tan perfectos el uno para el otro.",
+      "topics": ["amor", "sabiduria"]
+    },
+    {
+      "id": 455,
+      "author": "Jane Austen",
+      "quote": "Sin música, la vida sería un espacio en blanco para mí.",
+      "topics": ["filosofia", "musica", "vida"]
+    },
+    {
+      "id": 456,
+      "author": "Jane Austen",
+      "quote": "Debes saber algo de mi filosofía. Pienso solo en el pasado ya que su recuerdo me da placer.",
+      "topics": ["filosofia", "pasado"]
+    },
+    {
+      "id": 457,
+      "author": "Jane Austen",
+      "quote": "A veces me he guardado mis sentimientos, porque no pude encontrar un lenguaje para describirlos.",
+      "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 458,
+      "author": "Jane Austen",
+      "quote": "Deseo, al igual que todos los demás, ser perfectamente feliz; pero, como todos los demás, debe ser a mi manera.",
+      "topics": ["filosofia", "felicidad"]
+    },
+    {
+      "id": 459,
+      "author": "Jane Austen",
+      "quote": "Rara vez, muy raramente, la verdad completa pertenece a cualquier revelación humana; rara vez puede suceder que algo no esté un poco disfrazado, o un poco equivocado.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 460,
+      "author": "Jane Austen",
+      "quote": "Desear era esperar y esperar era esperar.",
+      "topics": ["filosofia", "sabiduria", "resilencia"]
+    },
+    {
+      "id": 461,
+      "author": "Jane Austen",
+      "quote": "Debo aprender a contentarme de ser más feliz de lo que merezco.",
+      "topics": ["filosofia", "felicidad"]
+    },
+    {
+      "id": 462,
+      "author": "Jane Austen",
+      "quote": "Cada momento tiene sus placeres y su esperanza.",
+      "topics": ["filosofia", "esperanza"]
+    },
+    {
+      "id": 463,
+      "author": "Jane Austen",
+      "quote": "En nueve de cada diez casos, una mujer debería demostrar más afecto de lo que siente.",
+      "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 464,
+      "author": "Jane Austen",
+      "quote": "Siempre he mantenido la importancia de las tías.",
+      "topics": ["filosofia", "sabiduria", "familia"]
+    },
+    {
+      "id": 465,
+      "author": "Jane Austen",
+      "quote": "Mi buena opinión, una vez perdida, se pierde para siempre.",
+      "topics": ["filosofia", "sabiduria", "resilencia"]
+    },
+    {
+      "id": 466,
+      "author": "Jane Austen",
+      "quote": "Pero las personas mismas cambian tanto, que siempre se observa algo nuevo en ellas.",
+      "topics": ["filosofia", "cambio", "personas"]
+    },
+    {
+      "id": 467,
+      "author": "Jane Austen",
+      "quote": "La distancia no es nada cuando uno tiene un motivo.",
+      "topics": ["filosofia", "motivacion", "metas"]
+    },
+    {
+      "id": 468,
+      "author": "Jane Austen",
+      "quote": "La mitad del mundo no puede entender los placeres del otro.",
+      "topics": ["filosofia", "sabiduria", "comprension"]
+    },
+    {
+      "id": 469,
+      "author": "Jane Austen",
+      "quote": "Hay tantas formas de amor como momentos en el tiempo.",
+      "topics": ["amor"]
+    },
+    {
+      "id": 470,
+      "author": "Jane Austen",
+      "quote": "Una mente viva y a gusto, no puede ver nada, no puede ver nada que no desee.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 471,
+      "author": "Jane Austen",
+      "quote": "¡Nadie puede decir lo que sufro! Pero siempre es así. Aquellos que no se quejan nunca se compadecen.",
+      "topics": ["filosofia", "compasion"]
+    },
+    {
+      "id": 472,
+      "author": "Jane Austen",
+      "quote": "La persona, sea caballero o dama, que no tiene placer en una buena novela, debe ser intolerablemente estúpida.",
+      "topics": ["filosofia", "intolerancia"]
+    },
+    {
+      "id": 473,
+      "author": "Jane Austen",
+      "quote": "Es muy difícil para los prósperos ser humildes.",
+      "topics": ["filosofia", "humildad"]
+    },
+    {
+      "id": 474,
+      "author": "Jane Austen",
+      "quote": "Ninguno de nosotros quiere estar en aguas tranquilas durante toda su vida.",
+      "topics": ["filosofia", "paz"]
+    },
+    {
+      "id": 475,
+      "author": "Jane Austen",
+      "quote": "Si una mujer es parcial a un hombre, y no se esfuerza por ocultarlo, él debe descubrirlo.",
+      "topics": ["amor"]
+    },
+    {
+      "id": 476,
+      "author": "Jane Austen",
+      "quote": "Las cosas tontas dejan de ser tontas si las hacen personas sensatas de una manera imprudente.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 477,
+      "author": "Jane Austen",
+      "quote": "El amor es fuego.",
+      "topics": ["amor"]
+    },
+    {
+      "id": 478,
+      "author": "Jane Austen",
+      "quote": "Nada me divierte más que la facilidad con la que todos arreglan la abundancia de aquellos que tienen mucho menos que ellos.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 479,
+      "author": "Jane Austen",
+      "quote": "Cuanto más veo del mundo, más estoy insatisfecha con él.",
+      "topics": ["filosofia", "mundo"]
+    },
+    {
+      "id": 480,
+      "author": "Jane Austen",
+      "quote": "El egoísmo siempre debe ser perdonado, ya sabes, porque no hay esperanza de una cura.",
+      "topics": ["filosofia", "egoismo"]
     }
   ]
 }
