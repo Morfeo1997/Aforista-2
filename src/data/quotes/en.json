@@ -2725,6 +2725,186 @@
       "author": "Aristóteles",
       "quote": "In part, art completes what nature cannot achieve, and in part, it imitates nature.",
       "topics": ["arte"]
+    },
+        {
+      "id": 421,
+      "author": "John Locke",
+      "quote": "Fortitude is the safeguard of the other virtues",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 422,
+      "author": "John Locke",
+      "quote": "Laws were made for people, not people for laws",
+      "topics": ["filosofia", "justicia", "leyes"]
+    },
+    {
+      "id": 423,
+      "author": "John Locke",
+      "quote": "Where there is no property, there is no justice",
+      "topics": ["filosofia", "justicia"]
+    },
+    {
+      "id": 424,
+      "author": "John Locke",
+      "quote": "Human actions are the expression of our thoughts",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 425,
+      "author": "John Locke",
+      "quote": "Anything that worries us will keep us under its control",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 426,
+      "author": "John Locke",
+      "quote": "Man is born free, yet everywhere he is in chains",
+      "topics": ["filosofia", "libertad"]
+    },
+    {
+      "id": 427,
+      "author": "John Locke",
+      "quote": "Human happiness is a state of mind, not a matter of circumstances",
+      "topics": ["filosofia", "felicidad"]
+    },
+    {
+      "id": 428,
+      "author": "John Locke",
+      "quote": "It is one thing to prove a man wrong; it is quite another to convince him that he is right",
+      "topics": ["filosofia", "verdad"]
+    },
+    {
+      "id": 429,
+      "author": "John Locke",
+      "quote": "We humans are like chameleons; our tone and the colour of our character adapt to those around us",
+      "topics": ["filosofia", "sociedad"]
+    },
+    {
+      "id": 430,
+      "author": "John Locke",
+      "quote": "Thinking nourishes the mind solely with the substance of knowledge; it is through thinking that we make what we read our own",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 431,
+      "author": "John Locke",
+      "quote": "No one has any right to another person’s property except that person themselves",
+      "topics": ["filosofia", "justicia"]
+    },
+    {
+      "id": 432,
+      "author": "John Locke",
+      "quote": "You have to waste half the time in order to be able to use the other half",
+      "topics": ["filosofia", "tiempo"]
+    },
+    {
+      "id": 433,
+      "author": "John Locke",
+      "quote": "Knowledge is the only defence against the dangerous world",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 434,
+      "author": "John Locke",
+      "quote": "Parents wonder why the streams are bitter, when they themselves are poisoning the source",
+      "topics": ["filosofia", "paternidad"]
+    },
+    {
+      "id": 435,
+      "author": "John Locke",
+      "quote": "No one here can know more than their own experience",
+      "topics": ["filosofia", "critica", "sabiduria"]
+    },
+    {
+      "id": 436,
+      "author": "John Locke",
+      "quote": "A healthy mind in a healthy body is what makes for a happy life in this world",
+      "topics": ["filosofia", "felicidad"]
+    },
+    {
+      "id": 437,
+      "author": "John Locke",
+      "quote": "The government has no other purpose than the preservation of property",
+      "topics": ["filosofia", "justicia"]
+    },
+    {
+      "id": 438,
+      "author": "John Locke",
+      "quote": "Anyone who is serious about setting out on a quest for truth must prepare their mind to love it",
+      "topics": ["filosofia", "verdad"]
+    },
+    {
+      "id": 439,
+      "author": "John Locke",
+      "quote": "Education begins with good manners, but reading, good company and reflection must bring it to a close",
+      "topics": ["filosofia", "educación"]
+    },
+    {
+      "id": 440,
+      "author": "John Locke",
+      "quote": "It’s easier to give orders than to teach",
+      "topics": ["filosofia", "educación"]
+    },
+    {
+      "id": 441,
+      "author": "John Locke",
+      "quote": "No external doctrine can surpass one’s own experience in this regard.",
+      "topics": ["filosofia", "educación", "sabiduria"]
+    },
+    {
+      "id": 442,
+      "author": "John Locke",
+      "quote": "There can be no greater rudeness than interrupting someone whilst they are speaking.",
+      "topics": ["filosofia", "tolerancia"]
+    },
+    {
+      "id": 443,
+      "author": "John Locke",
+      "quote": "There is often more to be learnt from children’s unexpected questions than from the speeches of grown-ups.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 444,
+      "author": "John Locke",
+      "quote": "Man’s ultimate purpose is to be happy",
+      "topics": ["filosofia", "felicidad"]
+    },
+    {
+      "id": 445,
+      "author": "John Locke",
+      "quote": "New opinions are always suspect, and are usually rejected",
+      "topics": ["filosofia", "critica", "verdad"]
+    },
+    {
+      "id": 446,
+      "author": "John Locke",
+      "quote": "Protest is the people’s right",
+      "topics": ["filosofia", "justicia"]
+    },
+    {
+      "id": 447,
+      "author": "John Locke",
+      "quote": "Our forebears left much to the industry and wisdom of future generations.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 448,
+      "author": "John Locke",
+      "quote": "The reason why men enter into society is to preserve their property",
+      "topics": ["filosofia", "sociedad", "justicia"]
+    },
+    {
+      "id": 449,
+      "author": "John Locke",
+      "quote": "We are born free, and no power on earth can hold us in bondage, except with our own consent",
+      "topics": ["filosofia", "justicia", "libertad"]
+    },
+    {
+      "id": 450,
+      "author": "John Locke",
+      "quote": "All wealth is the product of labour.",
+      "topics": ["filosofia", "sabiduria"]
     }
   ]
 }
