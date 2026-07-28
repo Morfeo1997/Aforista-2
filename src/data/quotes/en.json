@@ -2905,6 +2905,186 @@
       "author": "John Locke",
       "quote": "All wealth is the product of labour.",
       "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 451,
+      "author": "Jane Austen",
+      "quote": "Our scars remind us that our past was real.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 452,
+      "author": "Jane Austen",
+      "quote": "A lady’s imagination works very quickly; it leaps from admiration to love and from love to marriage in the blink of an eye.",
+      "topics": ["amor", "sabiduria"]
+    },
+    {
+      "id": 453,
+      "author": "Jane Austen",
+      "quote": "There’s nothing I wouldn’t do for those who are truly my friends. I don’t know how to love people only half-heartedly; it’s not in my nature.",
+      "topics": ["amor", "amistad"]
+    },
+    {
+      "id": 454,
+      "author": "Jane Austen",
+      "quote": "Perhaps it is our imperfections that make us so perfect for one another.",
+      "topics": ["amor", "sabiduria"]
+    },
+    {
+      "id": 455,
+      "author": "Jane Austen",
+      "quote": "Without music, life would be a blank slate for me.",
+      "topics": ["filosofia", "musica", "vida"]
+    },
+    {
+      "id": 456,
+      "author": "Jane Austen",
+      "quote": "You should know a little about my philosophy. I think only of the past, as remembering it gives me pleasure.",
+      "topics": ["filosofia", "pasado"]
+    },
+    {
+      "id": 457,
+      "author": "Jane Austen",
+      "quote": "Sometimes I’ve kept my feelings to myself, because I couldn’t find the words to describe them.",
+      "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 458,
+      "author": "Jane Austen",
+      "quote": "Like everyone else, I want to be perfectly happy; but, like everyone else, it has to be in my own way.",
+      "topics": ["filosofia", "felicidad"]
+    },
+    {
+      "id": 459,
+      "author": "Jane Austen",
+      "quote": "Rarely, very rarely, does the whole truth lie in any human revelation; it is rare for anything not to be somewhat disguised, or somewhat mistaken.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 460,
+      "author": "Jane Austen",
+      "quote": "To wish was to hope, and to hope was to hope.",
+      "topics": ["filosofia", "sabiduria", "resilencia"]
+    },
+    {
+      "id": 461,
+      "author": "Jane Austen",
+      "quote": "I must learn to be content with being happier than I deserve.",
+      "topics": ["filosofia", "felicidad"]
+    },
+    {
+      "id": 462,
+      "author": "Jane Austen",
+      "quote": "Every moment has its own pleasures and its own hope.",
+      "topics": ["filosofia", "esperanza"]
+    },
+    {
+      "id": 463,
+      "author": "Jane Austen",
+      "quote": "In nine out of ten cases, a woman is expected to show more affection than she actually feels.",
+      "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 464,
+      "author": "Jane Austen",
+      "quote": "I’ve always maintained that aunts are important.",
+      "topics": ["filosofia", "sabiduria", "familia"]
+    },
+    {
+      "id": 465,
+      "author": "Jane Austen",
+      "quote": "Once I’ve lost my good opinion of someone, it’s lost forever.",
+      "topics": ["filosofia", "sabiduria", "resilencia"]
+    },
+    {
+      "id": 466,
+      "author": "Jane Austen",
+      "quote": "But people themselves change so much that you always notice something new about them.",
+      "topics": ["filosofia", "cambio", "personas"]
+    },
+    {
+      "id": 467,
+      "author": "Jane Austen",
+      "quote": "Distance is nothing when you have a reason.",
+      "topics": ["filosofia", "motivacion", "metas"]
+    },
+    {
+      "id": 468,
+      "author": "Jane Austen",
+      "quote": "Half the world cannot understand the pleasures of the other half.",
+      "topics": ["filosofia", "sabiduria", "comprension"]
+    },
+    {
+      "id": 469,
+      "author": "Jane Austen",
+      "quote": "There are as many forms of love as there are moments in time.",
+      "topics": ["amor"]
+    },
+    {
+      "id": 470,
+      "author": "Jane Austen",
+      "quote": "A lively and contented mind cannot see anything; it cannot see anything it does not wish to see.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 471,
+      "author": "Jane Austen",
+      "quote": "No one can say how much I’m suffering! But it’s always like this. Those who don’t complain never feel sorry for you.",
+      "topics": ["filosofia", "compasion"]
+    },
+    {
+      "id": 472,
+      "author": "Jane Austen",
+      "quote": "Anyone, be they a gentleman or a lady, who takes no pleasure in a good novel must be intolerably stupid.",
+      "topics": ["filosofia", "intolerancia"]
+    },
+    {
+      "id": 473,
+      "author": "Jane Austen",
+      "quote": "It is very difficult for the wealthy to be humble.",
+      "topics": ["filosofia", "humildad"]
+    },
+    {
+      "id": 474,
+      "author": "Jane Austen",
+      "quote": "None of us wants to spend our whole lives in calm waters.",
+      "topics": ["filosofia", "paz"]
+    },
+    {
+      "id": 475,
+      "author": "Jane Austen",
+      "quote": "If a woman has a soft spot for a man, and makes no effort to hide it, he is bound to find out.",
+      "topics": ["amor"]
+    },
+    {
+      "id": 476,
+      "author": "Jane Austen",
+      "quote": "Silly things cease to be silly if sensible people do them recklessly.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 477,
+      "author": "Jane Austen",
+      "quote": "Love is fire.",
+      "topics": ["amor"]
+    },
+    {
+      "id": 478,
+      "author": "Jane Austen",
+      "quote": "Nothing amuses me more than the ease with which everyone dismisses the wealth of those who have far less than they do.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 479,
+      "author": "Jane Austen",
+      "quote": "The more I see of the world, the more dissatisfied I am with it.",
+      "topics": ["filosofia", "mundo"]
+    },
+    {
+      "id": 480,
+      "author": "Jane Austen",
+      "quote": "Selfishness must always be forgiven, you know, because there’s no hope of a cure.",
+      "topics": ["filosofia", "egoismo"]
     }
   ]
 }
