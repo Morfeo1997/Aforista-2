@@ -3266,6 +3266,186 @@
       "author": "Voltaire",
       "quote": "El secreto de aburrir a la gente consiste en decirlo todo.",
       "topics": ["filosofia", "aburrimiento"]
+    },
+    {
+      "id": 511,
+      "author": "Voltaire",
+      "quote": "Si alguna vez, ve saltar por la ventana a un banquero suizo, salte detrás. Seguro que hay algo que ganar.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 512,
+      "author": "Voltaire",
+      "quote": "Suerte es lo que sucede cuando la preparación y la oportunidad se encuentran y fusionan.",
+      "topics": ["filosofia", "suerte"]
+    },
+    {
+      "id": 513,
+      "author": "Voltaire",
+      "quote": "La ignorancia afirma o niega rotundamente; la ciencia duda.",
+      "topics": ["filosofia", "ignorancia"]
+    },
+    {
+      "id": 514,
+      "author": "Voltaire",
+      "quote": "Quien se venga después de la victoria es indigno de vencer.",
+      "topics": ["filosofia", "venganza"]
+    },
+    {
+      "id": 515,
+      "author": "Voltaire",
+      "quote": "El sentido común no es nada común.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 516,
+      "author": "Voltaire",
+      "quote": "Una palabra mal colocada estropea el más bello pensamiento.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 517,
+      "author": "Voltaire",
+      "quote": "La escritura es la pintura de la voz.",
+      "topics": ["filosofia", "escritura"]
+    },
+    {
+      "id": 518,
+      "author": "Voltaire",
+      "quote": "Cuando se trata de dinero todos somos de la misma religión.",
+      "topics": ["filosofia", "dinero", "riqueza"]
+    },
+    {
+      "id": 519,
+      "author": "Voltaire",
+      "quote": "Lo maravilloso de la guerra es que cada jefe de asesinos hace bendecir sus banderas e invocar solemnemente a Dios antes de lanzarse a exterminar a su prójimo.",
+      "topics": ["filosofia", "guerra", "dios"]
+    },
+    {
+      "id": 520,
+      "author": "Voltaire",
+      "quote": "La superstición es a la religión lo que la astrología es a la astronomía, la hija loca de una madre cuerda..",
+      "topics": ["filosofia", "religión", "astrologia"]
+    },
+    {
+      "id": 521,
+      "author": "Voltaire",
+      "quote": "La religión mal entendida es una fiebre que puede terminar en delirio.",
+      "topics": ["filosofia", "religión"]
+    },
+    {
+      "id": 522,
+      "author": "Voltaire",
+      "quote": "La parte más filosófica de las historia es hacer conocer las tonterías cometidas por los hombres.",
+      "topics": ["filosofia", "estupidez"]
+    },
+    {
+      "id": 523,
+      "author": "Voltaire",
+      "quote": "Claro que el café es un veneno lento; hace cuarenta años que lo bebo.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 524,
+      "author": "Voltaire",
+      "quote": "Trabajemos sin razonar, es el único medio de hacer la vida soportable.",
+      "topics": ["filosofia", "trabajo"]
+    },
+    {
+      "id": 525,
+      "author": "Voltaire",
+      "quote": "La democracia sólo parece adecuada para un país muy pequeño.",
+      "topics": ["filosofia", "democracia"]
+    },
+    {
+      "id": 526,
+      "author": "Voltaire",
+      "quote": "La casualidad no es, ni puede ser más que una causa ignorada de un efecto desconocido.",
+      "topics": ["filosofia", "casualidad", "suerte"]
+    },
+    {
+      "id": 527,
+      "author": "Voltaire",
+      "quote": "En el desprecio de la ambición se encuentra uno de los principios esenciales de la felicidad sobre la tierra.",
+      "topics": ["filosofia", "felicidad", "riqueza"]
+    },
+    {
+      "id": 528,
+      "author": "Voltaire",
+      "quote": "Hay que saber que no existe país sobre la tierra donde el amor no haya convertido a los amantes en poetas.",
+      "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 529,
+      "author": "Voltaire",
+      "quote": "Los celos cuando son furiosos, producen más crímenes que el interés y la ambición.",
+      "topics": ["filosofia", "envidia"]
+    },
+    {
+      "id": 530,
+      "author": "Voltaire",
+      "quote": "Una falsa ciencia hace ateos; una verdadera ciencia posterna al hombre ante la divinidad.",
+      "topics": ["filosofia", "dios", "ciencia"]
+    },
+    {
+      "id": 531,
+      "author": "Voltaire",
+      "quote": "Si los pobres empiezan a razonar todo está perdido.",
+      "topics": ["filosofia", "pobreza"]
+    },
+    {
+      "id": 532,
+      "author": "Voltaire",
+      "quote": "Los periódicos son los archivos de las bagatelas.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 533,
+      "author": "Voltaire",
+      "quote": "El deseo de agradar es al espíritu lo que el adorno a la belleza.",
+      "topics": ["filosofia", "belleza"]
+    },
+    {
+      "id": 534,
+      "author": "Voltaire",
+      "quote": "Conviene siempre esforzarse más en ser interesante que exacto; porque el espectador lo perdona todo menos el sopor.",
+      "topics": ["filosofia", "aburrimiento"]
+    },
+    {
+      "id": 535,
+      "author": "Voltaire",
+      "quote": "El hombre actual ha nacido o bien para vivir entre las convulsiones de la inquietud, o bien en el letargo del aburrimiento.",
+      "topics": ["filosofia", "aburrimiento"]
+    },
+    {
+      "id": 536,
+      "author": "Voltaire",
+      "quote": "El divorcio probablemente se remonta a la misma época que el matrimonio. Yo creo, sin embargo, que el matrimonio es algunas semanas más antiguo.",
+      "topics": ["filosofia", "divorcio", "matrimonio"]
+    },
+    {
+      "id": 537,
+      "author": "Voltaire",
+      "quote": "El hombre se precipita en el error con más rapidez que los ríos corren hacia el mar.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 538,
+      "author": "Voltaire",
+      "quote": "La naturaleza vuelve a los hombres elocuentes en las grandes pasiones y en los grandes intereses.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 539,
+      "author": "Voltaire",
+      "quote": "La pasión de dominar es la más terrible de todas las enfermedades del espíritu humano.",
+      "topics": ["filosofia", "dominacion"]
+    },
+    {
+      "id": 540,
+      "author": "Voltaire",
+      "quote": "Las falsedades no sólo se oponen a la verdad, sino que a menudo se contradicen entre sí.",
+      "topics": ["filosofia", "mentira"]
     }
   ]
 }
