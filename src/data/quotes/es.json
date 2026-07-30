@@ -3086,6 +3086,186 @@
       "author": "Jane Austen",
       "quote": "El egoísmo siempre debe ser perdonado, ya sabes, porque no hay esperanza de una cura.",
       "topics": ["filosofia", "egoismo"]
+    },
+    {
+      "id": 481,
+      "author": "Voltaire",
+      "quote": "Sólo es inmensamente rico aquel que sabe limitar sus deseos.",
+      "topics": ["filosofia", "riqueza"]
+    },
+    {
+      "id": 482,
+      "author": "Voltaire",
+      "quote": "Buscamos la felicidad, pero sin saber dónde, como los borrachos buscan su casa, sabiendo que tienen una.",
+      "topics": ["filosofia", "felicidad"]
+    },
+    {
+      "id": 483,
+      "author": "Voltaire",
+      "quote": "Proclamo en voz alta la libertad de pensamiento y muera el que no piense como yo.",
+      "topics": ["filosofia", "libertad"]
+    },
+    {
+      "id": 484,
+      "author": "Voltaire",
+      "quote": "El que revela el secreto de otros pasa por traidor; el que revela el propio secreto pasa por imbécil.",
+      "topics": ["filosofia", "privacidad"]
+    },
+    {
+      "id": 485,
+      "author": "Voltaire",
+      "quote": "El amor propio, al igual que el mecanismo de reproducción del genero humano, es necesario, nos causa placer y debemos ocultarlo.",
+      "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 486,
+      "author": "Voltaire",
+      "quote": "Azar es una palabra vacía de sentido, nada puede existir sin causa.",
+      "topics": ["filosofia", "azar"]
+    },
+    {
+      "id": 487,
+      "author": "Voltaire",
+      "quote": "Hay alguien tan inteligente que aprende de la experiencia de los demás.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 488,
+      "author": "Voltaire",
+      "quote": "Todo les sale bien a las personas de cáracter dulce y alegre.",
+      "topics": ["filosofia", "felicidad", "alegria"]
+    },
+    {
+      "id": 489,
+      "author": "Voltaire",
+      "quote": "Quienes creen que el dinero lo hace todo, terminan haciendo todo por dinero.",
+      "topics": ["filosofia", "riqueza", "dinero"]
+    },
+    {
+      "id": 490,
+      "author": "Voltaire",
+      "quote": "Yo no estoy de acuerdo con lo que usted dice, pero me pelearía para que usted pudiera decirlo.",
+      "topics": ["filosofia", "libertad"]
+    },
+    {
+      "id": 491,
+      "author": "Voltaire",
+      "quote": "Debe ser muy grande el placer que proporciona el gobernar, puesto que son tantos los que aspiran a hacerlo.",
+      "topics": ["filosofia", "gobierno"]
+    },
+    {
+      "id": 492,
+      "author": "Voltaire",
+      "quote": "La civilización no suprimió la barbarie; la perfeccionó e hizo más cruel y bárbara.",
+      "topics": ["filosofia", "barbarie", "sociedad"]
+    },
+    {
+      "id": 493,
+      "author": "Voltaire",
+      "quote": "Una de las supersticiones del ser humano es creer que la virginidad es una virtud.",
+      "topics": ["filosofia", "sexualidad", "virtud"]
+    },
+    {
+      "id": 494,
+      "author": "Voltaire",
+      "quote": "Cambia de placeres, pero no cambies de amigos.",
+      "topics": ["filosofia", "amistad"]
+    },
+    {
+      "id": 495,
+      "author": "Voltaire",
+      "quote": "Una colección de pensamientos debe ser una farmacia donde se encuentra remedio a todos los males.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 496,
+      "author": "Voltaire",
+      "quote": "La idiotez es una enfermedad extraordinaria, no es el enfermo el que sufre por ella, sino los demás.",
+      "topics": ["filosofia", "idiotez", "estupidez"]
+    },
+    {
+      "id": 497,
+      "author": "Voltaire",
+      "quote": "Una mujer amablemente estúpida es una bendición del cielo.",
+      "topics": ["filosofia", "mujer", "estupidez", "idiotez"]
+    },
+    {
+      "id": 498,
+      "author": "Voltaire",
+      "quote": "La esperanza es una virtud cristiana que consiste en despreciar todas las miserables cosas de este mundo en espera de disfrutar, en un país desconocido, deleites ignorados que los curas nos prometen a cambio de nuestro dinero.",
+      "topics": ["filosofia", "esperanza"]
+    },
+    {
+      "id": 499,
+      "author": "Voltaire",
+      "quote": "Aquel que es demasiado pequeño tiene un orgullo grande.",
+      "topics": ["filosofia", "orgullo"]
+    },
+    {
+      "id": 500,
+      "author": "Voltaire",
+      "quote": "Para conseguir la más pequeña fortuna, vale más decir cuatro palabras a la querida de un rey que escribir cien volúmenes.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 501,
+      "author": "Voltaire",
+      "quote": "Si Dios no existiera, sería necesario inventarlo.",
+      "topics": ["filosofia", "dios"]
+    },
+    {
+      "id": 502,
+      "author": "Voltaire",
+      "quote": "Yo, como don Quijote, me invento pasiones para ejercitarme.",
+      "topics": ["filosofia", "pasion"]
+    },
+    {
+      "id": 503,
+      "author": "Voltaire",
+      "quote": "Es peligroso tener razón cuando el gobierno está equivocado.",
+      "topics": ["filosofia", "gobierno"]
+    },
+    {
+      "id": 504,
+      "author": "Voltaire",
+      "quote": "Lo que llamamos casualidad no es ni puede ser sino la causa ignorada de un efecto desconocido.",
+      "topics": ["filosofia", "casualidad"]
+    },
+    {
+      "id": 505,
+      "author": "Voltaire",
+      "quote": "El verdadero valor consiste en saber sufrir.",
+      "topics": ["filosofia", "valor", "sufrimiento"]
+    },
+    {
+      "id": 506,
+      "author": "Voltaire",
+      "quote": "No estoy de acuerdo con lo que dices, pero defenderé con mi vida tu derecho a expresarlo.",
+      "topics": ["filosofia", "libertad", "derecho"]
+    },
+    {
+      "id": 507,
+      "author": "Voltaire",
+      "quote": "Detesto lo que escribes, pero daría mi vida para que pudieras seguir escribiéndolo.",
+      "topics": ["filosofia", "libertad"]
+    },
+    {
+      "id": 508,
+      "author": "Voltaire",
+      "quote": "El primero que comparó a la mujer con una flor, fue un poeta; el segundo, un imbécil.",
+      "topics": ["filosofia", "mujer"]
+    },
+    {
+      "id": 509,
+      "author": "Voltaire",
+      "quote": "Decimos una necedad y a fuerza de repetirla acabamos creyéndola.",
+      "topics": ["filosofia", "necedad", "estupidez", "idiotez"]
+    },
+    {
+      "id": 510,
+      "author": "Voltaire",
+      "quote": "El secreto de aburrir a la gente consiste en decirlo todo.",
+      "topics": ["filosofia", "aburrimiento"]
     }
   ]
 }
