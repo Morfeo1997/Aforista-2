@@ -3085,6 +3085,366 @@
       "author": "Jane Austen",
       "quote": "Selfishness must always be forgiven, you know, because there’s no hope of a cure.",
       "topics": ["filosofia", "egoismo"]
+    },
+    {
+      "id": 481,
+      "author": "Voltaire",
+      "quote": "Only those who know how to curb their desires are truly wealthy.",
+      "topics": ["filosofia", "riqueza"]
+    },
+    {
+      "id": 482,
+      "author": "Voltaire",
+      "quote": "We seek happiness, but without knowing where to look, just as drunkards search for their home, knowing full well they have one.",
+      "topics": ["filosofia", "felicidad"]
+    },
+    {
+      "id": 483,
+      "author": "Voltaire",
+      "quote": "I proclaim freedom of thought in a loud voice, and let anyone who does not think as I do die.",
+      "topics": ["filosofia", "libertad"]
+    },
+    {
+      "id": 484,
+      "author": "Voltaire",
+      "quote": "Anyone who reveals another person’s secret is regarded as a traitor; anyone who reveals their own secret is regarded as a fool.",
+      "topics": ["filosofia", "privacidad"]
+    },
+    {
+      "id": 485,
+      "author": "Voltaire",
+      "quote": "Self-love, just like the human reproductive process, is necessary; it gives us pleasure, and we must conceal it.",
+      "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 486,
+      "author": "Voltaire",
+      "quote": "‘Chance’ is a meaningless word; nothing can exist without a cause.",
+      "topics": ["filosofia", "azar"]
+    },
+    {
+      "id": 487,
+      "author": "Voltaire",
+      "quote": "There are people who are so clever that they learn from the experiences of others.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 488,
+      "author": "Voltaire",
+      "quote": "Everything goes well for people with a gentle and cheerful nature.",
+      "topics": ["filosofia", "felicidad", "alegria"]
+    },
+    {
+      "id": 489,
+      "author": "Voltaire",
+      "quote": "Those who believe that money can do anything end up doing anything for money.",
+      "topics": ["filosofia", "riqueza", "dinero"]
+    },
+    {
+      "id": 490,
+      "author": "Voltaire",
+      "quote": "I don’t agree with what you’re saying, but I’d fight to ensure you could say it.",
+      "topics": ["filosofia", "libertad"]
+    },
+    {
+      "id": 491,
+      "author": "Voltaire",
+      "quote": "The pleasure of governing must be immense, given that so many aspire to do so.",
+      "topics": ["filosofia", "gobierno"]
+    },
+    {
+      "id": 492,
+      "author": "Voltaire",
+      "quote": "Civilisation did not eradicate barbarism; it perfected it and made it more cruel and barbaric.",
+      "topics": ["filosofia", "barbarie", "sociedad"]
+    },
+    {
+      "id": 493,
+      "author": "Voltaire",
+      "quote": "One of the superstitions of humankind is the belief that virginity is a virtue.",
+      "topics": ["filosofia", "sexualidad", "virtud"]
+    },
+    {
+      "id": 494,
+      "author": "Voltaire",
+      "quote": "Change your hobbies, but don’t change your friends.",
+      "topics": ["filosofia", "amistad"]
+    },
+    {
+      "id": 495,
+      "author": "Voltaire",
+      "quote": "A collection of thoughts should be like a chemist’s, where a remedy can be found for every ailment.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 496,
+      "author": "Voltaire",
+      "quote": "Stupidity is an extraordinary affliction; it is not the sufferer who suffers from it, but everyone else.",
+      "topics": ["filosofia", "idiotez", "estupidez"]
+    },
+    {
+      "id": 497,
+      "author": "Voltaire",
+      "quote": "A sweetly daft woman is a godsend.",
+      "topics": ["filosofia", "mujer", "estupidez", "idiotez"]
+    },
+    {
+      "id": 498,
+      "author": "Voltaire",
+      "quote": "Hope is a Christian virtue that consists of turning our backs on all the wretched things of this world whilst awaiting the chance to enjoy, in an unknown land, the unknown delights that priests promise us in exchange for our money.",
+      "topics": ["filosofia", "esperanza"]
+    },
+    {
+      "id": 499,
+      "author": "Voltaire",
+      "quote": "Those who are too small have a great deal of pride.",
+      "topics": ["filosofia", "orgullo"]
+    },
+    {
+      "id": 500,
+      "author": "Voltaire",
+      "quote": "To amass even the smallest fortune, it is better to say four words to a king’s beloved than to write a hundred volumes.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 501,
+      "author": "Voltaire",
+      "quote": "If God did not exist, we would have to invent him.",
+      "topics": ["filosofia", "dios"]
+    },
+    {
+      "id": 502,
+      "author": "Voltaire",
+      "quote": "Like Don Quixote, I invent passions for myself as a form of exercise.",
+      "topics": ["filosofia", "pasion"]
+    },
+    {
+      "id": 503,
+      "author": "Voltaire",
+      "quote": "It is dangerous to be right when the government is wrong.",
+      "topics": ["filosofia", "gobierno"]
+    },
+    {
+      "id": 504,
+      "author": "Voltaire",
+      "quote": "What we call chance is, and can only be, the unknown cause of an unknown effect.",
+      "topics": ["filosofia", "casualidad"]
+    },
+    {
+      "id": 505,
+      "author": "Voltaire",
+      "quote": "True value lies in knowing how to endure suffering.",
+      "topics": ["filosofia", "valor", "sufrimiento"]
+    },
+    {
+      "id": 506,
+      "author": "Voltaire",
+      "quote": "I don’t agree with what you’re saying, but I’ll defend your right to express it with my life.",
+      "topics": ["filosofia", "libertad", "derecho"]
+    },
+    {
+      "id": 507,
+      "author": "Voltaire",
+      "quote": "I hate what you write, but I’d give my life so that you could carry on writing it.",
+      "topics": ["filosofia", "libertad"]
+    },
+    {
+      "id": 508,
+      "author": "Voltaire",
+      "quote": "The first person to compare a woman to a flower was a poet; the second was a fool.",
+      "topics": ["filosofia", "mujer"]
+    },
+    {
+      "id": 509,
+      "author": "Voltaire",
+      "quote": "We say something silly, and by repeating it over and over again, we end up believing it.",
+      "topics": ["filosofia", "necedad", "estupidez", "idiotez"]
+    },
+    {
+      "id": 510,
+      "author": "Voltaire",
+      "quote": "The secret to boring people is to say everything.",
+      "topics": ["filosofia", "aburrimiento"]
+    },
+    {
+      "id": 511,
+      "author": "Voltaire",
+      "quote": "Si alguna vez, ve saltar por la ventana a un banquero suizo, salte detrás. Seguro que hay algo que ganar.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 512,
+      "author": "Voltaire",
+      "quote": "Suerte es lo que sucede cuando la preparación y la oportunidad se encuentran y fusionan.",
+      "topics": ["filosofia", "suerte"]
+    },
+    {
+      "id": 513,
+      "author": "Voltaire",
+      "quote": "La ignorancia afirma o niega rotundamente; la ciencia duda.",
+      "topics": ["filosofia", "ignorancia"]
+    },
+    {
+      "id": 514,
+      "author": "Voltaire",
+      "quote": "Quien se venga después de la victoria es indigno de vencer.",
+      "topics": ["filosofia", "venganza"]
+    },
+    {
+      "id": 515,
+      "author": "Voltaire",
+      "quote": "El sentido común no es nada común.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 516,
+      "author": "Voltaire",
+      "quote": "Una palabra mal colocada estropea el más bello pensamiento.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 517,
+      "author": "Voltaire",
+      "quote": "La escritura es la pintura de la voz.",
+      "topics": ["filosofia", "escritura"]
+    },
+    {
+      "id": 518,
+      "author": "Voltaire",
+      "quote": "Cuando se trata de dinero todos somos de la misma religión.",
+      "topics": ["filosofia", "dinero", "riqueza"]
+    },
+    {
+      "id": 519,
+      "author": "Voltaire",
+      "quote": "Lo maravilloso de la guerra es que cada jefe de asesinos hace bendecir sus banderas e invocar solemnemente a Dios antes de lanzarse a exterminar a su prójimo.",
+      "topics": ["filosofia", "guerra", "dios"]
+    },
+    {
+      "id": 520,
+      "author": "Voltaire",
+      "quote": "La superstición es a la religión lo que la astrología es a la astronomía, la hija loca de una madre cuerda..",
+      "topics": ["filosofia", "religión", "astrologia"]
+    },
+    {
+      "id": 521,
+      "author": "Voltaire",
+      "quote": "La religión mal entendida es una fiebre que puede terminar en delirio.",
+      "topics": ["filosofia", "religión"]
+    },
+    {
+      "id": 522,
+      "author": "Voltaire",
+      "quote": "La parte más filosófica de las historia es hacer conocer las tonterías cometidas por los hombres.",
+      "topics": ["filosofia", "estupidez"]
+    },
+    {
+      "id": 523,
+      "author": "Voltaire",
+      "quote": "Claro que el café es un veneno lento; hace cuarenta años que lo bebo.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 524,
+      "author": "Voltaire",
+      "quote": "Trabajemos sin razonar, es el único medio de hacer la vida soportable.",
+      "topics": ["filosofia", "trabajo"]
+    },
+    {
+      "id": 525,
+      "author": "Voltaire",
+      "quote": "La democracia sólo parece adecuada para un país muy pequeño.",
+      "topics": ["filosofia", "democracia"]
+    },
+    {
+      "id": 526,
+      "author": "Voltaire",
+      "quote": "La casualidad no es, ni puede ser más que una causa ignorada de un efecto desconocido.",
+      "topics": ["filosofia", "casualidad", "suerte"]
+    },
+    {
+      "id": 527,
+      "author": "Voltaire",
+      "quote": "En el desprecio de la ambición se encuentra uno de los principios esenciales de la felicidad sobre la tierra.",
+      "topics": ["filosofia", "felicidad", "riqueza"]
+    },
+    {
+      "id": 528,
+      "author": "Voltaire",
+      "quote": "Hay que saber que no existe país sobre la tierra donde el amor no haya convertido a los amantes en poetas.",
+      "topics": ["filosofia", "amor"]
+    },
+    {
+      "id": 529,
+      "author": "Voltaire",
+      "quote": "Los celos cuando son furiosos, producen más crímenes que el interés y la ambición.",
+      "topics": ["filosofia", "envidia"]
+    },
+    {
+      "id": 530,
+      "author": "Voltaire",
+      "quote": "Una falsa ciencia hace ateos; una verdadera ciencia posterna al hombre ante la divinidad.",
+      "topics": ["filosofia", "dios", "ciencia"]
+    },
+    {
+      "id": 531,
+      "author": "Voltaire",
+      "quote": "Si los pobres empiezan a razonar todo está perdido.",
+      "topics": ["filosofia", "pobreza"]
+    },
+    {
+      "id": 532,
+      "author": "Voltaire",
+      "quote": "Los periódicos son los archivos de las bagatelas.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 533,
+      "author": "Voltaire",
+      "quote": "El deseo de agradar es al espíritu lo que el adorno a la belleza.",
+      "topics": ["filosofia", "belleza"]
+    },
+    {
+      "id": 534,
+      "author": "Voltaire",
+      "quote": "Conviene siempre esforzarse más en ser interesante que exacto; porque el espectador lo perdona todo menos el sopor.",
+      "topics": ["filosofia", "aburrimiento"]
+    },
+    {
+      "id": 535,
+      "author": "Voltaire",
+      "quote": "El hombre actual ha nacido o bien para vivir entre las convulsiones de la inquietud, o bien en el letargo del aburrimiento.",
+      "topics": ["filosofia", "aburrimiento"]
+    },
+    {
+      "id": 536,
+      "author": "Voltaire",
+      "quote": "El divorcio probablemente se remonta a la misma época que el matrimonio. Yo creo, sin embargo, que el matrimonio es algunas semanas más antiguo.",
+      "topics": ["filosofia", "divorcio", "matrimonio"]
+    },
+    {
+      "id": 537,
+      "author": "Voltaire",
+      "quote": "El hombre se precipita en el error con más rapidez que los ríos corren hacia el mar.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 538,
+      "author": "Voltaire",
+      "quote": "La naturaleza vuelve a los hombres elocuentes en las grandes pasiones y en los grandes intereses.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 539,
+      "author": "Voltaire",
+      "quote": "La pasión de dominar es la más terrible de todas las enfermedades del espíritu humano.",
+      "topics": ["filosofia", "dominacion"]
+    },
+    {
+      "id": 540,
+      "author": "Voltaire",
+      "quote": "Las falsedades no sólo se oponen a la verdad, sino que a menudo se contradicen entre sí.",
+      "topics": ["filosofia", "mentira"]
     }
   ]
 }
