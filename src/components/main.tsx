@@ -81,6 +81,10 @@ export default function Main() {
           <div ref={quoteRef} className="w-full">
             {currentQuote ? (
               <div className="space-y-6">
+                <hr className="flex w-8/10 mx-auto" 
+                style={{
+            		textColor: "var(--border-color)",
+          		}}/>
                 <p
                   className="text-2xl leading-relaxed md:text-4xl"
                   style={{
@@ -89,6 +93,10 @@ export default function Main() {
                 >
                   “{currentQuote.quote}”
                 </p>
+                <hr className="flex w-6/10 mx-auto" 
+                style={{
+            		textColor: "var(--border-color)",
+          		}}/>
 
                 <div className="space-y-2">
                   <p
@@ -143,7 +151,7 @@ export default function Main() {
           <select
             value={selectedTopic}
             onChange={(e) => setSelectedTopic(e.target.value)}
-            className="rounded-lg border px-4 py-3"
+            className="rounded-lg border px-4 py-3 cursor-pointer hover:opacity-80 transition-all duration-200"
             style={{
               color: "var(--primary-text)",
               backgroundColor: "var(--surface-color)",
@@ -176,7 +184,7 @@ export default function Main() {
 
           <button
             onClick={generateQuote}
-            className="rounded-2xl px-8 py-4 text-lg font-medium text-white transition-all duration-300 hover:scale-[1.02] active:scale-95"
+            className="rounded-2xl px-8 py-4 text-lg font-medium text-white transition-all duration-300 hover:scale-[1.02] active:scale-95 hover:opacity-80 cursor-pointer"
             style={{
               background: "var(--accent-color)",
             }}
