@@ -3446,6 +3446,186 @@
       "author": "Voltaire",
       "quote": "Las falsedades no sólo se oponen a la verdad, sino que a menudo se contradicen entre sí.",
       "topics": ["filosofia", "mentira"]
+    },
+    {
+      "id": 541,
+      "author": "Rabindranath Tagore",
+      "quote": "Convertid un árbol en leña y podrá arder para vosotros; pero ya no producirá flores ni frutos.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 542,
+      "author": "Albert Schweitzer",
+      "quote": "Vivimos en una época peligrosa. El ser humano ha aprendido a dominar la naturaleza mucho antes de haber aprendido a dominarse a sí mismo.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 543,
+      "author": "Albert Einstein",
+      "quote": "Estoy satisfecho con el misterio de la eternidad de la vida y con el conocimiento, el sentido, de la maravillosa estructura de la existencia. Con el humilde intento de comprender aunque más no sea una porción diminuta de la Razón que se manifiesta en la naturaleza.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 544,
+      "author": "Leonardo Da Vinci",
+      "quote": "La naturaleza benigna provee de manera que en cualquier parte halles algo que aprender.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 545,
+      "author": "T. Reik",
+      "quote": "La naturaleza ha preparado mejor a las mujeres para ser madres y esposas, que a los hombres para ser padres y maridos. Los hombres tienen que improvisar.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 546,
+      "author": "Marqués de Sade",
+      "quote": "La primera ley que me indica la naturaleza es deleitarme a costa de quien sea.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 547,
+      "author": "Galileo Galilei",
+      "quote": "El gran libro de la naturaleza está escrito en símbolos matemáticos.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 548,
+      "author": "Blaise Pascal",
+      "quote": "La naturaleza tiene perfecciones para demostrar que es imagen de Dios e imperfecciones para probar que sólo es una imagen.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 549,
+      "author": "Victor Hugo",
+      "quote": "Produce una inmensa tristeza pensar que la naturaleza habla mientras el género humano no escucha.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 550,
+      "author": "William Shakespeare",
+      "quote": "Los actos contra la naturaleza engendran disturbios contra la naturaleza.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 551,
+      "author": "Emerson",
+      "quote": "La creación de mil bosques está contenida en una bellota.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 552,
+      "author": "Cicerón",
+      "quote": "La naturaleza misma ha impreso en la mente de todos la idea de un Dios.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 553,
+      "author": "Cicerón",
+      "quote": "La naturaleza ha puesto en nuestras mentes un insaciable deseo de ver la verdad.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 554,
+      "author": "Blas Infante",
+      "quote": "La naturaleza señala a los soldados de la vida el lugar en donde han de luchar por ella.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 555,
+      "author": "George Sand",
+      "quote": "La naturaleza es una obra de arte, pero Dios es el único artista que existe, y el hombre no es más que un obrero de mal gusto.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 556,
+      "author": "Alexander Pope",
+      "quote": "Toda la naturaleza es como un arte desconocido del hombre.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 557,
+      "author": "Cicerón",
+      "quote": "La naturaleza quiere que la amistad sea auxiliadora de virtudes, mas no compañera de vicios.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 558,
+      "author": "Tácito",
+      "quote": "La naturaleza concede libertad hasta a los animales.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 559,
+      "author": "Sir Francis Bacon",
+      "quote": "Sólo obedeciéndola se doblega a la naturaleza.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 560,
+      "author": "Gaspar Melchor de Jovellanos",
+      "quote": "Amigo mío, la Naturaleza ha dado a cada hombre un estilo, como una fisonomía y un carácter. El hombre puede cultivarla, pulirla, mejorarla, pero cambiarla, no.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 561,
+      "author": "Thomas Hobbes",
+      "quote": "En la naturaleza del hombre encontramos tres causas principales de querella: la competencia, la desconfianza y la gloria.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 562,
+      "author": "Georg Simmel",
+      "quote": "En la naturaleza las cosas están mucho más separadas que las almas.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 563,
+      "author": "Averroes",
+      "quote": "En la naturaleza nada hay superfluo.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 564,
+      "author": "Sir Francis Bacon",
+      "quote": "En lo que acción se refiere, el hombre no puede hacer otra cosa que aproximar o separar los cuerpos naturales; lo demás lo realiza la naturaleza.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 565,
+      "author": "Demócrito de Abdera",
+      "quote": "La naturaleza se basta así misma; por esto vence con lo menos y con lo seguro, las demasías de la esperanza.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 566,
+      "author": "Isadora Duncan",
+      "quote": "Lo que es contrario a la naturaleza no es bello.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 567,
+      "author": "Hipócrates",
+      "quote": "Ni la sociedad, ni el hombre, ni ninguna otra cosa deben sobrepasar para ser buenos los límites establecidos por la naturaleza.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 568,
+      "author": "Georges Braque",
+      "quote": "No deseo copiar a la naturaleza. Me interesa más ponerme a la par de ella.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 569,
+      "author": "Auguste Rodin",
+      "quote": "En la naturaleza están todos los estilos futuros.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 570,
+      "author": "Jacques Yves Cousteau",
+      "quote": "Durante la mayor parte de la historia, el hombre ha tenido que luchar contra la naturaleza para sobrevivir; en este siglo empieza a darse cuenta de que, para sobrevivir, debe protegerla.",
+      "topics": ["naturaleza"]
     }
   ]
 }
