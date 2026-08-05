@@ -3626,6 +3626,186 @@
       "author": "Jacques Yves Cousteau",
       "quote": "Durante la mayor parte de la historia, el hombre ha tenido que luchar contra la naturaleza para sobrevivir; en este siglo empieza a darse cuenta de que, para sobrevivir, debe protegerla.",
       "topics": ["naturaleza"]
+    },
+    {
+      "id": 571,
+      "author": "David Hume",
+      "quote": "El más dulce e inofensivo camino de la vida conduce a través de las avenidas de la ciencia y del saber.",
+      "topics": ["filosofia", "sabiduria"]
+    },
+    {
+      "id": 572,
+      "author": "David Hume",
+      "quote": "Todo el mundo se queja de su mala memoria; nadie de su poco entendimiento.",
+      "topics": ["filosofia", "memoria", "comprension"]
+    },
+    {
+      "id": 573,
+      "author": "David Hume",
+      "quote": "Ningún orden, ninguna posición permanece nunca inalterada ni un momento.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 574,
+      "author": "David Hume",
+      "quote": "Nada es más libre que la imaginación humana.",
+      "topics": ["filosofia", "libertad", "imaginación"]
+    },
+    {
+      "id": 575,
+      "author": "David Hume",
+      "quote": "El hombre es el mayor enemigo del hombre.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 576,
+      "author": "David Hume",
+      "quote": "Sé filósofo… pero en medio de toda tu filosofía, sé hombre.",
+      "topics": ["filosofia", "libertad"]
+    },
+    {
+      "id": 577,
+      "author": "David Hume",
+      "quote": "El trabajo y la pobreza, tan aborrecidos por todo el mundo, son el destino seguro de la gran mayoría.",
+      "topics": ["filosofia", "sociedad"]
+    },
+    {
+      "id": 578,
+      "author": "David Hume",
+      "quote": "Cada solución da pie a una nueva pregunta…",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 579,
+      "author": "David Hume",
+      "quote": "La razón es, y sólo debe ser, esclava de las pasiones.",
+      "topics": ["filosofia", "razón", "pasion"]
+    },
+    {
+      "id": 580,
+      "author": "David Hume",
+      "quote": "Toda cualidad del espíritu que es útil o agradable a la propia persona o a otras, proporciona un placer al espectador, suscita su estimación y es admitida bajo la honrosa denominación de virtud o mérito.",
+      "topics": ["filosofia", "bondad"]
+    },
+    {
+      "id": 581,
+      "author": "David Hume",
+      "quote": "Afirmaciones extraordinarias requieren pruebas extraordinarias.",
+      "topics": ["filosofia", "sabiduria", "razón"]
+    },
+    {
+      "id": 582,
+      "author": "David Hume",
+      "quote": "Podemos cambiar el nombre de las cosas, pero su naturaleza y acción sobre la mente nunca cambian.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 583,
+      "author": "David Hume",
+      "quote": "El hombre es un ser racional y continuamente está en busca de la felicidad que espera alcanzar mediante la gratificación de alguna pasión o sentimiento. Rara vez actúa, habla o piensa sin una finalidad o intención.",
+      "topics": ["filosofia", "razón", "felicidad"]
+    },
+    {
+      "id": 584,
+      "author": "David Hume",
+      "quote": "Barbarie y arbitrariedad: tales son los atributos, aunque se los disimule con otros nombres, que constituyen, según podemos ver en todas partes, el carácter dominante de la Deidad para las religiones populares.",
+      "topics": ["filosofia", "barbarie"]
+    },
+    {
+      "id": 585,
+      "author": "David Hume",
+      "quote": "La costumbre es, pues, gran guía de la vida humana.",
+      "topics": ["filosofia", "vida"]
+    },
+    {
+      "id": 586,
+      "author": "David Hume",
+      "quote": "Nada resulta más sorprendente para el que examina los asuntos humanos con mirada filosófica que la facilidad con que la mayoría es gobernada por la minoría.",
+      "topics": ["filosofia"]
+    },
+    {
+      "id": 587,
+      "author": "David Hume",
+      "quote": "La belleza de las cosas existe en el espíritu de quien las contempla.",
+      "topics": ["filosofia", "belleza"]
+    },
+    {
+      "id": 588,
+      "author": "David Hume",
+      "quote": "Aunque no hubiera azar en este mundo, nuestra ignorancia de la causa real de un suceso tendría la misma influencia sobre el entendimiento y engendraría un tipo de creencia u opinión similar.",
+      "topics": ["filosofia", "creencia", "azar"]
+    },
+    {
+      "id": 589,
+      "author": "David Hume",
+      "quote": "Nuestra vida es demasiado corta para sondear abismos tan profundos.",
+      "topics": ["filosofia", "vida"]
+    },
+    {
+      "id": 590,
+      "author": "David Hume",
+      "quote": "La naturaleza mantendrá siempre sus derechos y, finalmente, prevalecerá sobre cualquier razonamiento abstracto.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 591,
+      "author": "David Hume",
+      "quote": "En general hay un grado de duda, de cautela y modestia que, en toda clase de investigaciones, debe acompañar siempre al razonador cabal.",
+      "topics": ["filosofia", "razón"]
+    },
+    {
+      "id": 592,
+      "author": "David Hume",
+      "quote": "Cuando das un paso más allá del sistema del mundo, lo único que haces es excitar un humor inquisitivo que no es posible satisfacer jamás.",
+      "topics": ["filosofia", "pasion"]
+    },
+    {
+      "id": 593,
+      "author": "David Hume",
+      "quote": "Es evidente que hay un principio de conexión entre los distintos pensamientos o ideas de la mente y que, al presentarse a la memoria o a la imaginación, unos introducen a otros con un cierto grado de orden y regularidad.",
+      "topics": ["filosofia", "razón"]
+    },
+    {
+      "id": 594,
+      "author": "David Hume",
+      "quote": "El razonar riguroso y preciso es el único remedio universal válido para todas las personas y disposiciones.",
+      "topics": ["filosofia", "razón"]
+    },
+    {
+      "id": 595,
+      "author": "David Hume",
+      "quote": "La función propia de la religión es regular el corazón de los hombres, humanizar su conducta, infundir el espíritu de templanza, orden y obediencia.",
+      "topics": ["filosofia", "religión"]
+    },
+    {
+      "id": 596,
+      "author": "David Hume",
+      "quote": "Debo reconocer que un hombre que concluye que un argumento no tiene realidad, porque se le ha escapado a su investigación, es culpable de imperdonable arrogancia.",
+      "topics": ["filosofia", "mentira", "razón"]
+    },
+    {
+      "id": 597,
+      "author": "David Hume",
+      "quote": "Si juzgamos por nuestra experiencia limitada e imperfecta, la generación tiene algunas ventajas sobre la razón; porque todos los días vemos a la última provenir de la primera, pero nunca a la primera de la última.",
+      "topics": ["filosofia", "razón"]
+    },
+    {
+      "id": 598,
+      "author": "David Hume",
+      "quote": "En pocas palabras, si no partiésemos de un hecho presente en la memoria y en los sentidos, nuestros razonamientos serían meramente hipotéticos…",
+      "topics": ["filosofia", "memoria", "razón"]
+    },
+    {
+      "id": 599,
+      "author": "David Hume",
+      "quote": "Las acciones de un hombre no sólo son interdependientes en cualquier período limitado de su vida, sino durante toda su duración, de la cuna a la tumba.",
+      "topics": ["filosofia", "catarsis"]
+    },
+    {
+      "id": 600,
+      "author": "David Hume",
+      "quote": "Sólo por experiencia conocemos el influjo de nuestra voluntad.",
+      "topics": ["filosofia", "voluntad"]
     }
   ]
 }
