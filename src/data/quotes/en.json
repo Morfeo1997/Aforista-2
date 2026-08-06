@@ -3445,6 +3445,186 @@
       "author": "Voltaire",
       "quote": "Falsehoods are not only opposed to the truth, but they often contradict one another.",
       "topics": ["filosofia", "mentira"]
+    },
+    {
+      "id": 541,
+      "author": "Rabindranath Tagore",
+      "quote": "Turn a tree into firewood and it will burn for you; but it will no longer bear flowers or fruit.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 542,
+      "author": "Albert Schweitzer",
+      "quote": "We live in dangerous times. Human beings have learnt to master nature long before they have learnt to master themselves.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 543,
+      "author": "Albert Einstein",
+      "quote": "I am content with the mystery of the eternity of life and with the knowledge and meaning of the marvellous structure of existence. With the humble endeavour to understand even if only a tiny fraction of the Reason that manifests itself in nature.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 544,
+      "author": "Leonardo Da Vinci",
+      "quote": "Nature is so kind that wherever you go, there is always something to learn.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 545,
+      "author": "T. Reik",
+      "quote": "Nature has better equipped women to be mothers and wives than it has men to be fathers and husbands. Men have to make do.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 546,
+      "author": "Marqués de Sade",
+      "quote": "The first law that nature dictates to me is to take pleasure at anyone’s expense.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 547,
+      "author": "Galileo Galilei",
+      "quote": "The great book of nature is written in mathematical symbols.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 548,
+      "author": "Blaise Pascal",
+      "quote": "Nature possesses perfections to demonstrate that it is the image of God, and imperfections to prove that it is merely an image.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 549,
+      "author": "Victor Hugo",
+      "quote": "It is deeply saddening to think that nature speaks whilst humankind does not listen.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 550,
+      "author": "William Shakespeare",
+      "quote": "Acts against nature give rise to disturbances against nature.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 551,
+      "author": "Emerson",
+      "quote": "The creation of a thousand forests is contained within a single acorn.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 552,
+      "author": "Cicerón",
+      "quote": "Nature itself has imprinted the idea of a God on everyone’s mind.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 553,
+      "author": "Cicerón",
+      "quote": "Nature has instilled in our minds an insatiable desire to see the truth.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 554,
+      "author": "Blas Infante",
+      "quote": "Nature shows the soldiers of life where they must fight for it.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 555,
+      "author": "George Sand",
+      "quote": "Nature is a work of art, but God is the only artist there is, and man is nothing more than a labourer with no taste.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 556,
+      "author": "Alexander Pope",
+      "quote": "The whole of nature is like a form of art unknown to man.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 557,
+      "author": "Cicerón",
+      "quote": "Nature intends friendship to be a source of virtue, but not an accomplice to vice.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 558,
+      "author": "Tácito",
+      "quote": "Nature grants freedom even to animals.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 559,
+      "author": "Sir Francis Bacon",
+      "quote": "It is only by obeying it that nature can be subdued.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 560,
+      "author": "Gaspar Melchor de Jovellanos",
+      "quote": "My friend, Nature has given every man his own style, just as she has given him his own features and character. A man can cultivate it, refine it and improve it, but he cannot change it.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 561,
+      "author": "Thomas Hobbes",
+      "quote": "In human nature we find three main causes of strife: competition, mistrust and glory.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 562,
+      "author": "Georg Simmel",
+      "quote": "In nature, things are much further apart than souls.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 563,
+      "author": "Averroes",
+      "quote": "In nature, nothing is superfluous.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 564,
+      "author": "Sir Francis Bacon",
+      "quote": "As far as action is concerned, man can do nothing other than bring natural bodies closer together or push them apart; the rest is done by nature.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 565,
+      "author": "Demócrito de Abdera",
+      "quote": "Nature is self-sufficient; that is why, with the least effort and with certainty, it overcomes the excesses of hope.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 566,
+      "author": "Isadora Duncan",
+      "quote": "That which is contrary to nature is not beautiful.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 567,
+      "author": "Hipócrates",
+      "quote": "Neither society, nor man, nor anything else should, in order to be good, overstep the limits set by nature.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 568,
+      "author": "Georges Braque",
+      "quote": "I don’t want to copy nature. I’m more interested in standing on an equal footing with it.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 569,
+      "author": "Auguste Rodin",
+      "quote": "All future styles can be found in nature.",
+      "topics": ["naturaleza"]
+    },
+    {
+      "id": 570,
+      "author": "Jacques Yves Cousteau",
+      "quote": "For most of history, humankind has had to struggle against nature in order to survive; in this century, it is beginning to realise that, in order to survive, it must protect nature.",
+      "topics": ["naturaleza"]
     }
   ]
 }
