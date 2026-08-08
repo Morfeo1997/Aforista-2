@@ -100,7 +100,7 @@ export default function Main() {
 
                 <div className="space-y-2">
                   <p
-                    className="text-lg md:text-xl"
+                    className="text-lg md:text-3xl"
                     style={{
                       color: "var(--secondary-text)",
                     }}
